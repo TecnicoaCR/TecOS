@@ -1,7 +1,9 @@
 /* Author: TecnicoaCR */
 
  body {
-  background: linear-gradient(#696969, #F5F5F5);
+  /*background: linear-gradient(#696969, #F5F5F5);*/
+  background-size: cover;
+  background-image: url("/assets/img/camera_font.jpg");
   margin: 0;
   padding: 0;
   font-family: "Times New Roman", Times, serif;
@@ -15,6 +17,7 @@ header {
   text-align: left;
   width: 100%;
   padding: 4px 0;
+  position:  initial;
 }
 
 header a {
@@ -49,6 +52,7 @@ form {
   margin-bottom: 50px;
   margin-top: 30px;
   text-shadow: 5px 2px 7px grey;
+  position:  static;
 }
 
 h2 {
@@ -130,8 +134,10 @@ input[type="button"]:active { <!-- al momento de dar clic al ingresar -->
 
 footer {
   background: #696969;
-  display:inline-grid;
-  border-bottom: px solid #eee;
+  position: absolute;
+  bottom: 0;
+  height: 40px;
+  border-bottom: 1px solid #eee;
   margin-top: 100px;
   text-align: center;
   width: 100%;

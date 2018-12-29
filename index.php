@@ -9,14 +9,15 @@
     <body>
         <!-- ---------- HEADER ---------- -->
         <?php include 'assets/partials/header.php'?>
-        <form action="apps/MyCCTV/login.php" method="get">
-            Login <input type="submit" value="Ingresar"/>
-        </form>
         
-        <form action="sendEmail.php" method="get">
-            EmailTest<input type="submit" value="Ingresar"/>
+        <div class="container">
+        <form action="apps/MyCCTV/login.php" method="get">
+            <div class="row">
+                MyCCTV <input type="submit" value="Ingresar">
+            </div>
         </form>
-
+        </div>
+          
 	<!-- -------- FOOTER -------- -->
 	<?php include 'assets/partials/footer.php'?>
     </body>
