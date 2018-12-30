@@ -1,6 +1,6 @@
 <?php
 
-	$mysqli=new mysqli("localhost","root","AN3kbzshMq0iUQrx","mycctv"); //servidor, usuario de base de datos, contraseña del usuario, nombre de base de datos
+    $mysqli = new mysqli("sql9.freesqldatabase.com:3306","sql9271986","cuTxxQAeQK","sql9271986"); // Conexión Remota a FreeSQL
 
 	if(mysqli_connect_errno()){
 		echo 'Conexion Fallida : ', mysqli_connect_error();
