@@ -62,7 +62,8 @@ CREATE TABLE `tipo_usuario` (
 
 INSERT INTO `tipo_usuario` (`id_tipo`, `tipo`) VALUES
 (1, 'Administrador'),
-(2, 'Usuario');
+(2, 'Usuario'),
+(3, 'Auditor');
 
 -- --------------------------------------------------------
 

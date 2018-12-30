@@ -10,14 +10,13 @@
 
 	if (!empty($_POST)) {
 		// code...
-		$usuario = $mysqli->real_escape_string($_POST['usuario']);
-		$password = $mysqli->real_escape_string($_POST['password']);
+		$usuario = $_POST['usuario'];
+		$password = $_POST['password'];
 
 		if(isNullLogin($usuario, $password)){
 			$errors[] = 'Debe de llenar todos los campos';
-
 		}
-		$errors[] =	login($usuario, $password);
+		$errors[] = login($usuario, $password);
 	}
 
  ?>
