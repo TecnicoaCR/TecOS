@@ -77,7 +77,6 @@
                                     <div class="row table-responsive">
                                       <table class="table table-striped">
                                         <thead>
-                                          <th>#</th>
                                           <th>Nombre</th>
                                           <th>IP</th>
                                           <th>Puerto</th>
@@ -89,7 +88,6 @@
                                         <tbody>
                                           <?php while ($row = $resultado->fetch_array(MYSQLI_ASSOC)) { ?>
                                             <tr>
-                                              <td><?php echo $row['id_device']; ?></td>
                                               <td><?php echo $row['name']; ?></td>
                                               <td><?php echo $row['ip']; ?></td>
                                               <td><?php echo $row['port']; ?></td>

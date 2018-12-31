@@ -3,7 +3,7 @@
     // $Author: 'TecnicoaCR';
     require "assets/sessionconfirm.php";
     $where = "";
-    $sql = "SELECT * FROM devices";
+    $sql = "SELECT * FROM devices WHERE id_usuario = '$id_usuario' ";
     $resultado = $mysqli->query($sql);
 ?>
 <!DOCTYPE html>
@@ -48,7 +48,6 @@
                                             <div class="row table-responsive">
                                                 <table class="table table-striped">
                                                     <thead>
-                                                        <th>#</th>
                                                         <th>Nombre</th>
                                                         <th>IP</th>
                                                         <th>Puerto</th>
@@ -57,7 +56,6 @@
                                                     <tbody>
                                                         <?php while ($row = $resultado->fetch_array(MYSQLI_ASSOC)) { ?>
                                                             <tr>
-                                                                <td><?php echo $row['id_device']; ?></td>
                                                                 <td><?php echo $row['name']; ?></td>
                                                                 <td><?php echo $row['ip']; ?></td>
                                                                 <td><?php echo $row['port']; ?></td>

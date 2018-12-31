@@ -12,8 +12,7 @@
     $password = $mysqli->real_escape_string($_POST['password']);
 
     $name_user = $row['nombre'];
-    $email_user = $row['email'];
-
+    
     if (isNull($name, $ip, $port, $user,$password)){
       $errors[] = "Todos los datos son necesarios.";
     }

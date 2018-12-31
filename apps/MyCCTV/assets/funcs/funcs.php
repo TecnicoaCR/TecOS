@@ -144,8 +144,8 @@
 		echo "Mensaje enviado";
 		return true;
 	} else {
-		echo "Mensaje enviado";
-		return false;
+		echo "Mensaje No enviado";
+                return false;
 	}
 }
 
