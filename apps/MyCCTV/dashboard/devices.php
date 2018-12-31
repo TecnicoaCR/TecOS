@@ -5,7 +5,7 @@
 
   $where = "";
 
-  $sql = "SELECT * FROM devices";
+  $sql = "SELECT * FROM devices WHERE id_usuario = '$id_usuario' ";
   $resultado = $mysqli->query($sql);
 
  ?>

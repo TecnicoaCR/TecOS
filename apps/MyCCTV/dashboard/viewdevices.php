@@ -59,7 +59,7 @@
                                                                 <td><?php echo $row['name']; ?></td>
                                                                 <td><?php echo $row['ip']; ?></td>
                                                                 <td><?php echo $row['port']; ?></td>
-                                                                <td><a href="http://<?php echo $row['ip'];?>:<?php echo $row['port'];?>" class="btn btn-info" target="_blank">
+                                                                <td><a href="http://<?php echo $row['ip']; ?>:<?php echo $row['port']; ?>" class="btn btn-info" target="_blank">
                                                                     <span class="glyphicon glyphicon-facetime-video"></span> Ver CCTV </a></td>
                                                             </tr>
                                                         <?php } ?>

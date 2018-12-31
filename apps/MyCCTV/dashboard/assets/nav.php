@@ -138,7 +138,7 @@
             <li>
                 <a href="viewdevices.php"><i class="fa fa-fw fa-video-camera"></i> Ver MyCCTV</a>
             </li>
-            <?php if($_SESSION['tipo_usuario']==1) { ?>
+           
             <li>
                 <a href="devices.php"><i class="fa fa-fw fa-upload"></i> Configuración DVR</a>
             </li>
@@ -146,7 +146,7 @@
             <li>
                 <a href="#"><i class="fa fa-fw fa-user"></i> Gestionar Usuarios</a>
             </li>
-
+            <?php if($_SESSION['tipo_usuario']==1) { ?>
             <li>
                 <a href="#"><i class="fa fa-fw fa-bar-chart-o"></i> Estadísticas</a>
             </li>-->
