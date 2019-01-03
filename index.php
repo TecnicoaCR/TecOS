@@ -11,7 +11,7 @@
         <!-- ---------- NAVBAR ---------- -->
         <?php include 'views/nav.php'?>
         <!-- ---------- HEADER ---------- -->
-        <?php include 'views/header.php'?>
+        <?php include 'views/Header.php'?>
                
         <section class="bg-primary" id="about">
   <div class="container">
