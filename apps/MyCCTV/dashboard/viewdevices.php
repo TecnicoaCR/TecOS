@@ -3,7 +3,7 @@
     // $Author: 'TecnicoaCR';
     require "assets/sessionconfirm.php";
     $where = "";
-    $sql = "SELECT * FROM devices WHERE id_usuario = '$id_usuario' ";
+    $sql = "SELECT * FROM devices WHERE id_usuario = '$id_usuario' ORDER BY name DESC";
     $resultado = $mysqli->query($sql);
 ?>
 <!DOCTYPE html>

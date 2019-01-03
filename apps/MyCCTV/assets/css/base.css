@@ -1,9 +1,10 @@
 body {
- background: linear-gradient(#696969, #F5F5F5);
- margin: 0;
- padding: 0;
- font-family: "Times New Roman", Times, serif;
- text-align: center;
+ background-size: cover;
+  background-image: url("assets/images/camera_font.jpg");
+  margin: 0;
+  padding: 0;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
 }
 .mainbox{
   display:flow-root;
@@ -16,7 +17,7 @@ body {
 footer {
   background: #696969;
   display:inline-grid;
-  border-bottom: px solid #eee;
+  border-bottom: 1px solid #eee;
   margin-top: 100px;
   text-align: center;
   width: 100%;
