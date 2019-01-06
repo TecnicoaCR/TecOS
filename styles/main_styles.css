@@ -684,10 +684,12 @@ section
 	-ms-transform: translateY(30px);
 	-o-transform: translateY(30px);
 	transform: translateY(30px);
+        margin-top: 300px;
 }
+
 .hero_slide_content h1
 {
-	font-size: 72px;
+	font-size: 60px;
 	font-weight: 400;
 	color: #FFFFFF;
 }
@@ -698,6 +700,7 @@ section
 	padding-right: 13px;
 	margin-left: -12px;
 	margin-right: -12px;
+       
 }
 .animated
 {

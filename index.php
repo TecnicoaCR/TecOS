@@ -114,7 +114,7 @@
 					<div class="hero_slide_background" style="background-image:url(images/wall01.png)"></div>
 					<div class="hero_slide_container d-flex flex-column align-items-center justify-content-center">
 						<div class="hero_slide_content text-center">
-                                                    <h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">Te ofrecemos <span>Respaldo</span>.</h1>
+                                                    <h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">Ofrecemos <span>Respaldo</span>.</h1>
 						</div>
 					</div>
 				</div>
@@ -124,7 +124,7 @@
 					<div class="hero_slide_background" style="background-image:url(images/wall02.png)"></div>
 					<div class="hero_slide_container d-flex flex-column align-items-center justify-content-center">
 						<div class="hero_slide_content text-center">
-							<h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">Los mejores <span>Precios</span>.</h1>
+							<h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">Mejores <span>Precios</span>.</h1>
 						</div>
 					</div>
 				</div>
@@ -134,7 +134,7 @@
 					<div class="hero_slide_background" style="background-image:url(images/wall03.png)"></div>
 					<div class="hero_slide_container d-flex flex-column align-items-center justify-content-center">
 						<div class="hero_slide_content text-center">
-							<h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">Estamos altamente <span>Capacitados</span>.</h1>
+							<h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">Altamente <span>Capacitados</span>.</h1>
 						</div>
 					</div>
 				</div>
@@ -151,7 +151,7 @@
 		<div class="hero_boxes_inner">
 			<div class="container">
 				<div class="row">
-
+                                        <!--
 					<div class="col-lg-4 hero_box_col">
 						<div class="hero_box d-flex flex-row align-items-center justify-content-start">
 							<img src="images/earth-globe.svg" class="svg" alt="">
@@ -181,7 +181,7 @@
 							</div>
 						</div>
 					</div>
-
+-->
 				</div>
 			</div>
 		</div>
