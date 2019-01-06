@@ -21,16 +21,14 @@
     <body>
 
         <div class="super_container">
-
                 <!-- Header -->
-
                 <header class="header d-flex flex-row">
                         <div class="header_content d-flex flex-row align-items-center">
                                 <!-- Logo -->
                                 <div class="logo_container">
                                         <div class="logo">
                                                 <img src="images/logo.png" alt="">
-                                                <span>course</span>
+                                                <span>TecnicoaCR</span>
                                         </div>
                                 </div>
 
@@ -38,19 +36,15 @@
                                 <nav class="main_nav_container">
                                         <div class="main_nav">
                                                 <ul class="main_nav_list">
-                                                        <li class="main_nav_item"><a href="#">home</a></li>
-                                                        <li class="main_nav_item"><a href="#">about us</a></li>
-                                                        <li class="main_nav_item"><a href="courses.html">courses</a></li>
-                                                        <li class="main_nav_item"><a href="elements.html">elements</a></li>
-                                                        <li class="main_nav_item"><a href="news.html">news</a></li>
-                                                        <li class="main_nav_item"><a href="contact.html">contact</a></li>
+                                                        
                                                 </ul>
                                         </div>
                                 </nav>
                         </div>
                         <div class="header_side d-flex flex-row justify-content-center align-items-center">
                                 <img src="images/phone-call.svg" alt="">
-                                <span>+43 4566 7788 2457</span>
+                                <span>+506 8739 7420</span>
+                                <span>Coticemos!</span>
                         </div>
 
                         <!-- Hamburger -->
@@ -66,33 +60,39 @@
                         <!-- Menu Close Button -->
                         <div class="menu_close_container">
                                 <div class="menu_close"></div>
-                        </div>
+                        </div><li class="main_nav_item"><a href="#">Incio</a></li>
+                                                        <li class="main_nav_item"><a href="#">Nosotros</a></li>
+                                                        <li class="main_nav_item"><a href="courses.html">Servicios</a></li>
+                                                        <li class="main_nav_item"><a href="elements.html">Proyectos</a></li>
+                                                        <li class="main_nav_item"><a href="news.html">Aplicaciones</a></li>
+                                                        <li class="main_nav_item"><a href="contact.html">Contacto</a></li>
 
                         <!-- Menu Items -->
                         <div class="menu_inner menu_mm">
                                 <div class="menu menu_mm">
                                         <ul class="menu_list menu_mm">
-                                                <li class="menu_item menu_mm"><a href="#">Home</a></li>
-                                                <li class="menu_item menu_mm"><a href="#">About us</a></li>
-                                                <li class="menu_item menu_mm"><a href="courses.html">Courses</a></li>
-                                                <li class="menu_item menu_mm"><a href="elements.html">Elements</a></li>
-                                                <li class="menu_item menu_mm"><a href="news.html">News</a></li>
-                                                <li class="menu_item menu_mm"><a href="contact.html">Contact</a></li>
+                                            <li class="main_nav_item"><a href="#">Inicio</a></li>
+                                                <li class="main_nav_item"><a href="#">Nosotros</a></li>
+                                                        <li class="main_nav_item"><a href="courses.html">Servicios</a></li>
+                                                        <li class="main_nav_item"><a href="elements.html">Proyectos</a></li>
+                                                        <li class="main_nav_item"><a href="news.html">Aplicaciones</a></li>
+                                                        <li class="main_nav_item"><a href="contact.html">Contacto</a></li>/li>
                                         </ul>
 
                                         <!-- Menu Social -->
 
                                         <div class="menu_social_container menu_mm">
                                                 <ul class="menu_social menu_mm">
-                                                        <li class="menu_social_item menu_mm"><a href="#"><i class="fab fa-pinterest"></i></a></li>
-                                                        <li class="menu_social_item menu_mm"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                                        <li class="menu_social_item menu_mm"><a href="#"><i class="fab fa-instagram"></i></a></li>
-                                                        <li class="menu_social_item menu_mm"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                                        <li class="menu_social_item menu_mm"><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                                        <li class="menu_social_item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                                        <li class="menu_social_item"><a href="#"><i class="fab fa-instagram"></i></a></li>
+                                                        <li class="menu_social_item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                                                        <li class="menu_social_item"><a href="#"><i class="fab fa-twitter"></i></a></li>
                                                 </ul>
                                         </div>
 
-                                        <div class="menu_copyright menu_mm">Colorlib All rights reserved</div>
+                                        <div class="menu_copyright menu_mm">
+                                            <span>Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Desarrollado con <i class="fa fa-heart" aria-hidden="true"></i> por <a href="https:/facebook.com/TecnicoaCR" target="_blank">TecnicoaCR</a></span>
+                                        </div>
                                 </div>
 
                         </div>
