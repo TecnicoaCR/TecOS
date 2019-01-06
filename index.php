@@ -36,7 +36,12 @@
                                 <nav class="main_nav_container">
                                         <div class="main_nav">
                                                 <ul class="main_nav_list">
-                                                        
+                                                     <li class="main_nav_item"><a href="#">Inicio</a></li>
+                                                        <li class="main_nav_item"><a href="#">Nosotros</a></li>
+                                                        <li class="main_nav_item"><a href="courses.html">Servicios</a></li>
+                                                        <li class="main_nav_item"><a href="elements.html">Proyectos</a></li>
+                                                        <li class="main_nav_item"><a href="news.html">Aplicaciones</a></li>
+                                                        <li class="main_nav_item"><a href="contact.html">Contacto</a></li>   
                                                 </ul>
                                         </div>
                                 </nav>
@@ -60,7 +65,8 @@
                         <!-- Menu Close Button -->
                         <div class="menu_close_container">
                                 <div class="menu_close"></div>
-                        </div><li class="main_nav_item"><a href="#">Incio</a></li>
+                        </div>
+                        <li class="main_nav_item"><a href="#">Inicio</a></li>
                                                         <li class="main_nav_item"><a href="#">Nosotros</a></li>
                                                         <li class="main_nav_item"><a href="courses.html">Servicios</a></li>
                                                         <li class="main_nav_item"><a href="elements.html">Proyectos</a></li>
