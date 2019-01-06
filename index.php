@@ -138,30 +138,31 @@
 						</div>
 					</div>
 				</div>
-
 			</div>
 
 			<div class="hero_slider_left hero_slider_nav trans_200"><span class="trans_200"><</span></div>
 			<div class="hero_slider_right hero_slider_nav trans_200"><span class="trans_200">></span></div>
+                        
 		</div>
+                
 
 	</div>
-
+<!--
 	<div class="hero_boxes">
 		<div class="hero_boxes_inner">
 			<div class="container">
 				<div class="row">
-                                        <!--
+                                        
 					<div class="col-lg-4 hero_box_col">
-						<div class="hero_box d-flex flex-row align-items-center justify-content-start">
+						<div class="hero_box d-flex flex-row align-items-center justify-content-start" >
 							<img src="images/earth-globe.svg" class="svg" alt="">
 							<div class="hero_box_content">
-								<h2 class="hero_box_title">Online Courses</h2>
-								<a href="courses.html" class="hero_box_link">view more</a>
+								<h2 class="hero_box_title">
+                                                                    <a href="courses.html">Coticemos!</a></h2>
 							</div>
 						</div>
 					</div>
-
+<!---
 					<div class="col-lg-4 hero_box_col">
 						<div class="hero_box d-flex flex-row align-items-center justify-content-start">
 							<img src="images/books.svg" class="svg" alt="">
@@ -176,16 +177,16 @@
 						<div class="hero_box d-flex flex-row align-items-center justify-content-start">
 							<img src="images/professor.svg" class="svg" alt="">
 							<div class="hero_box_content">
-								<h2 class="hero_box_title">Our Teachers</h2>
-								<a href="teachers.html" class="hero_box_link">view more</a>
+								<h2 class="hero_box_title">Saber Más</h2>
+								
 							</div>
 						</div>
 					</div>
--->
+
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> -->
 
 	<!-- Popular -->
 
@@ -194,7 +195,7 @@
 			<div class="row">
 				<div class="col">
 					<div class="section_title text-center">
-						<h1>Popular Courses</h1>
+						<h1>Nuestros Servicios</h1>
 					</div>
 				</div>
 			</div>
@@ -204,17 +205,10 @@
 				<!-- Popular Course Item -->
 				<div class="col-lg-4 course_box">
 					<div class="card">
-						<img class="card-img-top" src="images/course_1.jpg" alt="https://unsplash.com/@kellybrito">
+                                            <img class="card-img-top" src="images/services_1.jpg" alt="">
 						<div class="card-body text-center">
-							<div class="card-title"><a href="courses.html">A complete guide to design</a></div>
-							<div class="card-text">Adobe Guide, Layes, Smart Objects etc...</div>
-						</div>
-						<div class="price_box d-flex flex-row align-items-center">
-							<div class="course_author_image">
-								<img src="images/author.jpg" alt="https://unsplash.com/@mehdizadeh">
-							</div>
-							<div class="course_author_name">Michael Smith, <span>Author</span></div>
-							<div class="course_price d-flex flex-column align-items-center justify-content-center"><span>$29</span></div>
+							<div class="card-title"><a href="courses.html">Desarrollo</a></div>
+							<div class="card-text">Paginas Web Dinamicas, Aplicaciónes Web & Moviles...</div>
 						</div>
 					</div>
 				</div>
@@ -222,17 +216,10 @@
 				<!-- Popular Course Item -->
 				<div class="col-lg-4 course_box">
 					<div class="card">
-						<img class="card-img-top" src="images/course_2.jpg" alt="https://unsplash.com/@cikstefan">
+						<img class="card-img-top" src="images/services_2.jpg" alt="">
 						<div class="card-body text-center">
-							<div class="card-title"><a href="courses.html">Beginners guide to HTML</a></div>
-							<div class="card-text">Adobe Guide, Layes, Smart Objects etc...</div>
-						</div>
-						<div class="price_box d-flex flex-row align-items-center">
-							<div class="course_author_image">
-								<img src="images/author.jpg" alt="https://unsplash.com/@mehdizadeh">
-							</div>
-							<div class="course_author_name">Michael Smith, <span>Author</span></div>
-							<div class="course_price d-flex flex-column align-items-center justify-content-center"><span>$29</span></div>
+							<div class="card-title"><a href="courses.html">Capacitaciones</a></div>
+							<div class="card-text">...</div>
 						</div>
 					</div>
 				</div>
@@ -240,18 +227,46 @@
 				<!-- Popular Course Item -->
 				<div class="col-lg-4 course_box">
 					<div class="card">
-						<img class="card-img-top" src="images/course_3.jpg" alt="https://unsplash.com/@dsmacinnes">
+						<img class="card-img-top" src="images/services_3.jpg" alt="">
 						<div class="card-body text-center">
-							<div class="card-title"><a href="courses.html">Advanced Photoshop</a></div>
-							<div class="card-text">Adobe Guide, Layes, Smart Objects etc...</div>
+							<div class="card-title"><a href="courses.html">Conectividad</a></div>
+							<div class="card-text">Redes, enlaces & conexiones...</div>
 						</div>
-						<div class="price_box d-flex flex-row align-items-center">
-							<div class="course_author_image">
-								<img src="images/author.jpg" alt="https://unsplash.com/@mehdizadeh">
-							</div>
-							<div class="course_author_name">Michael Smith, <span>Author</span></div>
-							<div class="course_price d-flex flex-column align-items-center justify-content-center"><span>$29</span></div>
+						
+					</div>
+				</div>
+                                
+                                <!-- Popular Course Item -->
+                                <div class="col-lg-4 course_box">
+					<div class="card">
+                                            <img class="card-img-top" src="images/services_4.jpg" alt="">
+						<div class="card-body text-center">
+							<div class="card-title"><a href="courses.html">Soporte Informático</a></div>
+							<div class="card-text">Mantenimiento de equipos de computo...</div>
 						</div>
+					</div>
+				</div>
+
+				<!-- Popular Course Item -->
+				<div class="col-lg-4 course_box">
+					<div class="card">
+						<img class="card-img-top" src="images/services_5.jpg" alt="">
+						<div class="card-body text-center">
+							<div class="card-title"><a href="courses.html">Publicidad</a></div>
+							<div class="card-text">...</div>
+						</div>
+					</div>
+				</div>
+
+				<!-- Popular Course Item -->
+				<div class="col-lg-4 course_box">
+					<div class="card">
+                                            <img class="card-img-top" src="images/services_6.jpg" alt="">
+						<div class="card-body text-center">
+							<div class="card-title"><a href="courses.html">Diseño Gráfico</a></div>
+							<div class="card-text">Redes, enlaces & conexiones...</div>
+						</div>
+						
 					</div>
 				</div>
 			</div>
@@ -410,12 +425,14 @@
                                                         <!-- Logo -->
                                                         <div class="logo_container">
                                                                 <div class="logo">
-                                                                        <img src="images/logo.png" alt="">
-                                                                        <span>course</span>
+                                                                        <img src="images/logo_2.png" alt="">
+                                                                        
                                                                 </div>
                                                         </div>
-
-                                                        <p class="footer_about_text">In aliquam, augue a gravida rutrum, ante nisl fermentum nulla, vitae tempor nisl ligula vel nunc. Proin quis mi malesuada, finibus tortor fermentum, tempor lacus.</p>
+                                                         <br/>
+                                                         
+                                                         <h3>TecnicoaCR <br>Professional Services</h3>
+                                                         <p class="footer_about_text">Atendemos su consulta y asesoramos su desarrollo.</p>
 
                                                 </div>
 
