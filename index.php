@@ -36,12 +36,12 @@
                                 <nav class="main_nav_container">
                                         <div class="main_nav">
                                                 <ul class="main_nav_list">
-                                                     <li class="main_nav_item"><a href="#">Inicio</a></li>
+                                                        <li class="main_nav_item"><a href="#">Incio</a></li>
                                                         <li class="main_nav_item"><a href="#">Nosotros</a></li>
                                                         <li class="main_nav_item"><a href="courses.html">Servicios</a></li>
                                                         <li class="main_nav_item"><a href="elements.html">Proyectos</a></li>
                                                         <li class="main_nav_item"><a href="news.html">Aplicaciones</a></li>
-                                                        <li class="main_nav_item"><a href="contact.html">Contacto</a></li>   
+                                                        <li class="main_nav_item"><a href="contact.html">Contacto</a></li>
                                                 </ul>
                                         </div>
                                 </nav>
@@ -65,8 +65,7 @@
                         <!-- Menu Close Button -->
                         <div class="menu_close_container">
                                 <div class="menu_close"></div>
-                        </div>
-                        <li class="main_nav_item"><a href="#">Inicio</a></li>
+                        </div><li class="main_nav_item"><a href="#">Incio</a></li>
                                                         <li class="main_nav_item"><a href="#">Nosotros</a></li>
                                                         <li class="main_nav_item"><a href="courses.html">Servicios</a></li>
                                                         <li class="main_nav_item"><a href="elements.html">Proyectos</a></li>
@@ -89,16 +88,16 @@
 
                                         <div class="menu_social_container menu_mm">
                                                 <ul class="menu_social menu_mm">
-                                                        <li class="menu_social_item menu_mm"><a href="#"><i class="fab fa-pinterest"></i></a></li>
-                                                        <li class="menu_social_item menu_mm"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                                        <li class="menu_social_item menu_mm"><a href="#"><i class="fab fa-instagram"></i></a></li>
-                                                        <li class="menu_social_item menu_mm"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                                        <li class="menu_social_item menu_mm"><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                                       <li class="menu_social_item"><a href="https://www.facebook.com/TecnicoaCR/"><i class="fab fa-facebook-f"></i></a></li>
+                                                        <li class="menu_social_item"><a href="https://www.instagram.com/tecnicoacr/"><i class="fab fa-instagram"></i></a></li>
+                                                        <li class="menu_social_item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                                                        <li class="menu_social_item"><a href="#"><i class="fab fa-twitter"></i></a></li>
                                                 </ul>
                                         </div>
 
-                                        <div class="menu_copyright menu_mm">Colorlib All rights reserved</div>
-                                </div>
+                                        <div class="menu_copyright menu_mm"> 
+                                            <span>Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Desarrollado con <i class="fa fa-heart" aria-hidden="true"></i> por <a href="https:/facebook.com/TecnicoaCR" target="_blank">TecnicoaCR</a></span>
+                                          </div>
 
                         </div>
 
@@ -679,8 +678,8 @@
                                         </div>
                                         <div class="footer_social ml-sm-auto">
                                                 <ul class="menu_social">
-                                                        <li class="menu_social_item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                                        <li class="menu_social_item"><a href="#"><i class="fab fa-instagram"></i></a></li>
+                                                        <li class="menu_social_item"><a href="https://www.facebook.com/TecnicoaCR/"><i class="fab fa-facebook-f"></i></a></li>
+                                                        <li class="menu_social_item"><a href="https://www.instagram.com/tecnicoacr/"><i class="fab fa-instagram"></i></a></li>
                                                         <li class="menu_social_item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
                                                         <li class="menu_social_item"><a href="#"><i class="fab fa-twitter"></i></a></li>
                                                 </ul>
