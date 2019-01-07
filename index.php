@@ -38,8 +38,8 @@
 				<div class="main_nav">
 					<ul class="main_nav_list">
 						<li class="main_nav_item"><a href="#">Incio</a></li>
-                                                        <li class="main_nav_item"><a href="#">Nosotros</a></li>
-                                                        <li class="main_nav_item"><a href="courses.html">Servicios</a></li>
+                                                        <li class="main_nav_item"><a href="#">Servicios</a></li>
+                                                        <li class="main_nav_item"><a href="courses.html">Nosotros</a></li>
                                                         <li class="main_nav_item"><a href="elements.html">Proyectos</a></li>
                                                         <li class="main_nav_item"><a href="news.html">Aplicaciones</a></li>
                                                         <li class="main_nav_item"><a href="contact.html">Contacto</a></li>
@@ -72,12 +72,12 @@
 		<div class="menu_inner menu_mm">
 			<div class="menu menu_mm">
 				<ul class="menu_list menu_mm">
-					<li class="main_nav_item"><a href="#">Incio</a></li>
-                                                        <li class="main_nav_item"><a href="#">Nosotros</a></li>
-                                                        <li class="main_nav_item"><a href="courses.html">Servicios</a></li>
-                                                        <li class="main_nav_item"><a href="elements.html">Proyectos</a></li>
-                                                        <li class="main_nav_item"><a href="news.html">Aplicaciones</a></li>
-                                                        <li class="main_nav_item"><a href="contact.html">Contacto</a></li>
+					<li class="menu_item menu_mm"><a href="#">Inicio</a></li>
+                                        <li class="menu_item menu_mm"><a href="#">Servicios</a></li>
+					<li class="menu_item menu_mm"><a href="#">Nosotros</a></li>
+					<li class="menu_item menu_mm"><a href="courses.html">Proyectos</a></li>
+					<li class="menu_item menu_mm"><a href="elements.html">Aplicaciones</a></li>
+					<li class="menu_item menu_mm"><a href="contact.html">Contact</a></li>
 				</ul>
 
 				<!-- Menu Social -->
@@ -139,54 +139,10 @@
 					</div>
 				</div>
 			</div>
-
 			<div class="hero_slider_left hero_slider_nav trans_200"><span class="trans_200"><</span></div>
 			<div class="hero_slider_right hero_slider_nav trans_200"><span class="trans_200">></span></div>
-                        
 		</div>
-                
-
 	</div>
-<!--
-	<div class="hero_boxes">
-		<div class="hero_boxes_inner">
-			<div class="container">
-				<div class="row">
-                                        
-					<div class="col-lg-4 hero_box_col">
-						<div class="hero_box d-flex flex-row align-items-center justify-content-start" >
-							<img src="images/earth-globe.svg" class="svg" alt="">
-							<div class="hero_box_content">
-								<h2 class="hero_box_title">
-                                                                    <a href="courses.html">Coticemos!</a></h2>
-							</div>
-						</div>
-					</div>
-<!---
-					<div class="col-lg-4 hero_box_col">
-						<div class="hero_box d-flex flex-row align-items-center justify-content-start">
-							<img src="images/books.svg" class="svg" alt="">
-							<div class="hero_box_content">
-								<h2 class="hero_box_title">Our Library</h2>
-								<a href="courses.html" class="hero_box_link">view more</a>
-							</div>
-						</div>
-					</div>
-
-					<div class="col-lg-4 hero_box_col">
-						<div class="hero_box d-flex flex-row align-items-center justify-content-start">
-							<img src="images/professor.svg" class="svg" alt="">
-							<div class="hero_box_content">
-								<h2 class="hero_box_title">Saber Más</h2>
-								
-							</div>
-						</div>
-					</div>
-
-				</div>
-			</div>
-		</div>
-	</div> -->
 
 	<!-- Popular -->
 
@@ -286,9 +242,9 @@
 
 					<div class="register_section d-flex flex-column align-items-center justify-content-center">
 						<div class="register_content text-center">
-							<h1 class="register_title">Register now and get a discount <span>50%</span> discount until 1 January</h1>
-							<p class="register_text">In aliquam, augue a gravida rutrum, ante nisl fermentum nulla, vitae tempor nisl ligula vel nunc. Proin quis mi malesuada, finibus tortor fermentum. Aliquam, augue a gravida rutrum, ante nisl fermentum nulla, vitae tempo.</p>
-							<div class="button button_1 register_button mx-auto trans_200"><a href="#">register now</a></div>
+							<h1 class="register_title">Cotice con nosotros y recibira un <span>50%</span> de descuentos en todos nuestros servicios.</h1>
+							<p class="register_text">TecnicoaCR Professional Services ofrece un 50% de descuento en todos los servicios a quienes coticen por primera vez con nosotros.</p>
+                                                        <div class="button button_1 register_button mx-auto trans_200"><a href="#">Cotice ahora! <br/>Sin compromiso.</a></div>
 						</div>
 					</div>
 
@@ -301,12 +257,25 @@
 					<div class="search_section d-flex flex-column align-items-center justify-content-center">
 						<div class="search_background" style="background-image:url(images/search_background.jpg);"></div>
 						<div class="search_content text-center">
-							<h1 class="search_title">Search for your course</h1>
+							<h1 class="search_title">Conversemos</h1>
 							<form id="search_form" class="search_form" action="post">
-								<input id="search_form_name" class="input_field search_form_name" type="text" placeholder="Course Name" required="required" data-error="Course name is required.">
-								<input id="search_form_category" class="input_field search_form_category" type="text" placeholder="Category">
-								<input id="search_form_degree" class="input_field search_form_degree" type="text" placeholder="Degree">
-								<button id="search_submit_button" type="submit" class="search_submit_button trans_200" value="Submit">search course</button>
+								<input id="search_form_name" class="input_field search_form_name" type="text" placeholder="Nombre completo" required="required" data-error="Su Nombre es requerido.">
+                                                                
+                                                                <select name="Servicios" id="search_form_category" class="input_field" placeholder="Servicios" required="required" data-error="El tipo de servicio es requerido.">
+                                                                    <option></option>
+                                                                    <option>Desarrollo</option>
+                                                                    <option>Conectividad</option>
+                                                                    <option>Soporte Informático</option>
+                                                                    <option>Publicidad</option>
+                                                                    <option>Diseño Gráfico</option>
+                                                                    <option>Capacitaciones</option>
+                                                                </select>
+
+                                                                
+                                                                <input id="search_form_degree" class="input_field search_form_degree" type="text" placeholder="Telefono" required="required" data-error="Su Telefono es requerido.">
+								<input id="search_form_degree" class="input_field search_form_degree" type="text" placeholder="Email" required="required" data-error="Su email es requerido.">
+                                                                <input id="search_form_degree" class="input_field search_form_degree" type="text" placeholder="Comentario">
+								<button id="search_submit_button" type="submit" class="search_submit_button trans_200" value="Submit">Contactarnos</button>
 							</form>
 						</div> 
 					</div>
@@ -324,7 +293,7 @@
 			<div class="row">
 				<div class="col">
 					<div class="section_title text-center">
-						<h1>Our Services</h1>
+						<h1>Clientes</h1>
 					</div>
 				</div>
 			</div>
@@ -333,20 +302,23 @@
 
 				<div class="col-lg-4 service_item text-left d-flex flex-column align-items-start justify-content-start">
 					<div class="icon_container d-flex flex-column justify-content-end">
-						<img src="images/earth-globe.svg" alt="">
+                                            <img src="images/clientes_1.jpg" alt="">
 					</div>
-					<h3>Online Courses</h3>
-					<p>In aliquam, augue a gravida rutrum, ante nisl fermentum nulla, vitae tempor nisl ligula vel nunc. Proin quis mi malesuada, finibus tortor fermentum.</p>
+					<h3>MotoRepuestos Nayara RG</h3>
+                                        <p><small>Santa Cruz, Guanacaste.</small><p/>
+					<p>Es una comercio dedicado a la venta de repuestos y accesorios para motocicletas desde el año 2015, con un amplio conocimiento y experiencia en motocicletas.</p>
 				</div>
 
 				<div class="col-lg-4 service_item text-left d-flex flex-column align-items-start justify-content-start">
 					<div class="icon_container d-flex flex-column justify-content-end">
-						<img src="images/exam.svg" alt="">
+                                            <img src="images/clientes_2.jpg" alt="">
 					</div>
-					<h3>Indoor Courses</h3>
-					<p>In aliquam, augue a gravida rutrum, ante nisl fermentum nulla, vitae tempor nisl ligula vel nunc. Proin quis mi malesuada, finibus tortor fermentum.</p>
+					<h3>PROSERFI Professional Services</h3>
+                                        <p><small>Hojancha, Guanacaste.</small></p>
+					<p>Se estableció en el 2010 y desde entonces desarrolla soluciones que cubren todo el espectro de la gestión financiera personal y empresarial.
+</p>
 				</div>
-
+                                <!--
 				<div class="col-lg-4 service_item text-left d-flex flex-column align-items-start justify-content-start">
 					<div class="icon_container d-flex flex-column justify-content-end">
 						<img src="images/books.svg" alt="">
@@ -378,7 +350,7 @@
 					<h3>Graduate Diploma</h3>
 					<p>In aliquam, augue a gravida rutrum, ante nisl fermentum nulla, vitae tempor nisl ligula vel nunc. Proin quis mi malesuada, finibus tortor fermentum.</p>
 				</div>
-
+                                -->
 			</div>
 		</div>
         </div>
@@ -394,7 +366,7 @@
 				<div class="row">
 					<div class="col">
 						<div class="section_title text-center">
-							<h1>Subscribe to newsletter</h1>
+							<h1>¿Le gustaría recibir todas nuestras ofertas?</h1>
 						</div>
 					</div>
 				</div>
@@ -405,7 +377,7 @@
 							<form action="post">
 								<div class="newsletter_form d-flex flex-md-row flex-column flex-xs-column align-items-center justify-content-center">
 									<input id="newsletter_email" class="newsletter_email" type="email" placeholder="Email Address" required="required" data-error="Valid email is required.">
-									<button id="newsletter_submit" type="submit" class="newsletter_submit_btn trans_300" value="Submit">Subscribe</button>
+									<button id="newsletter_submit" type="submit" class="newsletter_submit_btn trans_300" value="Submit">Suscribirse</button>
 								</div>
 							</form>
 						</div>
