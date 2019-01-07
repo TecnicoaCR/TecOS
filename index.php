@@ -255,19 +255,32 @@
 						<div class="search_background" style="background-image:url(images/search_background.jpg);"></div>
 						<div class="search_content text-center">
 							<h1 class="search_title">Conversemos</h1>
-                                                        <form id="search_form" class="search_form" method="post" action="send_form_email.php" >
-								<input id="search_form_name" class="input_field search_form_name" type="text" name="nombrecompleto" placeholder="Nombre completo" required="required" data-error="Su Nombre es requerido.">
+                                                        
+                                                        <!-- ajax contact form -->
+                                                        <form id="search_form" class="contact_form" method="post" action="mail.php" >
+                                                            
+                                                            <!-- form message -->
+                                                            <div class="row">
+                                                                <div class="col-12">
+                                                                    <div class="alert alert-success contact__msg" style="display: none" role="alert">
+                                                                        Tu mensaje fue enviado exitosamente.
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <!-- end message -->
+                                                            
+                                                            <input id="search_form_name" class="input_field search_form_name" type="text" name="nombrecompleto" placeholder="Nombre completo" required="required" data-error="Su Nombre es requerido.">
                                                                 
-                                                                <select id="search_form_category" class="input_field" name="servicio" placeholder="Servicios" required="required" data-error="El tipo de servicio es requerido.">
-                                                                    <option ></option>
+                                                               <!-- <select id="search_form_category" class="input_field" name="servicio" placeholder="Servicios" required="required" data-error="El tipo de servicio es requerido.">
+                                                            
                                                                     <option value="Desarrollo">Desarrollo</option>
                                                                     <option value="Conectividad">Conectividad</option>
                                                                     <option value="Soporte">Soporte Informático</option>
                                                                     <option value="Publicidad">Publicidad</option>
                                                                     <option value="Diseño">Diseño Gráfico</option>
                                                                     <option value="Capacitación">Capacitaciones</option>
-                                                                </select>
-
+                                                                </select> -->
+                                                            <input id="search_form_name" class="input_field search_form_name" type="text" name="servicio" placeholder="Servicio" required="required" data-error="El servicio es requerido.">
                                                                 
                                                                 <input id="search_form_degree" class="input_field search_form_degree" type="text" name="telefono" placeholder="Telefono" required="required" data-error="Su Telefono es requerido.">
 								<input id="search_form_degree" class="input_field search_form_degree" type="text" name="email" placeholder="Email" required="required" data-error="Su email es requerido.">
@@ -498,6 +511,7 @@
 <script src="plugins/scrollTo/jquery.scrollTo.min.js"></script>
 <script src="plugins/easing/easing.js"></script>
 <script src="js/custom.js"></script>
+<script src="js/main.js"></script>
 
 </body>
 </html>
