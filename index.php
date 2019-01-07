@@ -73,11 +73,11 @@
 			<div class="menu menu_mm">
 				<ul class="menu_list menu_mm">
 					<li class="menu_item menu_mm"><a href="#">Inicio</a></li>
-                                        <li class="menu_item menu_mm"><a href="#">Servicios</a></li>
+                                        <li class="menu_item menu_mm"><a href="#servicios">Servicios</a></li>
 					<li class="menu_item menu_mm"><a href="#">Nosotros</a></li>
-					<li class="menu_item menu_mm"><a href="courses.html">Proyectos</a></li>
-					<li class="menu_item menu_mm"><a href="elements.html">Aplicaciones</a></li>
-					<li class="menu_item menu_mm"><a href="contact.html">Contact</a></li>
+					<li class="menu_item menu_mm"><a href="#">Proyectos</a></li>
+					<li class="menu_item menu_mm"><a href="#">Aplicaciones</a></li>
+					<li class="menu_item menu_mm"><a href="#contacto">Contacto</a></li>
 				</ul>
 
 				<!-- Menu Social -->
@@ -93,12 +93,9 @@
 
                                 <div class="menu_copyright menu_mm">
                                     Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Desarrollado con <i class="fa fa-heart" aria-hidden="true"></i> por <a href="https:/facebook.com/TecnicoaCR" target="_blank">TecnicoaCR</a>
-
                                 </div>
 			</div>
-
 		</div>
-
 	</div>
 	
 	<!-- Home -->
@@ -163,8 +160,8 @@
 					<div class="card">
                                             <img class="card-img-top" src="images/services_1.jpg" alt="">
 						<div class="card-body text-center">
-							<div class="card-title"><a href="courses.html">Desarrollo</a></div>
-							<div class="card-text">Paginas Web Dinamicas, Aplicaciónes Web & Moviles...</div>
+							<div class="card-title"><a href="#">Desarrollo</a></div>
+							<div class="card-text">Diseño, Renovación y Mantenimiento de Paginas Web Dinamicas, Aplicaciónes Web & Moviles...</div>
 						</div>
 					</div>
 				</div>
@@ -174,8 +171,8 @@
 					<div class="card">
 						<img class="card-img-top" src="images/services_2.jpg" alt="">
 						<div class="card-body text-center">
-							<div class="card-title"><a href="courses.html">Capacitaciones</a></div>
-							<div class="card-text">...</div>
+							<div class="card-title"><a href="#">Capacitaciones</a></div>
+							<div class="card-text">Le ofrecemos una serie de capacitaciones para incentivarlo a elevar, transformar y actualizar sus conocimientos.</div>
 						</div>
 					</div>
 				</div>
@@ -185,8 +182,8 @@
 					<div class="card">
 						<img class="card-img-top" src="images/services_3.jpg" alt="">
 						<div class="card-body text-center">
-							<div class="card-title"><a href="courses.html">Conectividad</a></div>
-							<div class="card-text">Redes, enlaces & conexiones...</div>
+							<div class="card-title"><a href="#">Conectividad</a></div>
+							<div class="card-text">Redes, enlaces inalámbricos & conexiones PTP.</div>
 						</div>
 						
 					</div>
@@ -197,8 +194,8 @@
 					<div class="card">
                                             <img class="card-img-top" src="images/services_4.jpg" alt="">
 						<div class="card-body text-center">
-							<div class="card-title"><a href="courses.html">Soporte Informático</a></div>
-							<div class="card-text">Mantenimiento de equipos de computo...</div>
+							<div class="card-title"><a href="#">Soporte Informático</a></div>
+							<div class="card-text">Mantenimiento de equipos de computo.</div>
 						</div>
 					</div>
 				</div>
@@ -208,8 +205,8 @@
 					<div class="card">
 						<img class="card-img-top" src="images/services_5.jpg" alt="">
 						<div class="card-body text-center">
-							<div class="card-title"><a href="courses.html">Publicidad</a></div>
-							<div class="card-text">...</div>
+							<div class="card-title"><a href="#">Publicidad</a></div>
+							<div class="card-text">Manejo de la imagen de la empresa y Posicionamiento de Marca.</div>
 						</div>
 					</div>
 				</div>
@@ -219,8 +216,8 @@
 					<div class="card">
                                             <img class="card-img-top" src="images/services_6.jpg" alt="">
 						<div class="card-body text-center">
-							<div class="card-title"><a href="courses.html">Diseño Gráfico</a></div>
-							<div class="card-text">Redes, enlaces & conexiones...</div>
+							<div class="card-title"><a href="#">Diseño Gráfico</a></div>
+							<div class="card-text">Logotipos, afiches, tarjetas de presentación y mucho más!</div>
 						</div>
 						
 					</div>
@@ -258,24 +255,24 @@
 						<div class="search_background" style="background-image:url(images/search_background.jpg);"></div>
 						<div class="search_content text-center">
 							<h1 class="search_title">Conversemos</h1>
-							<form id="search_form" class="search_form" action="post">
-								<input id="search_form_name" class="input_field search_form_name" type="text" placeholder="Nombre completo" required="required" data-error="Su Nombre es requerido.">
+                                                        <form id="search_form" class="search_form" method="post" action="send_form_email.php" >
+								<input id="search_form_name" class="input_field search_form_name" type="text" name="nombrecompleto" placeholder="Nombre completo" required="required" data-error="Su Nombre es requerido.">
                                                                 
-                                                                <select name="Servicios" id="search_form_category" class="input_field" placeholder="Servicios" required="required" data-error="El tipo de servicio es requerido.">
-                                                                    <option></option>
-                                                                    <option>Desarrollo</option>
-                                                                    <option>Conectividad</option>
-                                                                    <option>Soporte Informático</option>
-                                                                    <option>Publicidad</option>
-                                                                    <option>Diseño Gráfico</option>
-                                                                    <option>Capacitaciones</option>
+                                                                <select id="search_form_category" class="input_field" name="servicio" placeholder="Servicios" required="required" data-error="El tipo de servicio es requerido.">
+                                                                    <option ></option>
+                                                                    <option value="Desarrollo">Desarrollo</option>
+                                                                    <option value="Conectividad">Conectividad</option>
+                                                                    <option value="Soporte">Soporte Informático</option>
+                                                                    <option value="Publicidad">Publicidad</option>
+                                                                    <option value="Diseño">Diseño Gráfico</option>
+                                                                    <option value="Capacitación">Capacitaciones</option>
                                                                 </select>
 
                                                                 
-                                                                <input id="search_form_degree" class="input_field search_form_degree" type="text" placeholder="Telefono" required="required" data-error="Su Telefono es requerido.">
-								<input id="search_form_degree" class="input_field search_form_degree" type="text" placeholder="Email" required="required" data-error="Su email es requerido.">
-                                                                <input id="search_form_degree" class="input_field search_form_degree" type="text" placeholder="Comentario">
-								<button id="search_submit_button" type="submit" class="search_submit_button trans_200" value="Submit">Contactarnos</button>
+                                                                <input id="search_form_degree" class="input_field search_form_degree" type="text" name="telefono" placeholder="Telefono" required="required" data-error="Su Telefono es requerido.">
+								<input id="search_form_degree" class="input_field search_form_degree" type="text" name="email" placeholder="Email" required="required" data-error="Su email es requerido.">
+                                                                <input id="search_form_degree" class="input_field search_form_degree" type="text" name="mensaje" placeholder="Mensaje">
+								<button id="search_submit_button" type="submit" class="search_submit_button trans_200" value="Enviar">Contactarnos</button>
 							</form>
 						</div> 
 					</div>

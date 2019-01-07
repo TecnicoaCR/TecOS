@@ -934,9 +934,10 @@ section
 .card-body
 {
 	padding-top: 0px;
-	padding-bottom: 0px;
+	padding-bottom: 25px;
 	padding-left: 15px;
 	padding-right: 15px;
+        
 }
 .card-title
 {
