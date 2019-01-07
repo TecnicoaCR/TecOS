@@ -37,12 +37,12 @@
 			<nav class="main_nav_container">
 				<div class="main_nav">
 					<ul class="main_nav_list">
-						<li class="main_nav_item"><a href="#">Incio</a></li>
-                                                        <li class="main_nav_item"><a href="#">Servicios</a></li>
-                                                        <li class="main_nav_item"><a href="courses.html">Nosotros</a></li>
-                                                        <li class="main_nav_item"><a href="elements.html">Proyectos</a></li>
-                                                        <li class="main_nav_item"><a href="news.html">Aplicaciones</a></li>
-                                                        <li class="main_nav_item"><a href="contact.html">Contacto</a></li>
+                                            <li class="main_nav_item"><a href="/index.php">Incio</a></li>
+                                                        <li class="main_nav_item"><a href="#servicios">Servicios</a></li>
+                                                        <li class="main_nav_item"><a href="#">Nosotros</a></li>
+                                                        <li class="main_nav_item"><a href="#">Proyectos</a></li>
+                                                        <li class="main_nav_item"><a href="#">Aplicaciones</a></li>
+                                                        <li class="main_nav_item"><a href="#contacto">Contacto</a></li>
 					</ul>
 				</div>
 			</nav>
@@ -146,7 +146,7 @@
 
 	<!-- Popular -->
 
-	<div class="popular page_section">
+        <div class="popular page_section" id="servicios">
 		<div class="container">
 			<div class="row">
 				<div class="col">
@@ -231,7 +231,7 @@
 
 	<!-- Register -->
 
-	<div class="register">
+        <div class="register" id="contacto">
 
 		<div class="container-fluid">
 			
