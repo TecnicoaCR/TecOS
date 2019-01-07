@@ -1,0 +1,42 @@
+/*
+# mod_sp_quickcontact - Ajax based quick contact Module by JoomShaper.com
+# -----------------------------------------------------------------------	
+# Author    JoomShaper http://www.joomshaper.com
+# Copyright (C) 2010 - 2012 JoomShaper.com. All Rights Reserved.
+# License - http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
+# Websites: http://www.joomshaper.com
+*/
+
+
+p.sp_qc_loading {background: url(../images/ajax-loader.gif) no-repeat 0 50%; padding: 5px 20px}
+p.sp_qc_warn{color:red}
+p.sp_qc_success {color:green; font-weight: bold}
+.sp_qc_error{border:1px solid #e20000}
+.sp_qc_error:focus{border:1px solid red}
+.sp_qc_clr{clear:both;}
+
+#name,#email,#subject{
+width: 100%;
+padding: 15px;
+background: transparent;
+margin-bottom: 25px;
+color: #727272 !important;
+font-size: 13px;
+-webkit-transition: all 0.4s;
+-moz-transition: all 0.4s;
+transition: all 0.4s;
+}
+#message{
+height: 200px;
+max-height: 200px;
+max-width: 100%;
+width: 100%;
+padding: 15px;
+background: transparent;
+margin-bottom: 25px;
+color: #727272 !important;
+font-size: 13px;
+-webkit-transition: all 0.4s;
+-moz-transition: all 0.4s;
+transition: all 0.4s;
+}

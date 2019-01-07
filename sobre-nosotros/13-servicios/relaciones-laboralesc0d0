@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/iceshortcodes/assets/iceshortcodes.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Sobre Nosotros</title>
+		<description><![CDATA[Servicio de Asesoria y Gestoría en Madrid]]></description>
+		<link>https://www.hmasesores.es/sobre-nosotros/13-servicios/relaciones-laborales</link>
+		<lastBuildDate>Sun, 06 Jan 2019 06:04:09 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.hmasesores.es/sobre-nosotros/13-servicios/relaciones-laborales?format=feed&amp;type=rss"/>
+		<language>es-es</language>
+		<managingEditor>info@hmasesores.es (Hernandez muñiz Asesores)</managingEditor>
+		<item>
+			<title>Relaciones Laborales</title>
+			<link>https://www.hmasesores.es/servicios/relaciones-laborales</link>
+			<guid isPermaLink="true">https://www.hmasesores.es/servicios/relaciones-laborales</guid>
+			<description><![CDATA[<p style="text-align: justify;"><span style="font-size: 12pt;">Procederemos a las gesti&oacute;n integral de los recursos humanos de su empresa, tramitando los necesarios contratos, altas y bajas en la Seguridad Social, n&oacute;minas y finiquitos.</span></p>]]></description>
+			<author>daniel@miempresa.online (Daniel)</author>
+			<category>Relaciones Laborales</category>
+			<pubDate>Tue, 22 Dec 2015 17:00:46 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

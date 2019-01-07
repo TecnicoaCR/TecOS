@@ -1,517 +1,462 @@
 <!DOCTYPE html>
-<html lang="en">
+<html >
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <head>
-<title>TecnicoaCR Professional Services</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	  <base  />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="asesoría, gestoría, contabilidad, asesoría fiscal, asesoría contable, seguros, emprendedores." />
+  <meta name="rights" content="tecnicoacr.com" />
+  <meta name="description" content="Servicio Profesionales en Finanzas" />
+ 
+  <title>PROSERFI Professional Services</title>
+  <link href="indexc0d0.html?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="index7b17.html?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="templates/oxygen/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="plugins/system/iceshortcodes/assets/iceshortcodes.css" type="text/css" />
+  <link rel="stylesheet" href="templates/oxygen/css/reset.css" type="text/css" />
+  <link rel="stylesheet" href="templates/oxygen/css/animate.min.css" type="text/css" />
+  <link rel="stylesheet" href="templates/oxygen/css/bootstrap.min.css" type="text/css" />
+  <link rel="stylesheet" href="templates/oxygen/css/flexslider.css" type="text/css" />
+  <link rel="stylesheet" href="templates/oxygen/css/font-awesome.css" type="text/css" />
+  <link rel="stylesheet" href="templates/oxygen/css/owl.carousel.css" type="text/css" />
+  <link rel="stylesheet" href="templates/oxygen/css/prettyPhoto.css" type="text/css" />
+  <link rel="stylesheet" href="templates/oxygen/css/responsive.css" type="text/css" />
+  <link rel="stylesheet" href="templates/oxygen/css/gradients.css" type="text/css" />
+  <link rel="stylesheet" href="templates/oxygen/css/YTPlayer.css" type="text/css" />
+  <link rel="stylesheet" href="templates/oxygen/css/theme_panel.css" type="text/css" />
+  <link rel="stylesheet" href="templates/oxygen/css/shortcodes.css" type="text/css" />
+  <link rel="stylesheet" href="templates/oxygen/css/custom.css" type="text/css" />
+  <link rel="stylesheet" href="modules/mod_cookiesaccept/screen.css" type="text/css" />
+  <link rel="stylesheet" href="media/com_uniterevolution/assets/rs-plugin/css/settings.css" type="text/css" />
+  <link rel="stylesheet" href="media/com_uniterevolution/assets/rs-plugin/css/captions.css" type="text/css" />
+  <script src="media/jui/js/jquery.min.js" type="text/javascript"></script>
+  <script src="media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+  <script src="media/system/js/caption.js" type="text/javascript"></script>
+  <script src="../code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+  <script src="media/com_uniterevolution/assets/rs-plugin/js/jquery.themepunch.plugins.min.js" type="text/javascript"></script>
+  <script src="media/com_uniterevolution/assets/rs-plugin/js/jquery.themepunch.revolution.min.js" type="text/javascript"></script>
+  <script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+  </script>
 
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="description" content="TecnicoaCR Professional Services">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" type="text/css" href="styles/bootstrap4/bootstrap.min.css">
-<link href="plugins/fontawesome-free-5.0.1/css/fontawesome-all.css" rel="stylesheet" type="text/css">
-<link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/owl.carousel.css">
-<link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/owl.theme.default.css">
-<link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/animate.css">
-<link rel="stylesheet" type="text/css" href="styles/main_styles.css">
-<link rel="stylesheet" type="text/css" href="styles/responsive.css">
+	<link rel="stylesheet" href="templates/oxygen/css/style.css" />
+	<link rel="stylesheet" href="templates/oxygen/css/colors/red.css" />
+	<!--<link id="changeable-colors" rel="stylesheet" href="/templates//css/colors/red.css" type="text/css"/>-->
+
+	<!--[if lt IE 9]>
+		<script src="/media/jui/js/html5.js"></script>
+	<![endif]-->
 </head>
-<body>
 
-<div class="super_container">
-
-	<!-- Header -->
-
-	<header class="header d-flex flex-row">
-		<div class="header_content d-flex flex-row align-items-center">
-			<!-- Logo -->
-			<div class="logo_container">
-				<div class="logo">
-					<img src="images/logo.png" alt="TecnicoaCR</span>
-                                        </div>">
-					<span>TecnicoaCR</span>
-                                        
-				</div>
-			</div>
-
-			<!-- Main Navigation -->
-			<nav class="main_nav_container">
-				<div class="main_nav">
-					<ul class="main_nav_list">
-                                            <li class="main_nav_item"><a href="/index.php">Incio</a></li>
-                                                        <li class="main_nav_item"><a href="#servicios">Servicios</a></li>
-                                                        <li class="main_nav_item"><a href="#">Nosotros</a></li>
-                                                        <li class="main_nav_item"><a href="#">Proyectos</a></li>
-                                                        <li class="main_nav_item"><a href="#">Aplicaciones</a></li>
-                                                        <li class="main_nav_item"><a href="#contacto">Contacto</a></li>
-					</ul>
-				</div>
-			</nav>
+    <body>
+	<!-- Page Top -->
+	<section id="pagetop" class="relative clearfix">
+            <div class="pagetop-inner clearfix">
+		<div class="col-xs-8 left t-left no-padding">
+                    <p class=" normal no-padding no-margin">
+                        PROSERFI | FISCAL - LABORAL - JURÍDICO - CONTABLE											</p>
 		</div>
-		<div class="header_side d-flex flex-row justify-content-center align-items-center">
-			<img src="images/phone-call.svg" alt="">
-			<span>+506 8739 7420</span>
-                        <span>Coticemos!</span>
+		<div class="col-xs-4 right t-right">
+                    <a href="tel:506 8974 46 94 " class="semibold page-link">
+			<i class="fa fa-angle-right"></i>
+			+506 8974-4694
+                    </a>
+                    <a href="mailto:maynor.greencr@gmail.com " class="semibold page-link">
+			<i class="fa fa-angle-right"></i>
+                            maynor.greencr@gmail.com
+                    </a>
 		</div>
-
-		<!-- Hamburger -->
-		<div class="hamburger_container">
-			<i class="fas fa-bars trans_200"></i>
-		</div>
-
-	</header>
+            </div>
+	</section>
+	<!-- End Page Top -->
+				
+	<!-- Navigation -->
+	<section id="navigation" class="not-visible-nav white-nav">
+            <!-- Navigation Inner -->
+            <div class="nav-inner">
+		<!-- Site Logo -->
+		<div class="site-logo">
+                    <a class="scroll logo" href="index.php">
+                        <img src="images/logo.jpg" alt="" />	
+                    </a>	
+		</div><!-- End Site Logo -->
+                
+		<a class="mini-nav-button dark"><i class="fa fa-bars"></i></a>
+                
+		<!-- Navigation Menu -->
+		<div class="nav-menu">
+                    <div class="moduletable">	
+                        <ul class="nav uppercase condensed bold">
+                            <li class="item-133  active"><a class="scroll" href="index.php" >Inicio</a></li>
+                            <li class="item-170"><a class="scroll" href="sobre-nosotros.html" >Sobre Nosotros</a></li>
+                            <li class="item-135 dropdown-toggle nav-toggle">	<a class="scroll" class="dropdown-toggle" href="#"  >servicios<b data-toggle="dropdown" class="caret"></b></a><ul class="dropdown-menu"><li class="item-174"><a class="scroll" href="servicios/control-y-planificacion-empresarial.html" >Control y Planificación Empresarial</a></li>
+                                    <li class="item-163"><a class="scroll" href="servicios/contabilidad-y-finanzas.html" >Contabilidad y Finanzas</a></li>
+                                    <li class="item-172"><a class="scroll" href="servicios/fiscalidad-y-tributacion.html" >Fiscalidad Y Tributación</a></li>
+                                    <li class="item-175"><a class="scroll" href="servicios/juridico-mercantil.html" >Jurídico-Mercantil</a></li><li class="item-177"><a class="scroll" href="servicios/relaciones-laborales.html" >Relaciones Laborales</a></li></ul></li>
+                                    <li class="item-171"><a class="scroll" href="cuadro-de-tarifas.html" >Cuadro de tarifas</a></li>
+                                    <li class="item-145"><a class="scroll" href="contacto.html" >Contacto</a></li>
+                        </ul>		
+                    </div>
+		</div><!-- End Navigation Menu -->
+            </div><!-- End Navigation Inner -->
+	</section><!-- End Navigation Section -->
 	
-	<!-- Menu -->
-	<div class="menu_container menu_mm">
-
-		<!-- Menu Close Button -->
-		<div class="menu_close_container">
-			<div class="menu_close"></div>
-		</div>
-
-		<!-- Menu Items -->
-		<div class="menu_inner menu_mm">
-			<div class="menu menu_mm">
-				<ul class="menu_list menu_mm">
-					<li class="menu_item menu_mm"><a href="#">Inicio</a></li>
-                                        <li class="menu_item menu_mm"><a href="#servicios">Servicios</a></li>
-					<li class="menu_item menu_mm"><a href="#">Nosotros</a></li>
-					<li class="menu_item menu_mm"><a href="#">Proyectos</a></li>
-					<li class="menu_item menu_mm"><a href="#">Aplicaciones</a></li>
-					<li class="menu_item menu_mm"><a href="#contacto">Contacto</a></li>
-				</ul>
-
-				<!-- Menu Social -->
+	<!-- Home Section -->
+	<section id="home"> 	
+            <div class="moduletable">
+		<!-- START REVOLUTION SLIDER ver. 2.2.1 -->
+    		<div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" style="margin:0px auto;background-color:#E9E9E9;padding:0px;margin-top:0px;margin-bottom:0px;max-height:500px;direction:ltr;">
+                    <div id="rev_slider_1_1" class="rev_slider fullwidthabanner" style="display:none;max-height:500px;height:500px;">						
+			<ul>
+                            <li data-transition="slotslide-horizontal" data-slotamount="7" data-masterspeed="300" > 
+				<img src="images/slider/asesoria-slide1.jpg" alt="" />
+																	
+				<div class="tp-caption fade" accesskey="" data-x="-91" data-y="265" data-speed="300" data-start="800" data-easing="easeOutExpo"  ><p class="rev-text-500 bold uppercase white t-center">
+                                    FISCAL - LABORAL - CONTABLE - MERCANTIL </p></div>
+                            </li>				
+                            <li data-transition="slotzoom-horizontal" data-slotamount="7" data-masterspeed="300" >    
+				<img src="images/slider/asesoria-slide2.jpg" alt="" />
+																			
+				<div class="tp-caption fade"  
+					 data-x="36" 
+					 data-y="250" 
+					 data-speed="300" 
+					 data-start="500" 
+					 data-easing="easeOutExpo"  ><p class="rev-text-5 bold uppercase white t-center">
+										Tu Asesoría de confianza
+									</p></div>
 				
-				<div class="menu_social_container menu_mm">
-					<ul class="menu_social menu_mm">
-						<li class="menu_social_item"><a href="https://www.facebook.com/TecnicoaCR/"><i class="fab fa-facebook-f"></i></a></li>
-                                                        <li class="menu_social_item"><a href="https://www.instagram.com/tecnicoacr/"><i class="fab fa-instagram"></i></a></li>
-                                                        <li class="menu_social_item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                                        <li class="menu_social_item"><a href="#"><i class="fab fa-twitter"></i></a></li>
-					</ul>
+												</li>
+								</ul>
+									<div class="tp-bannertimer"></div>					</div>
 				</div>
+							
+			<script type="text/javascript">
+				
+				var tpj=jQuery;
+				
+				
+				var revapi1;
+				
+				tpj(document).ready(function() {
+				
+				if (tpj.fn.cssOriginal != undefined)
+					tpj.fn.css = tpj.fn.cssOriginal;
+				
+				if(tpj('#rev_slider_1_1').revolution == undefined)
+					revslider_showDoubleJqueryError('#rev_slider_1_1',"joomla");
+				else	
+					revapi1 = tpj('#rev_slider_1_1').show().revolution(
+					 {
+						delay:5000,
+						startwidth:960,
+						startheight:500,
+						hideThumbs:200,
+						
+						thumbWidth:100,
+						thumbHeight:50,
+						thumbAmount:2,
+						
+						navigationType:"bullet",
+						navigationArrows:"verticalcentered",
+						navigationStyle:"round",
+						
+						touchenabled:"off",
+						onHoverStop:"off",
+						
+						shadow:0,
+						fullWidth:"on",
 
-                                <div class="menu_copyright menu_mm">
-                                    Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Desarrollado con <i class="fa fa-heart" aria-hidden="true"></i> por <a href="https:/facebook.com/TecnicoaCR" target="_blank">TecnicoaCR</a>
-                                </div>
-			</div>
-		</div>
-	</div>
+						navigationHAlign:"center",
+						navigationVAlign:"bottom",
+						navigationHOffset:0,
+						navigationVOffset:20,
+								
+						stopLoop:"off",
+						stopAfterLoops:-1,
+						stopAtSlide:-1,
+								
+						shuffle:"off",
+						
+						hideSliderAtLimit:0,
+						hideCaptionAtLimit:0,
+						hideAllCaptionAtLilmit:0					});
+				
+				});	//ready
+				
+			</script>
+			
+							<!-- END REVOLUTION SLIDER -->
+						</div>
 	
-	<!-- Home -->
-
-	<div class="home">
-
-		<!-- Hero Slider -->
-		<div class="hero_slider_container">
-			<div class="hero_slider owl-carousel">
-				
-				<!-- Hero Slide -->
-				<div class="hero_slide">
-					<div class="hero_slide_background" style="background-image:url(images/wall01.png)"></div>
-					<div class="hero_slide_container d-flex flex-column align-items-center justify-content-center">
-						<div class="hero_slide_content text-center">
-                                                    <h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">Ofrecemos <span>Respaldo</span>.</h1>
-						</div>
-					</div>
-				</div>
-				
-				<!-- Hero Slide -->
-				<div class="hero_slide">
-					<div class="hero_slide_background" style="background-image:url(images/wall02.png)"></div>
-					<div class="hero_slide_container d-flex flex-column align-items-center justify-content-center">
-						<div class="hero_slide_content text-center">
-							<h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">Mejores <span>Precios</span>.</h1>
-						</div>
-					</div>
-				</div>
-				
-				<!-- Hero Slide -->
-				<div class="hero_slide">
-					<div class="hero_slide_background" style="background-image:url(images/wall03.png)"></div>
-					<div class="hero_slide_container d-flex flex-column align-items-center justify-content-center">
-						<div class="hero_slide_content text-center">
-							<h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">Altamente <span>Capacitados</span>.</h1>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="hero_slider_left hero_slider_nav trans_200"><span class="trans_200"><</span></div>
-			<div class="hero_slider_right hero_slider_nav trans_200"><span class="trans_200">></span></div>
-		</div>
-	</div>
-
-	<!-- Popular -->
-
-        <div class="popular page_section" id="servicios">
-		<div class="container">
-			<div class="row">
-				<div class="col">
-					<div class="section_title text-center">
-						<h1>Nuestros Servicios</h1>
-					</div>
-				</div>
-			</div>
-
-			<div class="row course_boxes">
-				
-				<!-- Popular Course Item -->
-				<div class="col-lg-4 course_box">
-					<div class="card">
-                                            <img class="card-img-top" src="images/services_1.jpg" alt="">
-						<div class="card-body text-center">
-							<div class="card-title"><a href="#">Desarrollo</a></div>
-							<div class="card-text">Diseño, Renovación y Mantenimiento de Paginas Web Dinamicas, Aplicaciónes Web & Moviles...</div>
-						</div>
-					</div>
-				</div>
-
-				<!-- Popular Course Item -->
-				<div class="col-lg-4 course_box">
-					<div class="card">
-						<img class="card-img-top" src="images/services_2.jpg" alt="">
-						<div class="card-body text-center">
-							<div class="card-title"><a href="#">Capacitaciones</a></div>
-							<div class="card-text">Le ofrecemos una serie de capacitaciones para incentivarlo a elevar, transformar y actualizar sus conocimientos.</div>
-						</div>
-					</div>
-				</div>
-
-				<!-- Popular Course Item -->
-				<div class="col-lg-4 course_box">
-					<div class="card">
-						<img class="card-img-top" src="images/services_3.jpg" alt="">
-						<div class="card-body text-center">
-							<div class="card-title"><a href="#">Conectividad</a></div>
-							<div class="card-text">Redes, enlaces inalámbricos & conexiones PTP.</div>
-						</div>
+	</section><!-- End Home Section -->
+	
+<section id="home-bottom" class="relative full-width clearfix">
+		<div class="home-bottom-inner clearfix">
+					<div class="moduletable">
 						
-					</div>
-				</div>
-                                
-                                <!-- Popular Course Item -->
-                                <div class="col-lg-4 course_box">
-					<div class="card">
-                                            <img class="card-img-top" src="images/services_4.jpg" alt="">
-						<div class="card-body text-center">
-							<div class="card-title"><a href="#">Soporte Informático</a></div>
-							<div class="card-text">Mantenimiento de equipos de computo.</div>
-						</div>
-					</div>
-				</div>
 
-				<!-- Popular Course Item -->
-				<div class="col-lg-4 course_box">
-					<div class="card">
-						<img class="card-img-top" src="images/services_5.jpg" alt="">
-						<div class="card-body text-center">
-							<div class="card-title"><a href="#">Publicidad</a></div>
-							<div class="card-text">Manejo de la imagen de la empresa y Posicionamiento de Marca.</div>
-						</div>
-					</div>
-				</div>
+<div class="custom"  >
+	<div class="col-xs-7 no-padding t-left left">
+<h2 class="white normal no-margin no-padding"><span style="color: #ffffff;">Solic&iacute;ta presupuesto</span> <span class="colored condiment bigger"> Sin Compromiso</span></h2>
+</div>
+<div class="col-xs-5 no-padding t-right"><span class="white normal no-margin no-padding"> </span> <span style="color: #ffffff;"><a href="contacto.php" class="home-bottom-button normal colored-bg white uppercase scroll"><span style="color: #ffffff;"> Contactar </span></a></span></div></div>
+		</div>
+	
+		</div>
+	</section>
 
-				<!-- Popular Course Item -->
-				<div class="col-lg-4 course_box">
-					<div class="card">
-                                            <img class="card-img-top" src="images/services_6.jpg" alt="">
-						<div class="card-body text-center">
-							<div class="card-title"><a href="#">Diseño Gráfico</a></div>
-							<div class="card-text">Logotipos, afiches, tarjetas de presentación y mucho más!</div>
-						</div>
+	<!-- About -->
+	<section id="about" class="container waypoint bg">
+		<div class="inner">
+					<div class="moduletable">
 						
-					</div>
+			<!-- Header -->
+						<h1 class="header semibold dark"><h2>Nuestros Servicios</h2></h1>
+									<!-- Description -->
+			<h4 class="h-desc d-dark"><p><span style="font-size: 14pt;">PROSERFI Profersonal Services se establece en el 2010 y desde entonces desarrolla soluciones que cubren todo el espectro de la gesti&oacute;n empresarial. Nuestra clientela compone un abanico muy amplio en cuanto a tama&ntilde;os, formas jur&iacute;dicas y sectores.</span></p></h4>
+						
+			<!-- Boxes -->
+			<div class="boxes d-dark">
+								<!-- Box 1 -->
+				<div class="col-xs-4 about-box animated" data-animation="fadeIn" data-animation-delay="100">
+					<a class="about-icon">
+						<i class="fa fa-calculator "></i>
+					</a>
+					<p class="uppercase normal about-head"><p><span style="color: #a61e37;"><a href="#" style="color: #a61e37;">CONTABILIDAD Y FINANZAS</a></span></p></p>
+					<p class="light about-text"><p style="text-align: justify;">Desde la realización de auditorías financieras hasta el desarrollo de recomendaciones de gestión: nuestro equipo reúne amplias competencias en materia...</p></p>
 				</div>
-			</div>
-		</div>		
+								
+								<!-- Box 2 -->
+				<div class="col-xs-4 about-box animated" data-animation="fadeIn" data-animation-delay="300">
+					<a class="about-icon">
+						<i class="fa fa-calendar"></i>
+					</a>
+					<p class="uppercase normal about-head"><p><span style="color: #a61e37;"><a href="#" style="color: #a61e37;">FISCALIDAD Y TRIBUTACI&Oacute;N</a></span></p></p>
+					<p class="light about-text"><p style="text-align: justify;">Abarca todas las exigencias tributarias relacionadas con la gestión empresarial, así como la asistencia a posibles Inspecciones ante el Ministerio de Hacienda.</p></p>
+				</div>
+								
+								<!-- Box 3 -->
+				<div class="col-xs-4 about-box animated" data-animation="fadeIn" data-animation-delay="500">
+					<a class="about-icon">
+						<i class="fa fa-group"></i>
+					</a>
+					<p class="uppercase normal about-head"><p><span style="color: #a61e37;"><a href="#" style="color: #a61e37;">CONTROL Y PLANIFICACI&Oacute;N EMPRESARIAL</a></span></p></p>
+					<p class="light about-text"><p style="text-align: justify;">Aproveche toda nuestra experiencia y buen hacer para garantizar el futuro de su empresa a través de medidas empresariales a corto y largo plazo</p></p>
+				</div>
+								
+								<!-- Box 4 -->
+				<div class="col-xs-4 about-box animated" data-animation="fadeIn" data-animation-delay="700">
+					<a class="about-icon">
+						<i class="fa fa-book"></i>
+					</a>
+					<p class="uppercase normal about-head"><p><span style="color: #a61e37;"><a href="#" style="color: #a61e37;">JURIDICO MERCANTIL</a></span></p></p>
+					<p class="light about-text"><p style="text-align: justify;">Nuestro equipo jurídico  velará porque sus intereses queden a salvo, asistiéndoles en cualquier conflicto ante el Servicio de Mediación Conciliación y Arbitraje</p></p>
+				</div>
+								
+								<!-- Box 5 -->
+				<div class="col-xs-4 about-box animated" data-animation="fadeIn" data-animation-delay="700">
+					<a class="about-icon">
+						<i class="fa fa-bar-chart"></i>
+					</a>
+					<p class="uppercase normal about-head"><p><span style="color: #a61e37;"><a href="#" style="color: #a61e37;">FINANCIERO</a></span></p></p>
+					<p class="light about-text"><p style="text-align: justify;">Contamos con personal altamente cualificado y con una dilatada experiencia bancaria y financiera que podr&aacute; guiarle en sus decisiones tanto de inversi&oacute;n como de financiaci&oacute;n.</p></p>
+				</div>
+								
+								<!-- Box 6 -->
+				<div class="col-xs-4 about-box animated" data-animation="fadeIn" data-animation-delay="700">
+					<a class="about-icon">
+						<i class="fa fa-briefcase"></i>
+					</a>
+					<p class="uppercase normal about-head"><p><span style="color: #a61e37;"><a href="#" style="color: #a61e37;"></a>PRESUPUESTO PERSONALIZADO</span></p></p>
+					<p class="light about-text"><p style="text-align: justify;">PROSERFI Profesional Services tiene unos precios muy competitivos que se ajustan perfectamente a las necesidades de las empresas. Contacta ahora para obtener un presupuesto personalizado a medida.</p></p>
+				</div>
+							</div><!-- End Boxes -->
+
+		</div>
+	
+		</div><!-- End About Inner -->
+	</section><!-- End About Section -->
+
+
+
+
+
+
+
+	<!-- Testimonials -->
+	<section class="testimonials parallax2">
+		<div class="inner">
+					<div class="moduletable">
+							<h3>Nuestros clientes opinan:</h3>
+									<!-- Header -->
+									
+			<ul class="t-slides">
+							<!-- Testimonial -->
+				<li class="monial">
+					<!-- Text -->
+					<h1 class="uppercase bold condensed white"><p>Seguridad Falcon Guanacaste</p></h1>
+					<!-- Name -->
+					<p class="light uppercase"><p>Atenci&oacute;n muy profesional y eficiente. Con la ayuda de PROSERFI, hemos aumentado nuestro rendimiento empresarial.</p></p>
+				</li>
+						
+							<!-- Testimonial -->
+				<li class="monial">
+					<!-- Text -->
+					<h1 class="uppercase bold condensed white"><p>TecnicoaCR Professional Services</p></h1>
+					<!-- Name -->
+					<p class="light uppercase"><p>Amplios concocimientos contables, laborales y fiscales. Capaces de ofrecer una verdadera solución.</p></p>
+				</li>
+						
+							<!-- Testimonial -->
+				<!--<li class="monial">
+					<!-- Text --
+					<h1 class="uppercase bold condensed white"><p>(<span style="color: #000000; font-family: Calibri; font-size: 16px;">Talleres Marques, S.L.</span>)</p></h1>
+					<!-- Name --
+					<p class="light uppercase"><p>Una gestor&iacute;a de confianza y con grandes profesionales</p></p>
+				</li>-->
+						
+						
+						
+						</ul>
+		</div>
+	
+		</div><!-- End Inner Div -->
+	</section><!-- End Testimonials Section -->
+
+			<!-- Blog Section -->
+	<section id="blog" class="container">
+		<!-- Blog Inner -->
+		<div class="inner blog blog-s">
+								<div class="posts">
+					<!-- Begin Content -->
+					<div id="system-message-container">
 	</div>
 
-	<!-- Register -->
+					<div class="blog-featured" itemscope itemtype="http://schema.org/Blog">
 
-        <div class="register" id="contacto">
 
-		<div class="container-fluid">
-			
-			<div class="row row-eq-height">
-				<div class="col-lg-6 nopadding">
-					
-					<!-- Register -->
 
-					<div class="register_section d-flex flex-column align-items-center justify-content-center">
-						<div class="register_content text-center">
-							<h1 class="register_title">Cotice con nosotros y recibira un <span>50%</span> de descuentos en todos nuestros servicios.</h1>
-							<p class="register_text">TecnicoaCR Professional Services ofrece un 50% de descuento en todos los servicios a quienes coticen por primera vez con nosotros.</p>
-                                                        <div class="button button_1 register_button mx-auto trans_200"><a href="#">Cotice ahora! <br/>Sin compromiso.</a></div>
-						</div>
-					</div>
-
-				</div>
-
-				<div class="col-lg-6 nopadding">
-					
-					<!-- Search -->
-
-					<div class="search_section d-flex flex-column align-items-center justify-content-center">
-						<div class="search_background" style="background-image:url(images/search_background.jpg);"></div>
-						<div class="search_content text-center">
-							<h1 class="search_title">Conversemos</h1>
-                                                        
-                                                        <!-- ajax contact form -->
-                                                        <form id="search_form" class="contact_form" method="post" action="mail.php" >
-                                                            
-                                                            <!-- form message -->
-                                                            <div class="row">
-                                                                <div class="col-12">
-                                                                    <div class="alert alert-success contact__msg" style="display: none" role="alert">
-                                                                        Tu mensaje fue enviado exitosamente.
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <!-- end message -->
-                                                            
-                                                            <input id="search_form_name" class="input_field search_form_name" type="text" name="nombrecompleto" placeholder="Nombre completo" required="required" data-error="Su Nombre es requerido.">
-                                                                
-                                                               <!-- <select id="search_form_category" class="input_field" name="servicio" placeholder="Servicios" required="required" data-error="El tipo de servicio es requerido.">
-                                                            
-                                                                    <option value="Desarrollo">Desarrollo</option>
-                                                                    <option value="Conectividad">Conectividad</option>
-                                                                    <option value="Soporte">Soporte Informático</option>
-                                                                    <option value="Publicidad">Publicidad</option>
-                                                                    <option value="Diseño">Diseño Gráfico</option>
-                                                                    <option value="Capacitación">Capacitaciones</option>
-                                                                </select> -->
-                                                            <input id="search_form_name" class="input_field search_form_name" type="text" name="servicio" placeholder="Servicio" required="required" data-error="El servicio es requerido.">
-                                                                
-                                                                <input id="search_form_degree" class="input_field search_form_degree" type="text" name="telefono" placeholder="Telefono" required="required" data-error="Su Telefono es requerido.">
-								<input id="search_form_degree" class="input_field search_form_degree" type="text" name="email" placeholder="Email" required="required" data-error="Su email es requerido.">
-                                                                <input id="search_form_degree" class="input_field search_form_degree" type="text" name="mensaje" placeholder="Mensaje">
-								<button id="search_submit_button" type="submit" class="search_submit_button trans_200" value="Enviar">Contactarnos</button>
-							</form>
-						</div> 
-					</div>
-
-				</div>
-			</div>
-		</div>
-	</div>
-
-	<!-- Services -->
-
-	<div class="services page_section">
-		
-		<div class="container">
-			<div class="row">
-				<div class="col">
-					<div class="section_title text-center">
-						<h1>Clientes</h1>
-					</div>
-				</div>
-			</div>
-
-			<div class="row services_row">
-
-				<div class="col-lg-4 service_item text-left d-flex flex-column align-items-start justify-content-start">
-					<div class="icon_container d-flex flex-column justify-content-end">
-                                            <img src="images/clientes_1.jpg" alt="">
-					</div>
-					<h3>MotoRepuestos Nayara RG</h3>
-                                        <p><small>Santa Cruz, Guanacaste.</small><p/>
-					<p>Es una comercio dedicado a la venta de repuestos y accesorios para motocicletas desde el año 2015, con un amplio conocimiento y experiencia en motocicletas.</p>
-				</div>
-
-				<div class="col-lg-4 service_item text-left d-flex flex-column align-items-start justify-content-start">
-					<div class="icon_container d-flex flex-column justify-content-end">
-                                            <img src="images/clientes_2.jpg" alt="">
-					</div>
-					<h3>PROSERFI Professional Services</h3>
-                                        <p><small>Hojancha, Guanacaste.</small></p>
-					<p>Se estableció en el 2010 y desde entonces desarrolla soluciones que cubren todo el espectro de la gestión financiera personal y empresarial.
-</p>
-				</div>
-                                <!--
-				<div class="col-lg-4 service_item text-left d-flex flex-column align-items-start justify-content-start">
-					<div class="icon_container d-flex flex-column justify-content-end">
-						<img src="images/books.svg" alt="">
-					</div>
-					<h3>Amazing Library</h3>
-					<p>In aliquam, augue a gravida rutrum, ante nisl fermentum nulla, vitae tempor nisl ligula vel nunc. Proin quis mi malesuada, finibus tortor fermentum.</p>
-				</div>
-
-				<div class="col-lg-4 service_item text-left d-flex flex-column align-items-start justify-content-start">
-					<div class="icon_container d-flex flex-column justify-content-end">
-						<img src="images/professor.svg" alt="">
-					</div>
-					<h3>Exceptional Professors</h3>
-					<p>In aliquam, augue a gravida rutrum, ante nisl fermentum nulla, vitae tempor nisl ligula vel nunc. Proin quis mi malesuada, finibus tortor fermentum.</p>
-				</div>
-
-				<div class="col-lg-4 service_item text-left d-flex flex-column align-items-start justify-content-start">
-					<div class="icon_container d-flex flex-column justify-content-end">
-						<img src="images/blackboard.svg" alt="">
-					</div>
-					<h3>Top Programs</h3>
-					<p>In aliquam, augue a gravida rutrum, ante nisl fermentum nulla, vitae tempor nisl ligula vel nunc. Proin quis mi malesuada, finibus tortor fermentum.</p>
-				</div>
-
-				<div class="col-lg-4 service_item text-left d-flex flex-column align-items-start justify-content-start">
-					<div class="icon_container d-flex flex-column justify-content-end">
-						<img src="images/mortarboard.svg" alt="">
-					</div>
-					<h3>Graduate Diploma</h3>
-					<p>In aliquam, augue a gravida rutrum, ante nisl fermentum nulla, vitae tempor nisl ligula vel nunc. Proin quis mi malesuada, finibus tortor fermentum.</p>
-				</div>
-                                -->
-			</div>
-		</div>
-        </div>
-
-	<!-- Footer -->
-
-	<footer class="footer">
-		<div class="container">
-			
-			<!-- Newsletter -->
-
-			<div class="newsletter">
-				<div class="row">
-					<div class="col">
-						<div class="section_title text-center">
-							<h1>¿Le gustaría recibir todas nuestras ofertas?</h1>
-						</div>
-					</div>
-				</div>
-
-				<div class="row">
-					<div class="col text-center">
-						<div class="newsletter_form_container mx-auto">
-							<form action="post">
-								<div class="newsletter_form d-flex flex-md-row flex-column flex-xs-column align-items-center justify-content-center">
-									<input id="newsletter_email" class="newsletter_email" type="email" placeholder="Email Address" required="required" data-error="Valid email is required.">
-									<button id="newsletter_submit" type="submit" class="newsletter_submit_btn trans_300" value="Submit">Suscribirse</button>
-								</div>
-							</form>
-						</div>
-					</div>
-				</div>
-
-			</div>
-
-			<!-- Footer Content -->
-
-                                <div class="footer_content">
-                                        <div class="row">
-
-                                                <!-- Footer Column - About -->
-                                                <div class="col-lg-3 footer_col">
-
-                                                        <!-- Logo -->
-                                                        <div class="logo_container">
-                                                                <div class="logo">
-                                                                        <img src="images/logo_2.png" alt="">
-                                                                        
-                                                                </div>
-                                                        </div>
-                                                         <br/>
-                                                         
-                                                         <h3>TecnicoaCR <br>Professional Services</h3>
-                                                         <p class="footer_about_text">Atendemos su consulta y asesoramos su desarrollo.</p>
-
-                                                </div>
-
-                                                <!-- Footer Column - Menu -->
-
-                                                <div class="col-lg-3 footer_col">
-                                                        <!--<div class="footer_column_title">Menu</div>
-                                                        <div class="footer_column_content">
-                                                                <ul>
-                                                                        <li class="footer_list_item"><a href="#">Home</a></li>
-                                                                        <li class="footer_list_item"><a href="#">About Us</a></li>
-                                                                        <li class="footer_list_item"><a href="courses.html">Courses</a></li>
-                                                                        <li class="footer_list_item"><a href="news.html">News</a></li>
-                                                                        <li class="footer_list_item"><a href="contact.html">Contact</a></li>
-                                                                </ul>
-                                                        </div>-->
-                                                </div>
-
-                                                <!-- Footer Column - Usefull Links -->
-
-                                                <div class="col-lg-3 footer_col">
-                                                       <!-- <div class="footer_column_title">Usefull Links</div>
-                                                        <div class="footer_column_content">
-                                                                <ul>
-                                                                        <li class="footer_list_item"><a href="#">Testimonials</a></li>
-                                                                        <li class="footer_list_item"><a href="#">FAQ</a></li>
-                                                                        <li class="footer_list_item"><a href="#">Community</a></li>
-                                                                        <li class="footer_list_item"><a href="#">Campus Pictures</a></li>
-                                                                        <li class="footer_list_item"><a href="#">Tuitions</a></li>
-                                                                </ul>
-                                                        </div>-->
-                                                </div>
-
-                                                <!-- Footer Column - Contact -->
-
-                                                <div class="col-lg-3 footer_col">
-                                                        <div class="footer_column_title">Contacto</div>
-                                                        <div class="footer_column_content">
-                                                                <ul>
-                                                                        <li class="footer_contact_item">
-                                                                                <div class="footer_contact_icon">
-                                                                                        <img src="images/placeholder.svg" alt="https://www.flaticon.com/authors/lucy-g">
-                                                                                </div>
-                                                                                Guanacaste, Costa Rica.
-                                                                        </li>
-                                                                        <li class="footer_contact_item">
-                                                                                <div class="footer_contact_icon">
-                                                                                        <img src="images/smartphone.svg" alt="https://www.flaticon.com/authors/lucy-g">
-                                                                                </div>
-                                                                                +506 8739 7420
-                                                                        </li>
-                                                                        <li class="footer_contact_item">
-                                                                                <div class="footer_contact_icon">
-                                                                                        <img src="images/envelope.svg" alt="https://www.flaticon.com/authors/lucy-g">
-                                                                                </div>tecnicoa@costarricense.cr
-                                                                        </li>
-                                                                </ul>
-                                                        </div>
-                                                </div>
-
-                                        </div>
-                                </div>
-
-                                <!-- Footer Copyright -->
-
-                                <div class="footer_bar d-flex flex-column flex-sm-row align-items-center">
-                                        <div class="footer_copyright">
-                                                <span>Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Desarrollado con <i class="fa fa-heart" aria-hidden="true"></i> por <a href="https:/facebook.com/TecnicoaCR" target="_blank">TecnicoaCR</a></span>
-                                        </div>
-                                        <div class="footer_social ml-sm-auto">
-                                                <ul class="menu_social">
-                                                        <li class="menu_social_item"><a href="https://www.facebook.com/TecnicoaCR/"><i class="fab fa-facebook-f"></i></a></li>
-                                                        <li class="menu_social_item"><a href="https://www.instagram.com/tecnicoacr/"><i class="fab fa-instagram"></i></a></li>
-                                                        <li class="menu_social_item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                                        <li class="menu_social_item"><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                                </ul>
-                                        </div>
-                                </div>
-
-                        </div>
-                </footer>
 
 </div>
 
-<script src="js/jquery-3.2.1.min.js"></script>
-<script src="styles/bootstrap4/popper.js"></script>
-<script src="styles/bootstrap4/bootstrap.min.js"></script>
-<script src="plugins/greensock/TweenMax.min.js"></script>
-<script src="plugins/greensock/TimelineMax.min.js"></script>
-<script src="plugins/scrollmagic/ScrollMagic.min.js"></script>
-<script src="plugins/greensock/animation.gsap.min.js"></script>
-<script src="plugins/greensock/ScrollToPlugin.min.js"></script>
-<script src="plugins/OwlCarousel2-2.2.1/owl.carousel.js"></script>
-<script src="plugins/scrollTo/jquery.scrollTo.min.js"></script>
-<script src="plugins/easing/easing.js"></script>
-<script src="js/custom.js"></script>
-<script src="js/main.js"></script>
+					<!-- End Content -->
+				</div>
+						</div>
+	</section>
 
+	<!-- Google Map Section -->
+	
+	<!-- Site Socials and Address -->
+	<section id="site-socials" class="no-padding  bg">
+		<div class="site-socials inner no-padding">
+					<div class="moduletable">
+						 
+
+
+	<!-- Header -->
+				
+		<div class="socials">
+                    <a  target="_blank" class="social" href="http://facebook.com/proserfi/"><i class="fa fa-facebook"></i></a>
+                    <a  target="_blank" class="social" href="http://#"><i class="fa fa-twitter"></i></a>
+                    <a  target="_blank" class="social" href="http://#"><i class="fa fa-instagram"></i></a>
+		</div>
+		
+	<!-- Adress, Mail -->
+		<div class="address">
+			<!-- Phone Number, Mail -->
+			<p> +506 8974-4694 | <a href="mailto:maynor.greencr@gmail.com" class="bold dark">maynor.greencr@gmail.com</a></p>
+			<!-- Adress -->
+			<p>Desde Hojancha, Guanacaste. <span class="bold colored">(Costa Rica) </span></p>
+			<!-- Top Button -->
+		</div><!-- End Adress, Mail -->
+				
+									</div>
+	
+			<!-- Socials -->
+			<!-- Adress, Mail -->
+				<a href="#home" class="scroll top-button">
+					<i class="fa fa-angle-double-up"></i>
+				</a>
+		</div><!-- End Inner -->
+	</section><!-- End Site Socials and Address -->
+
+
+<!-------------------------
+		Shortcode Section
+------------------------------>
+<section id="shortcodes" class="container">
+		<div class="inner_s">
+			<!-- Accordions, Tabs -->
+			<div class="cont">
+				
+
+				<!-- Tabs -->
+								<div class="clear"></div>
+
+			</div><!-- End Accordions, Tabs Inner -->
+
+
+							
+			
+
+			<!-- Facts, Skills -->
+			<div class="cont">
+				
+
+				
+
+								<div class="clear"></div>
+			</div>
+
+		</div><!-- End inner -->
+
+		
+		
+		
+	</section><!-- End Short Codes -->
+
+
+
+	<!-- Footer -->
+	<footer class="footer">
+		<!-- Your Company Name -->
+		<h2 class="company-name condensed uppercase white bold"><a class="white" href="index.php">PROSERFI Profssional Services</a></h2>
+		<!-- Copyright -->
+					<p class="copyright normal">PROSERFI PROFESSIONAL SERVICES | &copy;2019 Todos los derechos reservados.&nbsp;</p>
+<p class="copyright normal">Powered by <a href="http://facebook.com/TecnicoaCR" target="_blank" class="white">TecnicoaCR</a>&nbsp;| <a href="politica-de-cookies.html" style="color: #ffffff;">Pol&iacute;tica de Cookies</a><span style="color: #ffffff;">&nbsp;- <a href="privacidad.html" style="color: #ffffff;">Privacidad</a>&nbsp;- <a href="condiciones-generales.html" style="color: #ffffff;">Condiciones Generales</a></span></p>			</footer><!-- End Footer -->
+
+
+
+
+		
+
+		<!-- JS Files -->
+	<!--<script src="/templates//js/jquery-1.11.0.min.js" type="text/javascript"></script>-->
+	<script src="templates/oxygen/js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="templates/oxygen/js/jquery.appear.js" type="text/javascript"></script>
+	<script src="templates/oxygen/js/waypoints.min.js" type="text/javascript"></script>
+	<script src="templates/oxygen/js/jquery.prettyPhoto.js" type="text/javascript"></script>
+	<script src="templates/oxygen/js/modernizr-latest.js" type="text/javascript"></script>
+	<script src="templates/oxygen/js/SmoothScroll.js" type="text/javascript"></script>
+	<script src="templates/oxygen/js/jquery.parallax-1.1.3.js" type="text/javascript"></script>
+	<script src="templates/oxygen/js/jquery.easing.1.3.js" type="text/javascript"></script>
+	<script src="templates/oxygen/js/jquery.superslides.js" type="text/javascript"></script>
+	<script src="templates/oxygen/js/jquery.flexslider.js" type="text/javascript"></script>
+	<script src="templates/oxygen/js/jquery.isotope.js" type="text/javascript"></script>
+	<script src="templates/oxygen/js/jquery.mb.YTPlayer.js" type="text/javascript"></script>
+	<script src="templates/oxygen/js/jquery.fitvids.js" type="text/javascript"></script>
+	<script src="templates/oxygen/js/jquery.slabtext.js" type="text/javascript"></script>
+	<script src="templates/oxygen/js/jquery.sticky.js" type="text/javascript"></script>
+	<script src="templates/oxygen/js/plugins.js" type="text/javascript"></script>
+	<!-- Theme Panel JS-->
+	<script src="templates/oxygen/js/theme-panel.js" type="text/javascript"></script>
+	  <!--End JS Files -->
 </body>
+
+<!-- Mirrored from www.hmasesores.es/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 06 Jan 2019 05:57:21 GMT -->
 </html>

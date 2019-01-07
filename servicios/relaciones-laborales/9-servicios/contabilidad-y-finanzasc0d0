@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/iceshortcodes/assets/iceshortcodes.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Relaciones Laborales</title>
+		<description><![CDATA[Servicio de Asesoria y Gestoría en Madrid]]></description>
+		<link>https://www.hmasesores.es/servicios/relaciones-laborales/9-servicios/contabilidad-y-finanzas</link>
+		<lastBuildDate>Sun, 06 Jan 2019 06:04:03 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.hmasesores.es/servicios/relaciones-laborales/9-servicios/contabilidad-y-finanzas?format=feed&amp;type=rss"/>
+		<language>es-es</language>
+		<managingEditor>info@hmasesores.es (Hernandez muñiz Asesores)</managingEditor>
+		<item>
+			<title>Contabilidad y Finanzas</title>
+			<link>https://www.hmasesores.es/servicios/contabilidad-y-finanzas</link>
+			<guid isPermaLink="true">https://www.hmasesores.es/servicios/contabilidad-y-finanzas</guid>
+			<description><![CDATA[<p style="text-align: justify;"><span style="font-size: 12pt; color: #333333;">Desde la realizaci&oacute;n de auditor&iacute;as financieras hasta el desarrollo de recomendaciones de gesti&oacute;n: nuestro equipo re&uacute;ne amplias competencias en materia de control y asesoramiento. Nuestro &aacute;rea contable realiza la contabilidad desde nuestro despacho o en las propias oficinas de nuestros clientes. </span></p>]]></description>
+			<author>daniel@miempresa.online (Daniel)</author>
+			<category>Contabilidad y Finanzas</category>
+			<pubDate>Tue, 22 Dec 2015 17:00:46 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
