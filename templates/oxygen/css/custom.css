@@ -21,7 +21,7 @@ text-align:left;
 
 .items-more .nav li a {
 line-height:1;
-background: transparent !important;
+background: #12B69C;
 }
 .items-more .nav-tabs li a:before{content: "\f0a4"; font-family:FontAwesome;}
 .items-more .nav-tabs>li>a {border-color: #eee #eee #ddd;}

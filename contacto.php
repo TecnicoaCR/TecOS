@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es-es" lang="es-es" dir="ltr">
 
-<!-- Mirrored from www.hmasesores.es/contacto by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 06 Jan 2019 06:03:37 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <head>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	  <base  />
@@ -11,7 +10,7 @@
   <meta name="rights" content="hmasesores.es" />
   <meta name="description" content="Servicio de Asesoria y Gestoría en Madrid" />
   <meta name="generator" content="Joomla! - Open Source Content Management" />
-  <title>contacto</title>
+  <title>Contacto</title>
   <link href="contactoc0d0?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
   <link href="contacto7b17?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
   <link href="templates/oxygen/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />

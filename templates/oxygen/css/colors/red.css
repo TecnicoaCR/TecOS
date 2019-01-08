@@ -16,7 +16,7 @@
 	.why-oxygen-accordion .accordion-toggle:hover,
 	.dark-nav .nav-menu li a:hover,ul.nav ul.dropdown-menu li.active a,
 	ul.nav ul.dropdown-menu li a:hover{
-		color: #f3c38b ;
+		color: #12B69C ;
 	}
 
 /* Background Colors */
@@ -33,7 +33,7 @@
 	#history ul.timeline li.note:hover,
 	#history ul.timeline li.note:hover:after,
 	.prices .tables .active a.price-table-img{
-		background-color:#f3c38b ;
+		background-color:#12B69C ;
 	}
 
 /* Border Colors */
