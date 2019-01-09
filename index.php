@@ -141,8 +141,8 @@
                                 <table border='0' cellpadding='0' cellspacing='0' width='100%'' style='max-width: 600px;''>
                                     <tr>
                                         <td align='center' valign='top' style='adding: 36px 24px;'>
-                                            <a href='' target='_blank' style='display: inline-block;''>
-                                                <img src='https://dl.dropboxusercontent.com/s/97tw4v28u5rep59/wlogo.png?dl=0' alt='Logo' border='0' width='150' style='display: block; width: 150px; max-width: 150px; min-width: 150px;'>
+                                            <a href='http://www.tecnicoacr.com' target='_blank' style='display: inline-block;''>
+                                                <img src='https://dl.dropboxusercontent.com/s/do6memaps3dva8i/logotec.png?dl=0' alt='Logo' border='0' style='display: block;'>
                                             </a>
                             </td>
                         </tr>
@@ -155,30 +155,6 @@
         </td>
       </tr>
       <!-- end logo -->
-
-      <!-- start hero -->
-      <tr>
-        <td align='center' bgcolor='#e9ecef'>
-          <!--[if (gte mso 9)|(IE)]>
-          <table align='center' border='0' cellpadding='0' cellspacing='0' width='600'>
-          <tr>
-          <td align='center' valign='top' width='600'>
-          <![endif]-->
-          <table border='0' cellpadding='0' cellspacing='0' width='100%' style='max-width: 600px;'>
-            <tr>
-              <td align='left' bgcolor='#ffffff' style='padding: 36px 24px 0; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif; border-top: 3px solid #d4dadf;''>
-                <h1 style='margin: 0; font-size: 32px; font-weight: 700; letter-spacing: -1px; line-height: 48px;'>Ha llegado un nuevo mensaje del Formulario de Contacto</h1>
-              </td>
-            </tr>
-          </table>
-          <!--[if (gte mso 9)|(IE)]>
-          </td>
-          </tr>
-          </table>
-          <![endif]-->
-        </td>
-      </tr>
-      <!-- end hero -->
 
       <!-- start copy block -->
       <tr>
@@ -193,21 +169,21 @@
             <!-- start copy -->
             <tr>
               <td align='left' bgcolor=''#ffffff' style='padding: 24px; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;'>
-                <p style='margin: 0;'>Hola, ha recibido un nuevo mensaje de contacto.<br />
-                Detalle: <br />
-                <strong>Nombre Completo: '<?php echo $name;?>'.</strong><br />
-                <strong>Servicio: '<?php echo $service;?>'.</strong><br />
-                <strong>Email: '<?php echo $email;?>'.</strong><br />
-                <strong>Telefono: '<?php echo $phone;?>'.</strong><br />
-                <strong>Mensaje: </strong>.'<?php echo $name;?>'.<br />
+                <p style='margin: 0;'><br><br>Hola, ha recibido un nuevo mensaje de contacto.<br><br>
+                Detalle: <br><br>
+                <strong>Nombre Completo: </strong> $name <br><br>
+                <strong>Servicio: </strong> $service <br>
+                <strong>Email: </strong> $email<br>
+                <strong>Telefono: </strong> $phone<br><br>
+                <strong>Mensaje: </strong>$message.<br>
               </td>
             </tr>
             <!-- end copy -->
 
             <!-- start copy -->
             <tr>
-              <td align='left' bgcolor=''#ffffff' style='padding: 24px; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; border-bottom: 3px solid #d4dadf'>
-                <p style='margin: 0;'>Saludos,<br><br> TecnicoaCR-Team</p>
+              <td align='right' bgcolor=''#ffffff' style='padding: 24px; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; border-bottom: 3px solid #d4dadf'>
+                <p style='margin: 0;'>Saludos,<br>TecnicoaCR-Team</p>
               </td>
             </tr>
             <!-- end copy -->
