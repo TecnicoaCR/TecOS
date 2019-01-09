@@ -10,7 +10,7 @@
             $phone = $_POST["phone"];
             $message = $_POST["message"];
             $captcha = $_POST['g-recaptcha-response'];
-            $secret = '6Lem4oAUAAAAAFWDegOV9uzjOpK6aWZFscegQgyx';
+            $secret = '6LcDcIgUAAAAALGvcuiq-JR2ewSVl6sa4n8iNZWO';
 		
         if (!$captcha){
             $errors[] = "Verificar Catcha.";
@@ -555,7 +555,7 @@
 			<div class="col-xs-6 animated" data-animation="fadeInRight" data-animation-delay="300">
                             <textarea name="message" id="message" class="form textarea light" cols="" rows="" placeholder="Mensaje"></textarea>	
                             <div class="sp_qc_clr"></div>
-                            <div class="g-recaptcha" data-sitekey="6Lem4oAUAAAAAJ3ZkMw5N0SF3ukQXDtMg3iGurAg"></div>
+                            <div class="g-recaptcha" data-sitekey="6LcDcIgUAAAAAGaPvgZ2IfMVRflMqlCzni-8s-JT"></div>
                             <div class="sp_qc_clr"></div>
                             <br />
 			</div><!-- End Right Inputs -->
