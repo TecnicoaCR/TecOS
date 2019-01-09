@@ -1,3 +1,267 @@
+<?php
+    require 'assets/funcs.php';
+    
+    $errors = array();
+        if(!empty($_POST)){
+
+            $name = $_POST["name"];
+            $service = $_POST["service"];
+            $email = $_POST["email"];
+            $phone = $_POST["phone"];
+            $message = $_POST["message"];
+            $captcha = $_POST['g-recaptcha-response'];
+            $secret = '6Lem4oAUAAAAAFWDegOV9uzjOpK6aWZFscegQgyx';
+		
+        if (!$captcha){
+            $errors[] = "Verificar Catcha.";
+        }
+        if (isNull($name, $service, $email, $phone,$message)){
+            $errors[] = "Todos los datos son necesarios.";
+        }
+        if (!isEmail($email)){
+            $errors[] = "Email Incorrecto.";
+        }
+        if (count($errors) == 0) {
+            $response = file_get_contents("https://www.google.com/recaptcha/api/siteverify?secret=$secret&response=$captcha");
+            $arr = json_decode($response, TRUE);
+		
+                    if($arr['success']){
+			
+			$body = 'Nombre: ' . $name . "\n\n";
+                        $body .= 'Servicio: ' . $service . "\n\n";
+                        $body .= 'Email: ' . $email . "\n\n";
+                        $body .= 'Telefono: ' . $phone . "\n\n";
+                        $body .= "Mensaje:\n" . $message . "\n\n";
+                        
+                        $body = "
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='utf-8'>
+        <meta http-equiv='x-ua-compatible' content='ie=edge'>
+        <meta name='viewport' content='width=device-width, initial-scale=1'>
+        <title>Mensaje del Formulario de Contacto</title>
+        
+        <style type='text/css'>
+            @media screen {
+                @font-face {
+                font-family: 'Source Sans Pro';
+                font-style: normal;
+                font-weight: 400;
+                src: local('Source Sans Pro Regular'), local('ourceSansPro-Regular'), url(https://fonts.gstatic.com/s/sourcesanspro/v10/ODelI1aHBYDBqgeIAH2zlBM0YzuT7MdOe03otPbuUS0.woff) format('woff');
+                }
+                @font-face {
+                  font-family: 'Source Sans Pro';
+                  font-style: normal;
+                  font-weight: 700;
+                  src: local('Source Sans Pro Bold'), local('SourceSansPro-Bold'), url(https://fonts.gstatic.com/s/sourcesanspro/v10/toadOcfmlt9b38dHJxOBGFkQc6VGVFSmCnC_l7QZG60.woff) format('woff');
+                }
+            }
+            
+            /** Avoid browser level font resizing.
+             * 1. Windows Mobile
+             * 2. iOS / OSX
+            */
+             
+            body, table, td, a {
+              -ms-text-size-adjust: 100%; /* 1 */
+              -webkit-text-size-adjust: 100%; /* 2 */
+            }
+            /**
+             * Remove extra space added to tables and cells in Outlook.
+             */
+            table, td {
+              mso-table-rspace: 0pt;
+              mso-table-lspace: 0pt;
+            }
+            /**
+             * Better fluid images in Internet Explorer.
+             */
+            img {
+              -ms-interpolation-mode: bicubic;
+            }
+            /**
+             * Remove blue links for iOS devices.
+             */
+            a[x-apple-data-detectors] {
+              font-family: inherit !important;
+              font-size: inherit !important;
+              font-weight: inherit !important;
+              line-height: inherit !important;
+              color: inherit !important;
+              text-decoration: none !important;
+            }
+            /**
+             * Fix centering issues in Android 4.4.
+             */
+            div[style*='margin: 16px 0;'] {
+              margin: 0 !important;
+            }
+            body {
+              width: 100% !important;
+              height: 100% !important;
+              padding: 0 !important;
+              margin: 0 !important;
+            }
+            /**
+             * Collapse table borders to avoid space between cells.
+             */
+            table {
+              border-collapse: collapse !important;
+            }
+            a {
+              color: #1a82e2;
+            }
+            img {
+              height: auto;
+              line-height: 100%;
+              text-decoration: none;
+              border: 0;
+              outline: none;
+            }
+        </style>
+    </head>
+    <body style='background-color: #e9ecef;'>
+        <!-- start preheader -->
+        <div class='preheader' style='display: none; max-width: 0; max-height: 0; overflow: hidden; font-size: 1px; line-height: 1px; color: #fff; opacity: 0;'>
+            Mensaje del Formulario de Contacto
+        </div>
+        <!-- end preheader -->
+
+        <!-- start body -->
+        <table border='0' cellpadding='0' cellspacing='0' width='100%''>
+            <!-- start logo -->
+            <tr>
+                <td align='center' bgcolor='#e9ecef'>
+                    <!--[if (gte mso 9)|(IE)]>
+                    <table align='center' border='0' cellpadding='0' cellspacing='0' width='600'>
+                        <tr>
+                            <td align='center' valign='top' width'600'>
+                                <![endif]-->
+                                <table border='0' cellpadding='0' cellspacing='0' width='100%'' style='max-width: 600px;''>
+                                    <tr>
+                                        <td align='center' valign='top' style='adding: 36px 24px;'>
+                                            <a href='' target='_blank' style='display: inline-block;''>
+                                                <img src='https://dl.dropboxusercontent.com/s/97tw4v28u5rep59/wlogo.png?dl=0' alt='Logo' border='0' width='150' style='display: block; width: 150px; max-width: 150px; min-width: 150px;'>
+                                            </a>
+                            </td>
+                        </tr>
+                    </table>
+                <!--[if (gte mso 9)|(IE)]>
+                </td>
+            </tr>
+        </table>
+          <![endif]-->
+        </td>
+      </tr>
+      <!-- end logo -->
+
+      <!-- start hero -->
+      <tr>
+        <td align='center' bgcolor='#e9ecef'>
+          <!--[if (gte mso 9)|(IE)]>
+          <table align='center' border='0' cellpadding='0' cellspacing='0' width='600'>
+          <tr>
+          <td align='center' valign='top' width='600'>
+          <![endif]-->
+          <table border='0' cellpadding='0' cellspacing='0' width='100%' style='max-width: 600px;'>
+            <tr>
+              <td align='left' bgcolor='#ffffff' style='padding: 36px 24px 0; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif; border-top: 3px solid #d4dadf;''>
+                <h1 style='margin: 0; font-size: 32px; font-weight: 700; letter-spacing: -1px; line-height: 48px;'>Ha llegado un nuevo mensaje del Formulario de Contacto</h1>
+              </td>
+            </tr>
+          </table>
+          <!--[if (gte mso 9)|(IE)]>
+          </td>
+          </tr>
+          </table>
+          <![endif]-->
+        </td>
+      </tr>
+      <!-- end hero -->
+
+      <!-- start copy block -->
+      <tr>
+        <td align='center' bgcolor=''#e9ecef'>
+          <!--[if (gte mso 9)|(IE)]>
+          <table align='center' border='0' cellpadding='0' cellspacing='0' width='600'>
+          <tr>
+          <td align='center' valign='top' width='600'>
+          <![endif]-->
+          <table border='0' cellpadding='0' cellspacing='0' width='100%'' style='max-width: 600px;'>
+
+            <!-- start copy -->
+            <tr>
+              <td align='left' bgcolor=''#ffffff' style='padding: 24px; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;'>
+                <p style='margin: 0;'>Hola, ha recibido un nuevo mensaje de contacto.<br />
+                Detalle: <br />
+                <strong>Nombre Completo: '<?php echo $name;?>'.</strong><br />
+                <strong>Servicio: '<?php echo $service;?>'.</strong><br />
+                <strong>Email: '<?php echo $email;?>'.</strong><br />
+                <strong>Telefono: '<?php echo $phone;?>'.</strong><br />
+                <strong>Mensaje: </strong>.'<?php echo $name;?>'.<br />
+              </td>
+            </tr>
+            <!-- end copy -->
+
+            <!-- start copy -->
+            <tr>
+              <td align='left' bgcolor=''#ffffff' style='padding: 24px; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; border-bottom: 3px solid #d4dadf'>
+                <p style='margin: 0;'>Saludos,<br><br> TecnicoaCR-Team</p>
+              </td>
+            </tr>
+            <!-- end copy -->
+
+          </table>
+          <!--[if (gte mso 9)|(IE)]>
+          </td>
+          </tr>
+          </table>
+          <![endif]-->
+        </td>
+      </tr>
+      <!-- end copy block -->
+
+      <!-- start footer -->
+      <tr>
+        <td align='center' bgcolor='#e9ecef' style='padding: 24px;'>
+          <!--[if (gte mso 9)|(IE)]>
+          <table align='center' border='0' cellpadding='0' cellspacing='0' width='600'>
+          <tr>
+          <td align='center' valign='top' width='600'>
+          <![endif]-->
+          <table border='0' cellpadding='0' cellspacing='0' width='100%' style='max-width: 600px;'>
+
+            <!-- start permission -->
+            <tr>
+              <td align='center' bgcolor='#e9ecef' style='padding: 12px 24px; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px; color: #666;'>
+                <p style='margin: 0;'>Está recibiendo este correo electrónico porque recientemente se envio un nuevo formulario de contacto.</p>
+              </td>
+            </tr>
+            <!-- end permission -->
+
+          </table>
+          <!--[if (gte mso 9)|(IE)]>
+          </td>
+          </tr>
+          </table>
+          <![endif]-->
+        </td>
+      </tr>
+      <!-- end footer -->
+
+    </table>
+    <!-- end body -->
+
+  </body>
+  </html>";	
+			if(!(enviarEmail($name, $service, $body))){
+                            $errors[] = "Error al enviar Email.";
+			}
+        }}      
+	}
+ ?>
+
 <!DOCTYPE html>
 <html>
     <head>
@@ -38,6 +302,7 @@
         <script src="../code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
         <script src="media/com_uniterevolution/assets/rs-plugin/js/jquery.themepunch.plugins.min.js" type="text/javascript"></script>
         <script src="media/com_uniterevolution/assets/rs-plugin/js/jquery.themepunch.revolution.min.js" type="text/javascript"></script>
+        <script src='https://www.google.com/recaptcha/api.js'></script>
         
         <script type="text/javascript">
             jQuery(window).on('load',  function() {
@@ -285,45 +550,38 @@
 	<section id="contact" class="container parallax5">
             <!-- Contact Inner -->
             <div class="inner contact" id="contc">
+                
+                <?php
+                    // Imprimir errores registrados
+                    echo resultBlock($errors);
+                ?>
+                
                 <div class="moduletable">
-                    <script type="text/javascript">
-                        window.addEvent('domready',function(){
-                            var sp_sc118 = new sp_sc('sp_qc_submit', {
-                                name: document.id('name'),
-                                modId: 118,
-                                email: document.id('email'),
-                                subject: document.id('subject'),
-                                message: document.id('message'),
-                                status: document.id("sp_qc_status"),
-                                name_text: "Nombre...",
-                                email_text: "Email...",
-                                msg_text: "mensaje...",
-                                err_msg: "Rellene los campos obligatorios",
-                                email_warn: "Inserte un email válido",
-                                wait_text: "Espere Por Favor...",
-                                failed_text: "Mensaje no enviado",
-                                ajax_url: "modules/mod_sp_quickcontact/helper.php"
-                            });
-                        });
-                    </script>
                     <h1 class="header semibold white"><p><span style="color: #000000;">Contacta con PROSERFI Professional Services</span></p></h1>
                     <br />
-                    <div id="sp_quickcontact118" class="sp_quickcontact contact-form">
-                        <!-- Left Inputs -->
-                        <div class="col-xs-6 animated" data-animation="fadeInLeft" data-animation-delay="300">
-                            <div id="sp_qc_status"></div>
-                            <div class="sp_qc_clr"></div>
-                                <input type="text" name="name" id="name" class="form light" onfocus="if (this.value=='Nombre...') this.value='';" onblur="if (this.value=='') this.value='Nombre...';" value="Nombre..." />
-				<div class="sp_qc_clr"></div>
-                                    <input type="text" name="email" id="email" class="form light" onfocus="if (this.value=='Email...') this.value='';" onblur="if (this.value=='') this.value='Email...';" value="Email..." />
-					<div class="sp_qc_clr"></div>
-                                            <input type="text" name="subject" id="subject" class="form light" onfocus="if (this.value=='Asunto...') this.value='';" onblur="if (this.value=='') this.value='Asunto...';" value="Asunto..." />
-						<div class="sp_qc_clr"></div>
-			</div><!-- End Left Inputs -->
+    
+                    <form name="contac" action="<?php $_SERVER['PHP_SELF'] ?>" method="POST" enctype="multipart/form-data" autocomplete="off">
+                        <div id="sp_quickcontact118" class="sp_quickcontact contact-form">
+                            <!-- Left Inputs -->
+                            <div class="col-xs-6 animated" data-animation="fadeInLeft" data-animation-delay="300">
+                                <div id="sp_qc_status"></div>
+                                <div class="sp_qc_clr"></div>
+                                <input type="text" name="name" id="name" class="form light" placeholder="Nombre Completo" />
+                                <div class="sp_qc_clr"></div>
+                                <input type="text" name="service" id="email" class="form light" placeholder="Servicio" />
+                                <div class="sp_qc_clr"></div>
+                                <input type="text" name="email" id="email" class="form light" placeholder="Correo Electrónico" />
+                                <div class="sp_qc_clr"></div>
+                                <input type="text" name="phone" id="email" class="form light" placeholder="Telefono" />
+                                <div class="sp_qc_clr"></div>
+                            </div><!-- End Left Inputs -->
 			<!-- Right Inputs -->
 			<div class="col-xs-6 animated" data-animation="fadeInRight" data-animation-delay="300">
-                            <textarea name="message" id="message" class="form textarea light" onfocus="if (this.value=='mensaje...') this.value='';" onblur="if (this.value=='') this.value='mensaje...';" cols="" rows="">mensaje...</textarea>	
-				<div class="sp_qc_clr"></div>
+                            <textarea name="message" id="message" class="form textarea light" cols="" rows="" placeholder="Mensaje"></textarea>	
+                            <div class="sp_qc_clr"></div>
+                            <div class="g-recaptcha" data-sitekey="6Lem4oAUAAAAAJ3ZkMw5N0SF3ukQXDtMg3iGurAg"></div>
+                            <div class="sp_qc_clr"></div>
+                            <br />
 			</div><!-- End Right Inputs -->
 			<!-- Bottom Submit -->
 			<div class="relative fullwidth col-xs-12">
@@ -332,12 +590,12 @@
 			</div><!-- End Bottom Submit -->
 			<!-- Clear -->
                         <div class="clear"></div>
-                    </div>	
+                    </div>
+                    </form>                        	
                 </div>
             </div><!-- End Inner -->
 	</section><!-- End Contact Section -->
 
-	<!-- Google Map Section -->
 	<!-- Site Socials and Address -->
 	<section id="site-socials" class="no-padding  bg">
             <div class="site-socials inner no-padding">
@@ -386,7 +644,7 @@
 	<footer class="footer">
             <h2 class="company-name condensed uppercase white bold"><a class="white" href="/">PROSERFI Profssional Services</a></h2>
             <!-- Copyright -->
-            <p class="copyright normal">&copy;2019 Todos los derechos reservados | Powered by <a href="http://facebook.com/TecnicoaCR" target="_blank" class="white">TecnicoaCR</a>&nbsp;</p>
+            <p class="copyright normal">&copy;2019 Todos los derechos reservados | Powered by <a href="http://www.tecnicoacr.com" target="_blank" class="white">TecnicoaCR</a>&nbsp;</p>
 	</footer><!-- End Footer -->
 
 	<!-- JS Files -->

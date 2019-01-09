@@ -2750,27 +2750,7 @@
 		color:white;
 	}
 
-/* Google Map Div */
 
-	#map #google-map{
-		height: 500px;
-		display: block;
-		position: absolute;
-		top:0;
-		width: 100%;
-		z-index: 1;
-		-webkit-transition: all 0.7s;
-		-moz-transition: all 0.7s;
-		transition: all 0.7s;
-	}
-
-	.close-map #google-map{
-		opacity: 0;
-	}
-
-	.open-map #google-map{
-		opacity: 1;
-	}
 
 /* Contact */
 
@@ -2780,7 +2760,7 @@
 	}
 
 	.contact-text{
-		margin:45px auto;
+		margin:40px auto;
 	}
 
 /* Contact Form */
@@ -2821,10 +2801,10 @@
 
 	.form{
 		width: 100%;
-		padding: 15px;
+		padding: 20px;
 		background:transparent;
 		border:1px solid rgba(255, 255, 255, 0.15);
-		margin-bottom:25px;
+		margin-bottom:19px;
 		color:#727272 !important;
 		font-size:13px;
 		-webkit-transition: all 0.4s;
@@ -2847,6 +2827,7 @@
 		max-height: 200px;
 		max-width: 100%;
 	}
+        
 
 /* Send Button Styles */
 
@@ -2871,6 +2852,7 @@
 	.form-btn:active{
 		opacity: 0.9;
 	}
+
 
 /* Place Holder Colors */
 
