@@ -160,7 +160,7 @@
                         <div class="col-xs-5 no-padding t-right">
                             <span class="white normal no-margin no-padding"> </span>
                             <span style="color: #ffffff;">
-                                <a href="contacto.php" class="home-bottom-button normal colored-bg white uppercase scroll">
+                                <a href="#contc" class="home-bottom-button normal colored-bg white uppercase scroll">
                                     <span style="color: #ffffff;"> Contactar </span>
                                 </a>
                                     
@@ -194,7 +194,7 @@
                             <a class="about-icon">
                                 <i class="fa fa-calculator "></i>
                             </a>
-                            <p class="uppercase normal about-head"><p><span style="color: #a61e37;"><a href="#" style="color: #a61e37;">CONTABILIDAD Y FINANZAS</a></span></p></p>
+                            <p class="uppercase normal about-head"><p><span style="color: #a61e37;"><a style="color: #a61e37;">CONTABILIDAD Y FINANZAS</a></span></p></p>
                             <p class="light about-text"><p style="text-align: justify;">Desde la realización de auditorías financieras hasta el desarrollo de recomendaciones de gestión: nuestro equipo reúne amplias competencias en materia...</p></p>
 			</div>								
 			<!-- Box 2 -->
@@ -202,7 +202,7 @@
                             <a class="about-icon">
                                 <i class="fa fa-calendar"></i>
                             </a>
-                            <p class="uppercase normal about-head"><p><span style="color: #a61e37;"><a href="#" style="color: #a61e37;">FISCALIDAD Y TRIBUTACI&Oacute;N</a></span></p></p>
+                            <p class="uppercase normal about-head"><p><span style="color: #a61e37;"><a style="color: #a61e37;">FISCALIDAD Y TRIBUTACI&Oacute;N</a></span></p></p>
                             <p class="light about-text"><p style="text-align: justify;">Abarca todas las exigencias tributarias relacionadas con la gestión empresarial, así como la asistencia a posibles Inspecciones ante el Ministerio de Hacienda.</p></p>
 			</div>					
 			<!-- Box 3 -->
@@ -210,7 +210,7 @@
                             <a class="about-icon">
                                 <i class="fa fa-group"></i>
                             </a>
-                            <p class="uppercase normal about-head"><p><span style="color: #a61e37;"><a href="#" style="color: #a61e37;">CONTROL Y PLANIFICACI&Oacute;N EMPRESARIAL</a></span></p></p>
+                            <p class="uppercase normal about-head"><p><span style="color: #a61e37;"><a style="color: #a61e37;">CONTROL Y PLANIFICACI&Oacute;N EMPRESARIAL</a></span></p></p>
                             <p class="light about-text"><p style="text-align: justify;">Aproveche toda nuestra experiencia y buen hacer para garantizar el futuro de su empresa a través de medidas empresariales a corto y largo plazo</p></p>
 			</div>						
 			<!-- Box 4 -->	
@@ -218,7 +218,7 @@
                             <a class="about-icon">
                                 <i class="fa fa-book"></i>
                             </a>
-                            <p class="uppercase normal about-head"><p><span style="color: #a61e37;"><a href="#" style="color: #a61e37;">JURIDICO MERCANTIL</a></span></p></p>
+                            <p class="uppercase normal about-head"><p><span style="color: #a61e37;"><a style="color: #a61e37;">JURIDICO MERCANTIL</a></span></p></p>
                             <p class="light about-text"><p style="text-align: justify;">Nuestro equipo jurídico  velará porque sus intereses queden a salvo, asistiéndoles en cualquier conflicto ante el Servicio de Mediación Conciliación y Arbitraje</p></p>
 			</div>	
 			<!-- Box 5 -->
@@ -226,7 +226,7 @@
                             <a class="about-icon">
                                 <i class="fa fa-bar-chart"></i>
                             </a>
-                            <p class="uppercase normal about-head"><p><span style="color: #a61e37;"><a href="#" style="color: #a61e37;">FINANCIERO</a></span></p></p>
+                            <p class="uppercase normal about-head"><p><span style="color: #a61e37;"><a style="color: #a61e37;">FINANCIERO</a></span></p></p>
                             <p class="light about-text"><p style="text-align: justify;">Contamos con personal altamente cualificado y con una dilatada experiencia bancaria y financiera que podr&aacute; guiarle en sus decisiones tanto de inversi&oacute;n como de financiaci&oacute;n.</p></p>
 			</div>
                         <!-- Box 6 -->
@@ -234,7 +234,7 @@
                             <a class="about-icon">
                                 <i class="fa fa-briefcase"></i>
                             </a>
-                            <p class="uppercase normal about-head"><p><span style="color: #a61e37;"><a href="#" style="color: #a61e37;"></a>PRESUPUESTO PERSONALIZADO</span></p></p>
+                            <p class="uppercase normal about-head"><p><span style="color: #a61e37;"><a style="color: #a61e37;"></a>PRESUPUESTO PERSONALIZADO</span></p></p>
                             <p class="light about-text"><p style="text-align: justify;">PROSERFI Profesional Services tiene unos precios muy competitivos que se ajustan perfectamente a las necesidades de las empresas. Contacta ahora para obtener un presupuesto personalizado a medida.</p></p>
 			</div>
                     </div><!-- End Boxes -->
@@ -268,12 +268,14 @@
                             <p class="light uppercase"><p>Amplios concocimientos contables, laborales y fiscales. Capaces de ofrecer una verdadera solución.</p></p>
 			</li>				
 			<!-- Testimonial -->
-                    <!--<li class="monial">
-                            <!-- Text --
-                            <h1 class="uppercase bold condensed white"><p>(<span style="color: #000000; font-family: Calibri; font-size: 16px;">Talleres Marques, S.L.</span>)</p></h1>
-                            <!-- Name --
+                        <li class="monial">
+                            <!-- Logo Client -->
+                            <img src="images/client_3.png" alt="" />
+                            <!-- Text -->
+                            <h1 class="uppercase bold condensed white"><p>Servicios Técnicos de Centroamerica HT Setecca</p></h1>
+                            <!-- Name -->
                             <p class="light uppercase"><p>Una gestor&iacute;a de confianza y con grandes profesionales</p></p>
-                        </li>-->	
+                        </li>	
                     </ul>
                 </div>
             </div><!-- End Inner Div -->
@@ -340,7 +342,7 @@
 	<section id="site-socials" class="no-padding  bg">
             <div class="site-socials inner no-padding">
 		<div class="moduletable">		 
-                    <!-- Header -->
+                    <!-- Header --
                     <div class="socials">
                         <a  target="_blank" class="social" href="http://facebook.com/proserfi/"><i class="fa fa-facebook"></i></a>
                         <a  target="_blank" class="social" href="http://#"><i class="fa fa-twitter"></i></a>
