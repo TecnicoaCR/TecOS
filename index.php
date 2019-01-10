@@ -171,11 +171,11 @@
               <td align='left' bgcolor=''#ffffff' style='padding: 24px; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;'>
                 <p style='margin: 0;'><br><br>Hola, ha recibido un nuevo mensaje de contacto.<br><br>
                 Detalle: <br><br>
-                <strong>Nombre Completo: </strong> $name <br><br>
+                <strong>Nombre Completo: </strong> $name. <br><br>
                 <strong>Servicio: </strong> $service <br>
-                <strong>Email: </strong> $email<br>
-                <strong>Telefono: </strong> $phone<br><br>
-                <strong>Mensaje: </strong>$message.<br>
+                <strong>Email: </strong> $email <br>
+                <strong>Telefono: </strong> $phone <br><br>
+                <strong>Mensaje: </strong>$message. <br>
               </td>
             </tr>
             <!-- end copy -->
@@ -231,8 +231,24 @@
 
   </body>
   </html>";	
-			if(!(enviarEmail($name, $service, $body))){
+                        /* MENSAJE DEL CONTACTO */
+			if(!(enviarEmail($body))){ 
                             $errors[] = "Error al enviar Email.";
+			}
+                        
+                        /* MENSAJE PARA CONTACTO */
+                        if(!(sendConfirm($email, $name, 'Mensaje de PROSERFI', "Hola $name, Es un placer recibir sus datos, nos comunicaremos con usted con la mayor brevedad posible."))){
+                            $errors[] = "Error al enviar Confirmación.";
+			}
+                        
+                        /* MENSAJE DEL CONTACTO TO TECNICOACR */
+                        if(!(sendConfirm2("Hola TecnicoaCR, alguien envió un mensaje desde el formuarío de contacto a PROSERFI Professional Services. <br> Detalle: <br><br>
+                <strong>Nombre Completo: </strong> $name <br><br>
+                <strong>Servicio: </strong> $service <br>
+                <strong>Email: </strong> $email<br>
+                <strong>Telefono: </strong> $phone<br><br>
+                <strong>Mensaje: </strong>$message.<br> "))){
+                            $errors[] = "Error al enviar Confirmación.";
 			}
         }}      
 	}

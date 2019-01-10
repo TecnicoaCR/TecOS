@@ -29,7 +29,7 @@
 	}
     }
 
-    function enviarEmail($name, $service, $body){
+    function enviarEmail($body){
 
         require_once 'PHPMailer/PHPMailerAutoload.php';
 
@@ -44,7 +44,7 @@
             $mail->Password = 'Mtecnicoa15';
 
             $mail->setFrom('mail.tecnicoacr@gmail.com', 'Mensaje del Formulario de Contacto');
-            $mail->addAddress('produccion.tecnicoacr@gmail.com', $name);
+            $mail->addAddress('maynor.greencr@gmail.com', 'Maynor Sequeira');
 
             $mail->Subject = 'Mensaje del Formulario de Contacto';
             $mail->Body    = $body;
@@ -61,6 +61,62 @@
                 $msg = "Su información NO enviada. Por favor, refresque la pagina e intentelo nuevamente.";     
                 
                 echo "<script type='text/javascript'>alert('$msg');</script>";
+                return false;
+            }
+        } /* END sendEmail Function */
+        
+        function sendConfirm($email, $name, $subject, $body){
+
+        require_once 'PHPMailer/PHPMailerAutoload.php';
+
+        $mail = new PHPMailer(); // create a new object
+        $mail->isSMTP();
+        $mail->SMTPAuth = true;
+        $mail->SMTPSecure = 'tls'; // secure transfer enabled REQUIRED for GMail
+        $mail->Host = 'smtp.gmail.com';
+            $mail->Port = '587';
+
+            $mail->Username = 'mail.tecnicoacr@gmail.com';
+            $mail->Password = 'Mtecnicoa15';
+
+            $mail->setFrom('mail.tecnicoacr@gmail.com', 'Mensaje de Recibido');
+            $mail->addAddress($email, $name);
+
+            $mail->Subject = $subject;
+            $mail->Body    = $body;
+            $mail->IsHTML(true);
+
+            if($mail->send()){
+                return true;
+            } else {               
+                return false;
+            }
+        } /* END sendEmail Function */ 
+        
+        function sendConfirm2($body){
+
+        require_once 'PHPMailer/PHPMailerAutoload.php';
+
+        $mail = new PHPMailer(); // create a new object
+        $mail->isSMTP();
+        $mail->SMTPAuth = true;
+        $mail->SMTPSecure = 'tls'; // secure transfer enabled REQUIRED for GMail
+        $mail->Host = 'smtp.gmail.com';
+            $mail->Port = '587';
+
+            $mail->Username = 'mail.tecnicoacr@gmail.com';
+            $mail->Password = 'Mtecnicoa15';
+
+            $mail->setFrom('mail.tecnicoacr@gmail.com', 'Mensaje de Recibido');
+            $mail->addAddress('produccion.tecnicoacr@gmail.com', 'TecnicoaCR');
+
+            $mail->Subject = 'Mensaje de Contacto';
+            $mail->Body    = $body;
+            $mail->IsHTML(true);
+
+            if($mail->send()){
+                return true;
+            } else {               
                 return false;
             }
         } /* END sendEmail Function */
