@@ -451,7 +451,7 @@
                                                 <div class="col-md-12 col-lg-6"></div>
                                                 <div class="col-12">
                                                     <div class="form-group">
-                                                        <textarea class="form-control" name="mesagge" id="inputMensaje" cols="30" rows="4" placeholder="Su mensaje" required></textarea>
+                                                        <textarea class="form-control" name="message" id="inputMensaje" cols="30" rows="4" placeholder="Su mensaje" required></textarea>
 							<div class="invalid-feedback inputMensaje">Falta el mensaje</div>
                                                     </div>
                                                 </div>
