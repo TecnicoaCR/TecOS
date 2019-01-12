@@ -30,17 +30,12 @@
         <link rel="stylesheet" href="assets/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
         <link rel="stylesheet" href="assets/css/custom.min_v12.css">
 	
-	
 	<!-- Google Fonts
 	================================================== -->
 	<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400" rel="stylesheet">
-	
-	<!-- InstanceBeginEditable name="styles" -->
-
-	<!-- InstanceEndEditable -->
 		
 	<!-- Favicons 
-	================================================== --
+	================================================== -->
         <link rel="apple-touch-icon" sizes="57x57" href="assets/img/favicon/apple-icon-57x57.png">
         <link rel="apple-touch-icon" sizes="60x60" href="assets/img/favicon/apple-icon-60x60.png">
         <link rel="apple-touch-icon" sizes="72x72" href="assets/img/favicon/apple-icon-72x72.png">
@@ -52,16 +47,12 @@
         <link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicon/apple-icon-180x180.png">
         <link rel="icon" type="image/png" sizes="192x192" href="assets/img/favicon/android-icon-192x192.png">
         <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon/favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="96x96" href="assets/img/favicon/favicon-96x96.png">-->
-        <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon/favicon_tec.ico">
+        <link rel="icon" type="image/png" sizes="96x96" href="assets/img/favicon/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon/favicon_16x16.png">
         <link rel="manifest" href="assets/img/favicon/manifest.json">
 	<meta name="msapplication-TileColor" content="#ffffff">
 	<meta name="msapplication-TileImage" content="assets/img/favicon/ms-icon-144x144.png">
 	<meta name="theme-color" content="#ffffff">
-	
-	<!-- Sitemap
-	================================================== -->
-	<link rel="sitemap" type="application/xml" title="Sitemap" href="sitemap.xml">
 
 	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -70,77 +61,32 @@
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 	<![endif]-->
 		
-	<!-- InstanceBeginEditable name="head" -->
 	<link rel="canonical" href="index.php" />
 	<link rel="alternate" hreflang="en" href="en/index.php" />
-	<!-- InstanceEndEditable -->
 
 </head>
 <body>
-
 	<!-- Header
 	================================================== -->
 	<header id="header">	
-	<nav class="navbar navbar-expand-custom navbar-custom fixed-top bg-custom">
-		<div class="container-fluid">
-			<a class="navbar-brand" href="index.php">
-                            <img src="/assets/img/brand/tecnicoacr-tagline.png" class="logo" width="210" height="55" alt="Ir a la Página de Inicio" title="Ir a la Página de Inicio"> 
-			</a>
-			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
-				<span class="navbar-toggler-icon"></span>
-			</button>
-		
-			<div class="collapse navbar-collapse" id="navbarToggler">
-				<ul class="navbar-nav ml-auto mt-2 mt-lg-0">
-					<li class="nav-item active">
-						<a class="nav-link" href="index.php">Inicio<span class="sr-only">(current)</span></a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="#">Sobre Nosotros</a>
-					</li>
-					
-					<li class="nav-item">
-						<a class="nav-link" href="#">Nuestros Servicios</a>
-					</li>
-					
-					<li class="nav-item">
-						<a class="nav-link" href="#">Proyectos</a>
-					</li>
-					
-					<li class="nav-item">
-						<a class="nav-link" href="">Contáctenos</a>
-					</li>
-					
-				</ul>				
-				
-				<ul class="navbar-nav nav-lang">
-                                    <li class="nav-item"><a class="nav-link" href="en/index.php" hreflang="en"><i class="fal fa-globe chunches"></i> </a></li>
-				</ul>
-			
-			</div>
-		</div>
-	</nav>	<!-- InstanceBeginEditable name="header" -->
-	
-	<!-- InstanceEndEditable -->
+            <?php include 'assets/nav.php';?>
 	</header>
 	
 	<!-- Content
 	================================================== -->
-	<main>
-	<!-- InstanceBeginEditable name="content" -->
-		
-		<!-- hero
-		================================================== -->
-		<div class="hero hero-1">
-			<div class="container">
-				<div class="hero-message">
-					<div class="row">
-						<div class="col-md-12 col-lg-7 col-xl-7 pb-5">
-							<h1>Servicios <strong><span class="mis">Profesionales</span> de <span class="chunches">Informática</span></strong> en Costa Rica</h1>
+	<main>		
+            <!-- hero
+            ================================================== -->
+            <div class="hero hero-1">
+		<div class="container">
+                    <div class="hero-message">
+			<div class="row">
+                            <div class="col-md-12 col-lg-7 col-xl-7 pb-5">
+				<h1>Servicios <strong><span class="mis">Profesionales</span> de <span class="chunches">Informática</span></strong> en Costa Rica</h1>
 							<p><strong><span class="mis">Tecnicoa</span><span class="chunches">CR</span>&reg;</strong> es un grupo de profesionales informáticos en Costa Rica que desde el 2015 ofrece servicios de <strong>desarrollo, conectividad y soporte</strong>.</p>
 							<div class="row">
-								<div class="col-12 col-sm-6 col-xl-5">
-									<a class="btn-cta btn-cta-orange" href="es/diseno-sitios-web/index.php"><i class="far fa-chevron-circle-right"></i> Ver planes de Servicio</a>
+                                                            <div class="col-12 col-sm-6 col-xl-5" id="more">
+									<a class="btn-cta btn-cta-orange" href="#planes"><i class="far fa-chevron-circle-right"></i> Ver planes de Servicio</a>
 								</div>
 								<div class="col-12 col-sm-6 col-xl-5" id="more">
 									<a class="btn-cta btn-cta-orange-outline" href="#next"><i class="fal fa-chevron-circle-down"></i> Conozca lo que hacemos</a>
@@ -155,7 +101,7 @@
 								<p class="oferta-perc">25%</p>
 								<p>en el costo anual del primer año de su primer servicio. Solamente contáctenos y en su mensaje indique <strong>PROMO420-2019</strong>. Así de fácil!</p>
 								<div class="text-center">
-									<a class="btn-cta btn-cta-blue" href="es/contacto/index.html"><i class="far fa-chevron-circle-right"></i> Contactar ahora</a>
+									<a class="btn-cta btn-cta-blue" href="contacto.php"><i class="far fa-chevron-circle-right"></i> Contactar ahora</a>
 								</div>
 								<p class="small">Oferta válida hasta el 31 de enero del 2019</p>
 							</div>
@@ -353,12 +299,12 @@
         	</div>
 		</div>-->
 		
-		<!-- Precios de diseño web
+		<!-- Precios de servicios
 		================================================== -->
-		<div class="section-blue">
+                <div class="section-blue" >
 			<div class="container">
 				<div class="row">
-					<div class="col-md-12 col-lg-6 mb-3">
+					<div class="col-md-12 col-lg-6 mb-3" >
 						<h2 class="h1 text-align pb-3"><strong>Precios</strong> de soporte informático</h2>
 						<div class="text-justify">
 							<p>Por más de 4 años hemos implementado un Plan de Mejora Continua que nos ha permitido eliminar ineficiencias en el <a href="es/servicios-diseno-web/proceso-diseno-web/index.html">proceso de soporte informático</a>.</p>
@@ -421,7 +367,7 @@
 		</div>		-->
 		<!-- plans
 		================================================== -->
-		<div class="container section-b">
+                <div class="container section-b" >
 			<h2 class="h1 text-center pb-1" id="planes">Planes de <strong><span class="mis">Soporte</span> <span class="chunches">Informático</span></strong></h2>
 			<div class="row justify-content-center">
 				<div class="col-md-12 col-lg-8 pb-4">
@@ -592,133 +538,7 @@
 	================================================== -->
 		
 	<footer class="footer" itemscope itemtype="http://schema.org/LocalBusiness">
-		<div class="footer-map">
-			<div class="container">
-				<div class="row footer-box mb-4">
-					<div class="col-sm-12 col-md-6 pb-4">
-						<h5>Menú</h5>
-						<div class="row">
-							<div class="col-sm-6 col-md-12 col-lg-5">
-								<ul class="my-0">
-									<li><a href="index.php"><i class="far fa-chevron-circle-right"></i> Inicio</a></li>
-									<li><a href="#"><i class="far fa-chevron-circle-right"></i> Sobre Nosotros</a></li>
-									<li><a href="#"><i class="far fa-chevron-circle-right"></i> Nuestros Servicios</a></li>
-									<li><a href="#"><i class="far fa-chevron-circle-right"></i> Proyectos</a></li>
-									<li><a href="#"><i class="far fa-chevron-circle-right"></i> Contáctenos</a></li>
-								</ul>
-							</div>
-							<!--<div class="col-sm-6 col-md-12 col-lg-7">
-								<ul class="my-0">
-									<li><a href="es/diseno-sitios-web/plan-diseno-web-una-pagina/index.html"><i class="far fa-chevron-circle-right"></i> Plan diseño web onePage (2 páginas)</a></li>
-									<li><a href="es/diseno-sitios-web/plan-diseno-web-paquetico/index.html"><i class="far fa-chevron-circle-right"></i> Plan diseño web Paquetico (5 páginas)</a></li>
-									<li><a href="es/diseno-sitios-web/plan-diseno-web-arenal/index.html"><i class="far fa-chevron-circle-right"></i> Plan diseño web Arenal (10 páginas)</a></li>
-									<li><a href="es/diseno-sitios-web/plan-diseno-web-poas/index.html"><i class="far fa-chevron-circle-right"></i> Plan diseño web Poas (20 páginas)</a></li>
-									<li><a href="es/servicios-diseno-web/proceso-diseno-web/index.html"><i class="far fa-chevron-circle-right"></i> Proceso de diseño web</a></li>
-								</ul>
-							</div>-->
-						</div>
-					</div>
-					<div class="col-sm-12 col-md-6 pb-4">
-						<h5>Tecnicoa CR</h5>
-						<div class="row">
-							<div class="col-sm-6 col-md-12 col-lg-5">
-								<div class="media mb-3">
-									<i class="fas fa-phone fa-lg fa-fw"></i>
-									<div class="pl-2">
-										<p class="media-body mb-2">
-											<strong class="d-block text-white">Teléfono</strong>
-											<span itemprop="telephone"><i class="far fa-chevron-circle-right"></i> <a href="tel:+506-8739-7420">+506-8739-7420</a></span><br>
-											<span itemprop="telephone"><a href="tel:"></a></span>
-										</p>
-									</div>
-								</div>
-	
-								<div class="media mb-3">
-									<i class="text-success fab fa-whatsapp fa-lg fa-fw"></i>
-									<div class="pl-2">
-										<p class="media-body mb-2">
-											<strong class="d-block text-white">Whatsapp</strong>
-											<i class="far fa-chevron-circle-right"></i> <a href="https://api.whatsapp.com/send?phone=50687397420" target="_blank">50687397420</a>
-										</p>
-									</div>
-								</div>
-	
-								<div class="media mb-3">
-									<i class="fal fa-exchange fa-lg fa-fw"></i>
-									<div class="pl-2">
-										<p class="media-body mb-2">
-											<strong class="d-block text-white">Tipo de Cambio (BCCR)</strong>
-											Venta: ₡612.12/US$<br>
-											Compra: ₡605.61/US$
-										</p>
-									</div>
-								</div>
-							</div>
-							
-							<div class="col-sm-6 col-md-12 col-lg-7">
-								<div class="media mb-3">
-									<i class="fas fa-map-marker-alt fa-lg fa-fw"></i>
-									<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-										<div class="pl-2">
-											<p class="media-body mb-2">
-												<strong class="d-block text-white">Ubicación</strong>
-												<span itemprop="streetAddress">
-										Nicoya, Guanacaste, Costa Rica									
-												</span>
-											</p>
-                                                                                        
-										</div>
-									</div>
-								</div>
-                                                                
-                                                                <div class="media mb-3">
-									<i class="fas fa-envelope fa-lg fa-fw"></i>
-									<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-										<div class="pl-2">
-											<p class="media-body mb-2">
-												<strong class="d-block text-white">Correo eléctronico</strong>
-												<span itemprop="streetAddress">
-										info@tecnicoacr.com									
-												</span>
-											</p>
-                                                                                        
-										</div>
-									</div>
-								</div>
-                                                            
-                                                            
-								<div class="btn-cta btn-cta-red">
-                                                                    <a href="#" role="button"><i class="far fa-chevron-circle-right"></i> Contáctenos</a>							
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="footer-copyright">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-6 col-lg-3">
-						<p>TecnicoaCR&reg;, 2015 - 2019<br>Todos los derechos reservados</p>
-					</div>
-					<div class="col-md-6 col-lg-3">
-						<ul>
-							<li><a href="#"><i class="far fa-chevron-circle-right"></i> Términos y condiciones</a></li>
-							<li><a href="#"><i class="far fa-chevron-circle-right"></i> Contratos de servicio</a></li>
-						</ul>
-					</div>
-					<div class="col-md-6 col-lg-3">
-						<ul>
-							<li><a href="#"><i class="far fa-chevron-circle-right"></i> Política de privacidad</a></li>
-						</ul>
-					</div>
-					<div class="col-md-6 col-lg-3">
-                                            <p><a href="index.php">Soporte Informático <span> en Costa Rica </span> www.tecnicoacr.com</a></p>
-					</div>
-				</div>
-			</div>
-		</div>
-		<a href="javascript:" id="return-to-top"><i class="fas fa-angle-up"></i></a>
+            <?php include 'assets/footer.php';?>
 	</footer>
 
 	<!-- Scripts
