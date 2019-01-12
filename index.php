@@ -124,7 +124,22 @@
 					</div>
 				</div>
 			</div>
-			<div class="container">
+                    
+                    <!-- Servicios
+		================================================== -->
+		<div id="services" class="container section-y">		
+                    <h2 class="h1 text-center pb-1"><strong><span class="mis">Tecnicoa</span></strong><strong><span class="chunches"> CR</span></strong> Professional Services</h2>
+			<div class="row justify-content-center">
+				<div class="col-md-12 col-lg-8">
+					<div class="pb-5">
+						<p class="lead text-center pb-3">¡Nos gusta hacer las cosas bien!</p>
+						<p class="text-justify"></p>
+						<!--<p class="text-center">A continuación le ofrecemos las categorias de servicios:</p> -->
+					</div>
+				</div>
+			</div>
+                    
+                    <div class="container">
 				<div class="row justify-content-center">
 					<div class="col-md-6 col-lg-4 d-flex align-items-stretch wow zoomIn mb-2" data-wow-duration="1500ms" data-wow-delay="100ms">
 						<div class="shadow-d-sm shadow-box rounded-br mb-5">
@@ -133,8 +148,8 @@
                                                                 <img src="assets/img/content/sitiosweb-moderno-mischunches.jpg" alt="Experiencia en soporte en Costa Rica" width="480" height="360" class="img-fluid d-block mx-auto mb-4 rounded-br" title="Experiencia en soporte informático en Costa Rica">
 							</div>
 							<div class="text-justify">
-								<p><strong><span class="mis">Tecnicoa </span><span class="chunches">CR</span>&reg;</strong> ofrece desde el 2015  <a href="es/diseno-sitios-web/index.html">planes de soporte informático en Costa Rica</a> que se ajustan a las necesidades de nuestros clientes.</p>
-								<p>Conozca más sobre <a href="es/empresa-diseno-web/index.html">nosotros</a>.</p>
+								<p><strong><span class="mis">Tecnicoa </span><span class="chunches">CR</span>&reg;</strong> ofrece desde el 2015  <a>planes de soporte informático en Costa Rica</a> que se ajustan a las necesidades de nuestros clientes.</p>
+								<p>Conozca más sobre <a>nosotros</a>.</p>
 							</div>
 						</div>
 					</div>
@@ -145,7 +160,7 @@
                                                                 <img src="assets/img/content/sitiosweb-eficientes-mischunches.jpg" alt="Eficiencia en soporte informático en Costa Rica" width="480" height="360" class="img-fluid d-block mx-auto mb-4 rounded-br" title="Eficiencia en soporte informático en Costa Rica">
 							</div>
 							<div class="text-justify">
-								<p>Mediante el programa de mejora continua de <strong><span class="mis">Tecnicoa </span><span class="chunches">CR</span>&reg;</strong> hemos logrado ser más eficientes en el <a href="es/servicios-diseno-web/proceso-diseno-web/index.html">proceso de soporte informático en Costa Rica</a>.</p>
+								<p>Mediante el programa de mejora continua de <strong><span class="mis">Tecnicoa </span><span class="chunches">CR</span>&reg;</strong> hemos logrado ser más eficientes en el <a>proceso de soporte informático en Costa Rica</a>.</p>
 								<p>Esto se traduce en un menor costo en nuestros servicios que se ve reflejado en nuestros precios.</p>
 							</div>
 						</div>
@@ -157,26 +172,10 @@
                                                                 <img src="assets/img/content/diseno-sitiosweb-mischunches.jpg" alt="Asesoramiento en soporte informático" width="480" height="360" class="img-fluid d-block mx-auto mb-4 rounded-br" title="Asesoramiento en soporte informático">
 							</div>
 							<div class="text-justify">
-								<p>En <strong><span class="mis">Tecnicoa </span><span class="chunches">CR</span>&reg;</strong> lo asesoramos en los pasos necesarios para optimizar y hacer crecer su negocio. ¡Pregunte a <a href="es/clientes/index.html">nuestros clientes</a> sobre nuestro trabajo en soporte informático!</p>
+								<p>En <strong><span class="mis">Tecnicoa </span><span class="chunches">CR</span>&reg;</strong> lo asesoramos en los pasos necesarios para optimizar y hacer crecer su negocio. ¡Pregunte a <a>nuestros clientes</a> sobre nuestro trabajo en soporte informático!</p>
 								<p>O visite nuestra <a href="https://facebook.com/tecnicoacr">FanPage en Facebook</a>.</p>
 							</div>
 						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-                
-                
-                <!-- Servicios
-		================================================== -->
-		<div id="services" class="container section-y">		
-                    <h2 class="h1 text-center pb-1">Servicios que ofrece <strong><span class="mis">Tecnicoa</span></strong><strong><span class="chunches"> CR</span></strong> Professional Services</h2>
-			<div class="row justify-content-center">
-				<div class="col-md-12 col-lg-8">
-					<div class="pb-5">
-						<p class="lead text-center pb-3">¡Nos gusta hacer las cosas bien!</p>
-						<p class="text-justify"></p>
-						<p class="text-center">A continuación le ofrecemos las categorias de servicios:</p> 
 					</div>
 				</div>
 			</div>
@@ -191,9 +190,7 @@
 								<p>Diseño, actualización y mantenimiento de Paginas Web Dinamicas, Aplicaciones Web y Moviles.</p>
 							</div>
 						</div>
-						<div class="text-center">
-							<span class="text-danger"><i class="fal fa-clipboard-check fa-2x fa-fw"></i></span> <a href="#" title="Ver planes" target="_blank" rel="nofollow">Ver planes <i class="far fa-arrow-right"></i></a>
-						</div>
+						
 					</div>
 				</div>
 						
@@ -206,9 +203,7 @@
 								<p>Cableado Estruturado, Routing & Switching, Enlaces Inalambricos y conexiones PTP.</p>
 							</div>
 						</div>
-						<div class="text-center">
-							<span class="text-danger"><i class="fal fa-clipboard-check fa-2x fa-fw"></i></span> <a href="#" title="Ver planes" target="_blank" rel="nofollow">Ver planes <i class="far fa-arrow-right"></i></a>
-						</div>
+						
 					</div>
 				</div>
 
@@ -221,9 +216,7 @@
 								<p>Instalación de equípos informáticos. Mantenimiento preventivo y correctivo de computadores.</p>
 							</div>
 						</div>
-						<div class="text-center">
-							<span class="text-danger"><i class="fal fa-clipboard-check fa-2x fa-fw"></i></span> <a href="#" title="Ver precios" target="_blank" rel="nofollow">Ver precios<i class="far fa-arrow-right"></i></a>
-						</div>
+						
 					</div>
 				</div>
 						
@@ -236,14 +229,18 @@
 								<p>Imagen de la empresa, posicionamiento, publicidad y diseño grafico.</p>
 							</div>
 						</div>
-						<div class="text-center">
-							<span class="text-danger"><i class="fal fa-clipboard-check fa-2x fa-fw"></i></span> <a href="#" title="Ver precios" target="_blank" rel="nofollow">Ver precios <i class="far fa-arrow-right"></i></a>
-						</div>
+						
 					</div>
 				</div>
 			</div>
 					
 		</div>
+                    
+			
+		</div>
+                
+                
+                
 	              
 		
 		<!-- diseño web moderno
@@ -307,13 +304,11 @@
 					<div class="col-md-12 col-lg-6 mb-3" >
 						<h2 class="h1 text-align pb-3"><strong>Planes</strong> de soporte informático</h2>
 						<div class="text-justify">
-							<p>Por más de 4 años hemos implementado un Plan de Mejora Continua que nos ha permitido eliminar ineficiencias en el <a href="es/servicios-diseno-web/proceso-diseno-web/index.html">proceso de soporte informático</a>.</p>
+							<p>Por más de 4 años hemos implementado un Plan de Mejora Continua que nos ha permitido eliminar ineficiencias en el <a >proceso de soporte informático</a>.</p>
 							<p>Con estas mejoras no solo hemos logrado ser mucho más eficientes, sino que también han mejorado la calidad, la funcionalidad y el cumplimiento de estándares de soporte en todos nuestros servicios.</p>
 							<p>Y al final, estas mejoras en nuestros servicios lo benefician a Usted, pues al eliminar ineficiencias, nuestros costos de producción bajan y trasladamos esos ahorros a nuestros precios de soporte informático.</p>
-							<p>Ofrecemos nuestros <a href="es/diseno-sitios-web/index.html">planes de soporte informático</a> desde US$20 mensuales.</p>
-							<div class="text-align">
-								<a class="btn-cta btn-cta-red my-3" href="es/diseno-sitios-web/index.html"><i class="fa fa-chevron-circle-right"></i> Ver planes de soporte</a>
-							</div>
+							<p>Ofrecemos nuestros <a>planes de soporte informático</a> desde US$20 mensuales.</p>
+							
 						</div>
 					</div>
 					<div class="col-md-12 col-lg-6 wow zoomIn" data-wow-duration="1500ms" data-wow-delay="50ms">
@@ -371,7 +366,7 @@
 			<h2 class="h1 text-center pb-1" id="planes">Planes de <strong><span class="mis">Soporte</span> <span class="chunches">Informático</span></strong></h2>
 			<div class="row justify-content-center">
 				<div class="col-md-12 col-lg-8 pb-4">
-					<p class="text-align lead">Seleccione el plan de soporte informático que mejor se adapte a sus necesidades. Todos nuestros planes incluyen: asesoria personalizada, publicidad, garantía, entre otras características.</p>
+					<p class="text-align lead">Seleccione el plan de soporte informático que mejor se adapte a sus necesidades.</p>
 				</div>
 			</div>
 			<div class="shadow-d-md bg-white border-t-10 border-blue rounded-br-lg">

@@ -344,14 +344,14 @@
                                     <a class="btn-cta btn-cta-orange" href="#contacto"><i class="fal fa-chevron-circle-down"></i> Ir al formulario</a>
 				</div>
                             </div>
-                            <div class="col-md-12 col-lg-5 text-center">
+                            <!--<div class="col-md-12 col-lg-5 text-center">
 				<div class="websites">
                                     <a href="https://proserfi.herokuapp.com" target="_blank" title="Proserfi Professional Services"><img src="assets/img/websites/monitor-proserfi.png" class="img-fluid mt-4" width="640" height="511" alt="Proserfi Professional Services" title="Proserfi Professional Services"></a>
                                     <div class="text-center py-3">
 					<small><a href="https://proserfi.herokuapp.com" target="_blank" title="Proserfi Profesional Services"><i class="fal fa-external-link"></i> PROSERFI Professional Services in Finances</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a href="https://proserfi.herokuapp.com" title="Vea nuestro trabajo"><i class="far fa-chevron-circle-right"></i> Vea nuestro trabajo </a></small>
                                     </div>
 				</div>
-                            </div>
+                            </div>-->
 			</div>
                     </div>
 		</div>
@@ -390,8 +390,8 @@
                                     <span class="text-success"><i class="fab fa-whatsapp fa-2x fa-fw"></i></span>
                                     <p class="media-body pl-3 pb-3 mb-0 lh-125y">
                                         <strong class="d-block ">Whatsapp</strong>
-                                        <a href="https://api.whatsapp.com/send?phone=50687397420" target="_blank">50687397420</a>
-                                        <a href="https://api.whatsapp.com/send?phone=50662957664" target="_blank">50662957664</a>
+                                        <a href="https://api.whatsapp.com/send?phone=50687397420" target="_blank">506 8739 7420</a><br>
+                                        <a href="https://api.whatsapp.com/send?phone=50662957664" target="_blank">506 6295 7664</a>
                                     </p>
                                 </div>
                                 <div class="media text-muted mb-3">
