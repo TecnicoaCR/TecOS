@@ -52,7 +52,7 @@
 
         if($mail->send()){
             $msg = " Formulario enviado satisfactoriamente";
-            $msg .= " Dentro de poco tiempo nos comunicaremos con usted.";
+            $msg .= " Muchas gracias por su preferencia, promtamente un agente de servicio le estará contactando.";
 
             echo "<script type='text/javascript'>alert('$msg');</script>";
             return true;
