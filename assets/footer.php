@@ -96,7 +96,7 @@
                                                             
                                                             
 								<div class="btn-cta btn-cta-red">
-                                                                    <a href="#" role="button"><i class="far fa-chevron-circle-right"></i> Contáctenos</a>							
+                                                                    <a href="contacto.php" role="button"><i class="far fa-chevron-circle-right"></i> Contáctenos</a>							
 							</div>
 						</div>
 					</div>

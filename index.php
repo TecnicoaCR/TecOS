@@ -50,9 +50,9 @@
         <link rel="icon" type="image/png" sizes="96x96" href="assets/img/favicon/favicon-96x96.png">
         <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon/favicon_16x16.png">
         <link rel="manifest" href="assets/img/favicon/manifest.json">
-	<meta name="msapplication-TileColor" content="#ffffff">
-	<meta name="msapplication-TileImage" content="assets/img/favicon/ms-icon-144x144.png">
-	<meta name="theme-color" content="#ffffff">
+        <meta name="msapplication-TileColor" content="#ffffff">
+        <meta name="msapplication-TileImage" content="assets/img/favicon/ms-icon-144x144.png">
+        <meta name="theme-color" content="#ffffff">
 
 	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -69,7 +69,7 @@
 	<!-- Header
 	================================================== -->
 	<header id="header">	
-            <?php include 'assets/nav.php';?>
+            <?php include 'assets/nav.php'; ?>
 	</header>
 	
 	<!-- Content
@@ -111,9 +111,9 @@
 			</div>
 		</div>
 		
-		<!-- diseño paginas web en costa rica
+		<!-- Nosotros
 		================================================== -->
-		<div class="section-b">
+                <div class="section-b" id="nosotros">
 			<div class="section-white-wave">
 				<div class="container">
 					<h2 class="h1 text-center text-white" id="next">Soporte  <span class="text-teal-lighter"><strong>informático</strong></span> con resultados en mente</h2>
@@ -167,10 +167,10 @@
 		</div>
                 
                 
-                <!-- estándares de diseño web
+                <!-- Servicios
 		================================================== -->
-		<div id="w3c" class="container section-y">		
-			<h2 class="h1 text-center pb-1">Servicios que ofrece <strong><span class="mis">Tecnicoa</span></strong><strong><span class="chunches"> CR</span></strong> Professional Services</h2>
+		<div id="services" class="container section-y">		
+                    <h2 class="h1 text-center pb-1">Servicios que ofrece <strong><span class="mis">Tecnicoa</span></strong><strong><span class="chunches"> CR</span></strong> Professional Services</h2>
 			<div class="row justify-content-center">
 				<div class="col-md-12 col-lg-8">
 					<div class="pb-5">
@@ -299,13 +299,13 @@
         	</div>
 		</div>-->
 		
-		<!-- Precios de servicios
+		<!-- Planes
 		================================================== -->
-                <div class="section-blue" >
+                <div class="section-blue" id="planes" >
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12 col-lg-6 mb-3" >
-						<h2 class="h1 text-align pb-3"><strong>Precios</strong> de soporte informático</h2>
+						<h2 class="h1 text-align pb-3"><strong>Planes</strong> de soporte informático</h2>
 						<div class="text-justify">
 							<p>Por más de 4 años hemos implementado un Plan de Mejora Continua que nos ha permitido eliminar ineficiencias en el <a href="es/servicios-diseno-web/proceso-diseno-web/index.html">proceso de soporte informático</a>.</p>
 							<p>Con estas mejoras no solo hemos logrado ser mucho más eficientes, sino que también han mejorado la calidad, la funcionalidad y el cumplimiento de estándares de soporte en todos nuestros servicios.</p>
@@ -546,7 +546,11 @@
         <script src="assets/js/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
         <script src="assets/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
         <script src="assets/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
-	
+        
+        <!-- NoCopy
+	================================================== -->
+        <script src="assets/js/nocopy.js"></script>
+        
 	<!-- WOW
 	================================================== -->
         <script src="assets/js/wow.min.js"></script>

@@ -15,15 +15,19 @@
 						<a class="nav-link" href="index.php">Inicio<span class="sr-only">(current)</span></a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="#">Sobre Nosotros</a>
+						<a class="nav-link" href="index.php#nosotros">Sobre Nosotros</a>
 					</li>
 					
 					<li class="nav-item">
-						<a class="nav-link" href="#">Nuestros Servicios</a>
+						<a class="nav-link" href="index.php#services">Servicios</a>
 					</li>
 					
 					<li class="nav-item">
-						<a class="nav-link" href="#">Proyectos</a>
+						<a class="nav-link" href="index.php#planes">Planes</a>
+					</li>
+                                        
+                                        <li class="nav-item">
+						<a class="nav-link" href="clientes.php">Clientes</a>
 					</li>
 					
 					<li class="nav-item">
@@ -33,7 +37,7 @@
 				</ul>				
 				
 				<ul class="navbar-nav nav-lang">
-                                    <li class="nav-item"><a class="nav-link" href="en/index.php" hreflang="en"><i class="fal fa-globe chunches"></i> </a></li>
+                                    <li class="nav-item"><a class="nav-link" href="en/index.php" hreflang="en"><i class="fal fa-globe chunches"></i> English</a></li>
 				</ul>
 			
 			</div>
