@@ -229,72 +229,12 @@
 								<p>Imagen de la empresa, posicionamiento, publicidad y diseño grafico.</p>
 							</div>
 						</div>
-						
 					</div>
 				</div>
-			</div>
-					
+			</div>		
+                    </div>	
 		</div>
-                    
-			
-		</div>
-                
-                
-                
-	              
-		
-		<!-- diseño web moderno
-		================================================== --
-		<div class="section-blue">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-12 col-lg-6 col-xl-6">
-						<h2 class="h1 text-align">Diseño de <strong>sitios web <span class="text-teal-lighter">modernos</span></strong></h2>
-						<p class="lead text-align pb-3">¡Limpios y profesionales!</p>
-						<p class="text-justify">Nuestras <a href="es/diseno-sitios-web/index.html">soluciones de diseño web en Costa Rica</a> están enfocadas para que el sitio web de su empresa se destaque con un diseño moderno y profesional y que obtenga visitantes con nuestros métodos comprobados de <span lang="en">SEO</span>.</p>	
-						<div class="shadow-lg bg-white rounded-br p-4 my-5 border-t-5 border-red" role="alert">
-							<div class="media text-blue-darker">
-								<i class="fas fa-quote-left fa-3x fa-pull-left d-xs-none"></i>
-								<div class="media-body">
-									<p><strong>Nuestro objetivo es crear un sitio web que ayude a crecer su negocio.</strong></p>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-12 col-lg-6 col-xl-6 wow zoomIn" data-wow-duration="2000ms" data-wow-delay="450ms">
-						<a href="es/clientes/index.html"><img src="../www.share.sitiosweb-costarica.com/img/websites/web-alternativa-ambiental.jpg" alt="Sitio web Alternativa Ambiental" width="640" height="490" class="d-block img-fluid mx-auto" title="Sitio web Alternativa Ambiental"></a>
-						<p class="text-center mb-5"><small> <a href="https://www.alternativaambiental.com/" target="_blank" title="Visitar sitio web de Alternativa Ambiental"><i class="fal fa-external-link"></i> Alternativa Ambiental</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="es/clientes/index.html" title="Ver otro trabajos de misChunches"><i class="far fa-chevron-circle-right"></i> Ver otros trabajos</a></small></p>
-					</div>
-				</div>
-			</div>
-		</div>-->
-		
-		<!-- diseño web adaptable
-		================================================== --
-		<div class="container section-y">
-        	<div class="row">
-        		<div class="col-md-12 col-lg-6 col-xl-7 order-md-2 pt-3">
-           			<h2 class="h1 text-align">Diseño de <strong><span class="mis">sitios web</span> <span class="chunches">adaptables</span></strong></h2>
-					<p class="lead text-align pb-3">¡Sitios web para dispositivos móviles!</p>
-        			<p class="text-justify pb-3">Nuestros <a href="es/diseno-sitios-web/index.html">diseños de sitios web</a> brindan una experiencia de visualización óptima en una amplia gama de dispositivos (desde monitores de computadoras de escritorio hasta teléfonos inteligentes).</p>
-					<div class="alert alert-primary mb-5" role="alert">
-						<p class="text-justify"><i class="fal fa-exclamation fa-4x fa-pull-left"></i> Lo invitamos a visitar nuestro sitio web por medio de su teléfono inteligente o tableta y compruebe como el mismo se ajusta al tamaño de su pantalla. Así diseñaríamos su sitio web, ¡sin ningún costo adicional!</p>
-					</div>
-					<div class="shadow-d-sm rounded-br p-4 my-5 border-t-10 border-blue text-teal-darkest" role="alert">
-						<div class="media">
-							<i class="fal fa-lightbulb-on fa-3x fa-pull-left"></i>
-    						<div class="media-body">
-      							<p>Compruebe mediante la <a href="#" target="_blank" rel="nofollow">Prueba de optimización de móviles de Google</a> como nuestro sitio web está optimizado para teléfonos inteligentes.</p>
-    						</div>
-  						</div>
-					</div>
-          		</div>
-          		<div class="col-md-12 col-lg-6 col-xl-5 order-md-1 wow zoomIn" data-wow-duration="1500ms" data-wow-delay="450ms">
-           			<img src="../www.share.sitiosweb-costarica.com/img/websites/mobile-alternativa-ambiental.jpg" alt="Sitio web Alternativa Ambiental" width="300" height="556" class="img-fluid d-block mx-auto" title="Sitio web Alternativa Ambiental">
-					<p class="text-center mt-2 mb-5"><small> <a href="https://search.google.com/test/mobile-friendly?hl=ES&amp;id=bQBhoH7MYPAgsmYZSyIYvg" target="_blank" title="Ver prueba de optimización para móviles"><i class="fal fa-external-link"></i> Ver prueba de Optimización para móviles</a></small></p>
-          		</div>
-        	</div>
-		</div>-->
+               
 		
 		<!-- Planes
 		================================================== -->
@@ -320,46 +260,6 @@
                 
 		<div class="section-b"></div>
 		
-		<!-- testimonio
-		================================================== --
-		<div class="container section-b">
-			<h2 class="h1 text-center pb-1">¡ Usted está en <strong><span class="mis">buena</span> <span class="chunches">compañía</span> <i class="fal fa-comment-smile chunches"></i></strong> !</h2>
-			<div class="row justify-content-center">
-				<div class="col-md-12 col-lg-8 pb-5">
-					<p class="text-center lead">Esto es lo que <a href="es/clientes/index.html">nuestros clientes</a> dicen sobre el servicio de diseño web de <strong><span class="mis">mis</span><span class="chunches">Chunches</span>&reg;</strong>:</p>
-				</div>
-			</div>
-			<div class="shadow-d-sm shadow-box border-t-10 border-danger rounded-br-lg">
-				<div class="row testimonials">
-					<div class="col-lg-12 col-xl-6">
-						<div class="testimonial-website">
-							<div class="thumb">
-								<a href="https://www.apvportones.com/" title="APV Portones" target="_blank">
-									<img src="../www.share.sitiosweb-costarica.com/img/websites/monitor-apvportones.png" class="img-fluid" width="640" height="434" alt="APV Portones">
-							</a>
-							</div>
-						</div>
-					</div>
-						
-					<div class="col-lg-12 col-xl-6">
-						<div class="testimonial-logo">
-							<img src="../www.share.sitiosweb-costarica.com/img/clientes/logos/apvportones.png" class="img-fluid" width="220" height="44" alt="APV Portones">
-						</div>
-						<div class="testimonial-text">
-							<p>Me siento realmente contento y complacido por el servicio rápido y profesional de misChunches! Gracias a su rápida intervención se logró revivir un sitio muerto!</p><p>Recomiendo 100% a misChunches. Después de años improvisando ahora recibo un trato rápido, profesional y de confianza.</p>						</div>
-						<div class="testimonial-user">
-							<div class="row">
-								<div class="col-md-6">
-									<i class="fal fa-user"></i> Alberto Parra, <small>Propietario</small>								</div>
-								<div class="col-md-6"> 
-									<small><i class="fal fa-external-link"></i> <a href="https://www.apvportones.com/" title="APV Portones" target="_blank">Visitar APV Portones</a></small>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>		-->
 		<!-- plans
 		================================================== -->
                 <div class="container section-b" >
@@ -370,163 +270,92 @@
 				</div>
 			</div>
 			<div class="shadow-d-md bg-white border-t-10 border-blue rounded-br-lg">
-                             <h2 class="h1 text-center pb-1" id="planes">Planes de Desarrollo Web </h2>
 				<div class="card-columns mb-3 text-center plans">
                                    
-					<!-- One Page -->
+					<!-- Cheap -->
 					<div class="card mb-4 shadow-sm mx-auto">
 						<div class="card-header">
-							<h4><strong><span class="mis">Plan</span> <span class="chunches">uniPage</span></strong></h4>
+							<h4><strong><span class="mis">Plan</span> <span class="chunches">Cheap</span></strong></h4>
 						</div>
 						<div class="card-body">
 							<p class="card-title pricing-card-title">US$ 24.99 <small class="text-muted"> / mes</small></p>
 							<ul class="list-unstyled mt-3 mb-4">
-								<li>2 páginas</li>
-								<li>1 formulario de contacto</li>
-								<li>2 actualizaciones mensuales</li>
-								<li>~2 semanas tiempo de entrega</li>
+								<li>Dominio (.com .net .org .cr)</li>
+								<li>Alojamiento Web en la Nube</li>
+                                                                <li>Sitio Web Responsive</li>
+								<li>Integración a Redes Sociales</li>
+                                                                <li>Ubicación en Google Maps</li>
+                                                                <li>Formulario de Contacto</li>
+                                                                <li>1 actualización mensual</li>
+                                                                <li> _ </li>
+                                                                <li> _ </li>                                                               
 							</ul>
-							<a class="btn-cta btn-cta-blue" href="#"><i class="far fa-chevron-circle-right"></i> Ver Plan <strong>uniPage</strong></a>						</div>
+							<a class="btn-cta btn-cta-blue" href="#"><i class="far fa-chevron-circle-right"></i> Ver Plan <strong>Cheap</strong></a>						</div>
 					</div>
 					
-					<!-- Paquetico -->
+					<!-- Plan ProWeb -->
 					<div class="card mb-4 shadow-sm">
 						<div class="card-header">
-							<h4><strong><span class="mis">Plan</span> <span class="chunches">Buenitico</span></strong></h4>
+							<h4><strong><span class="mis">Plan</span> <span class="chunches">ProWeb</span></strong></h4>
 						</div>
 						<div class="card-body">
-							<p class="card-title pricing-card-title">US$ 34.99 <small class="text-muted"> / mes</small></p>
+							<p class="card-title pricing-card-title">US$ 44.99 <small class="text-muted"> / mes</small></p>
 							<ul class="list-unstyled mt-3 mb-4">
-								<li>5 páginas</li>
-								<li>1 formulario de contacto</li>
-								<li>4 actualizaciones mensuales</li>
-								<li>~3 semanas tiempo de entrega</li>
+								<li>Dominio (.com .net .org .cr)</li>
+								<li>Alojamiento Web en la Nube</li>
+                                                                <li>Sitio Web Responsive</li>
+								<li>Integración a Redes Sociales</li>
+                                                                <li>Chat Online (PC/Android/iOS)</li>
+								<li>Secciones Personalizadas</li>
+                                                                <li>Ubicación en Google Maps</li>
+                                                                <li>Formulario de Contacto</li>
+                                                                <li>2 actualizaciones mensuales</li>
 							</ul>
-							<a class="btn-cta btn-cta-red" href="#"><i class="far fa-chevron-circle-right"></i> Ver Plan <strong>Buenitico</strong></a>						</div>
+							<a class="btn-cta btn-cta-red" href="#"><i class="far fa-chevron-circle-right"></i> Ver Plan <strong>ProWeb</strong></a>						</div>
 					</div>
 					
-					<!-- Arenal -->
+					<!-- Plan Soporte -->
 					<div class="card mb-4 shadow-sm">
 						<div class="card-header">
-							<h4><strong><span class="mis">Plan</span> <span class="chunches">Tempisque</span></strong></h4>
+							<h4><strong><span class="mis">Plan</span> <span class="chunches">Soporte</span></strong></h4>
 						</div>
 						<div class="card-body">
-							<p class="card-title pricing-card-title">US$ 59.99 <small class="text-muted"> / mes</small></p>
+							<p class="card-title pricing-card-title">US$ 20.99 <small class="text-muted"> / mes</small></p>
 							<ul class="list-unstyled mt-3 mb-4">
-								<li>10 páginas</li>
-								<li>1 formulario de contacto</li>
-								<li>10 actualizaciones mensuales</li>
-								<li>~4 semanas tiempo de entrega</li>
+                                                            <li>Instalación de equipos informáticos</li>
+                                                            <li>Mantenimiento Preventivo</li>
+                                                            <li>Mantenimiento Correctivo</li>
+                                                            <li>1 visita mensual</li>
+                                                            <li> _ </li>
+                                                            <li> _ </li>   
+                                                            <li> _ </li>
+                                                            <li> _ </li>    
 							</ul>
-							<a class="btn-cta btn-cta-blue" href="#"><i class="far fa-chevron-circle-right"></i> Ver Plan <strong>Tempisque</strong></a>						</div>
+							<a class="btn-cta btn-cta-blue" href="#"><i class="far fa-chevron-circle-right"></i> Ver Plan <strong>Soporte</strong></a>						</div>
 					</div>
 					
-					<!-- Poas -->
+					<!-- Plan Social -->
 					<div class="card mb-4 shadow-sm">
 						<div class="card-header">
-							<h4><strong><span class="mis">Plan</span> <span class="chunches">Cocobolo</span></strong></h4>
+							<h4><strong><span class="mis">Plan</span> <span class="chunches">Social</span></strong></h4>
 						</div>
 						<div class="card-body">
-							<p class="card-title pricing-card-title">US$ 74.99 <small class="text-muted"> / mes</small></p>
+							<p class="card-title pricing-card-title">US$ 32.99 <small class="text-muted"> / mes</small></p>
 							<ul class="list-unstyled mt-3 mb-4">
-								<li>15 páginas</li>
-								<li>1 formulario de contacto</li>
-								<li>15 actualizaciones mensuales</li>
-								<li>~6 semanas tiempo de entrega</li>
+                                                            <li>Diseño y creacion de perfiles Sociales</li>
+                                                            <li>Mantenimiento de perfiles Sociales</li>
+                                                            <li>Publicidad (opcional)</li>
+                                                            <li>2 actualizaciones mensuales</li>
+                                                            <li> _ </li>
+                                                            <li> _ </li>   
+                                                            <li> _ </li>
 							</ul>
-							<a class="btn-cta btn-cta-blue" href="#"><i class="far fa-chevron-circle-right"></i> Ver Plan <strong>Cocobolo</strong></a>						</div>
+							<a class="btn-cta btn-cta-blue" href="#"><i class="far fa-chevron-circle-right"></i> Ver Plan <strong>Social</strong></a>						</div>
 					</div>
-					
 				</div>
 			</div>	
 		</div>
-	
 
-		<!-- blog
-		================================================== --
-		<div class="section-blue">
-			<div class="container">
-				<h2 class="h2 text-center pb-1" id="blog">Blog de <strong>diseño web</strong> en Costa Rica</h2>
-				<div class="row justify-content-center">
-					<div class="col-md-12 col-lg-6">
-						<p class="text-center lead pb-5">Consejos prácticos para el diseño de sitios web</p>
-					</div>
-				</div>
-				<div class="row justify-content-center">
-					
-					<div class="col-md-6 col-lg-4 d-flex align-items-stretch pb-5">
-						<div class="shadow-box bg-white border-t-5 border-red rounded-br-lg">
-							<div class="blog-info thumb">
-								<a href="es/blog/beneficios-de-un-sitio-web/index.html">
-									<img src="../www.share.sitiosweb-costarica.com/img/content/beneficios-sitio-web.jpg" class="img-fluid" width="480" height="320" alt="Beneficios de tener un sitio web para tu empresa en Costa Rica">
-									<h3>Beneficios de tener un sitio web para tu empresa en Costa Rica</h3>
-								</a>
-							</div>
-						</div>
-					</div>
-					
-					<div class="col-md-6 col-lg-4 d-flex align-items-stretch pb-5">
-						<div class="shadow-box bg-white border-t-5 border-red rounded-br-lg">
-							<div class="blog-info thumb">
-								<a href="es/blog/consejos-de-como-elegir-el-dominio-para-una-pagina-web/index.html">
-									<img src="../www.share.sitiosweb-costarica.com/img/content/dominio.jpg" class="img-fluid" width="480" height="320" alt="Consejos de como elegir el dominio para una página web">
-									<h3>Consejos de como elegir el dominio para una página web</h3>
-								</a>
-							</div>
-						</div>
-					</div>
-					
-					<div class="col-md-6 col-lg-4 d-flex align-items-stretch pb-5">
-						<div class="shadow-box bg-white border-t-5 border-red rounded-br-lg">
-							<div class="blog-info thumb">
-								<a href="es/blog/elementos-importantes-de-la-pagina-de-inicio-de-un-sitio-web/index.html">
-									<img src="../www.share.sitiosweb-costarica.com/img/content/pagina-inicio.jpg" class="img-fluid" width="480" height="320" alt="Elementos importantes de la página de inicio de un sitio web">
-									<h3>Elementos importantes de la página de inicio de un sitio web</h3>
-								</a>
-							</div>
-						</div>
-					</div>
-				
-					<div class="col-md-6 col-lg-4 d-flex align-items-stretch pb-5">
-						<div class="shadow-box bg-white border-t-5 border-red rounded-br-lg">
-							<div class="blog-info thumb">
-								<a href="es/blog/diseno-de-sitios-web-para-abogados/index.html">
-									<img src="../www.share.sitiosweb-costarica.com/img/content/abogados.jpg" class="img-fluid" width="480" height="320" alt="Sitios web para abogados en Costa Rica">
-									<h3>Diseño de sitios web para abogados en Costa Rica</h3>
-								</a>
-							</div>
-						</div>
-					</div>
-					
-					<div class="col-md-6 col-lg-4 d-flex align-items-stretch pb-5">
-						<div class="shadow-box bg-white border-t-5 border-red rounded-br-lg">
-							<div class="blog-info thumb">
-								<a href="es/blog/diseno-de-sitios-web-para-asociaciones-solidaristas/index.html">
-									<img src="../www.share.sitiosweb-costarica.com/img/content/asociaciones-solidaristas.jpg" class="img-fluid" width="480" height="320" alt="Sitios web para Asociaciones Solidaristas en Costa Rica">
-									<h3>Diseño de sitios web para Asociaciones Solidaristas</h3>
-								</a>
-							</div>
-						</div>
-					</div>
-					
-					<div class="col-md-6 col-lg-4 d-flex align-items-stretch pb-5">
-						<div class="shadow-box bg-white border-t-5 border-red rounded-br-lg">
-							<div class="blog-info thumb">
-								<a href="es/blog/diseno-de-sitios-web-para-pymes-en-costa-rica/index.html">
-									<img src="../www.share.sitiosweb-costarica.com/img/content/pyme.jpg" class="img-fluid" width="480" height="320" alt="Sitios web para PyMEs en Costa Rica">
-									<h3>Diseño de sitios web para PyMEs en Costa Rica</h3>
-								</a>
-							</div>
-						</div>
-					</div>
-				
-				</div>
-			</div>
-		
-		</div>-->
-		
-		
-	<!-- InstanceEndEditable -->
 	</main>
 	
 	<!-- Footer
@@ -563,22 +392,12 @@ $('body,html').animate({scrollTop : 0}, 500);});</script>
 	<script>$(function(){var r=$("#header nav");$(window).scroll(function(){$(window).scrollTop()>=60?(r.removeClass("bg-custom").addClass("bg-custom-scrolled")):(r.removeClass("bg-custom-scrolled").addClass("bg-custom"))})})</script>
 	<script>$(document).ready(function(){var $root=$("html, body");$("#more a").click(function(t){t.preventDefault();var r=$.attr(this,"href"),o=$(r).offset().top-115;return $root.animate({scrollTop:o},1e3),!1});})</script>	
 	<script>$(document).ready(function(){var $root=$("html, body");$("#more1 a").click(function(t){t.preventDefault();var r=$.attr(this,"href"),o=$(r).offset().top-115;return $root.animate({scrollTop:o},1e3),!1});})</script>
-
-	<!-- InstanceBeginEditable name="script" -->
-	
-	<!-- InstanceEndEditable -->
-	
-	<!-- Global site tag (gtag.js) - Google Analytics
-	================================================== --
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-715085-1"></script>
-	<script> window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-715085-1');</script>
 	
 	<!-- Structured Data
 	================================================== -->
 	<script type="application/ld+json">{"@context":"http://schema.org","@type":"LocalBusiness","address":{"@type":"PostalAddress":"50201","addressLocality":"Nicoya","addressRegion": "Guanacaste","addressCountry":"Costa Rica","streetAddress":""},"description":"Soporte Informático","name":"TecnicoaCR","contactPoint":[{"@type":"ContactPoint","telephone":"+506-8739-7420","contactType":"Customer Service","areaServed":"Costa Rica"}],"url": "https://www.tecnicoacr.com","logo":"https://www.tecnicocr.com/assets/img/brand/tecnicoacr-tagline.png"}
 	</script>
-        
-        
+          
         <!--Start of Tawk.to Script-->
         <script type="text/javascript">
             var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();(

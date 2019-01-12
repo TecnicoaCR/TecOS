@@ -9,10 +9,11 @@
 							<div class="col-sm-6 col-md-12 col-lg-5">
 								<ul class="my-0">
 									<li><a href="index.php"><i class="far fa-chevron-circle-right"></i> Inicio</a></li>
-									<li><a href="#"><i class="far fa-chevron-circle-right"></i> Sobre Nosotros</a></li>
-									<li><a href="#"><i class="far fa-chevron-circle-right"></i> Nuestros Servicios</a></li>
-									<li><a href="#"><i class="far fa-chevron-circle-right"></i> Proyectos</a></li>
-									<li><a href="#"><i class="far fa-chevron-circle-right"></i> Contáctenos</a></li>
+									<li><a href="index.php#nosotros"><i class="far fa-chevron-circle-right"></i> Sobre Nosotros</a></li>
+									<li><a href="index.php#services"><i class="far fa-chevron-circle-right"></i> Nuestros Servicios</a></li>
+									<li><a href="index.php#planes"><i class="far fa-chevron-circle-right"></i> Planes</a></li>
+                                                                        <li><a href="clientes.php"><i class="far fa-chevron-circle-right"></i> Clientes</a></li>
+									<li><a href="contacto.php"><i class="far fa-chevron-circle-right"></i> Contáctenos</a></li>
 								</ul>
 							</div>
 							<!--<div class="col-sm-6 col-md-12 col-lg-7">
@@ -36,7 +37,7 @@
 										<p class="media-body mb-2">
 											<strong class="d-block text-white">Teléfono</strong>
 											<span itemprop="telephone"><i class="far fa-chevron-circle-right"></i> <a href="tel:+506-8739-7420">+506-8739-7420</a></span><br>
-											<span itemprop="telephone"><a href="tel:"></a></span>
+											<span itemprop="telephone"><i class="far fa-chevron-circle-right"></i> <a href="tel:+506-6295-7664">+506-6295-7664</a></span>
 										</p>
 									</div>
 								</div>
@@ -46,7 +47,9 @@
 									<div class="pl-2">
 										<p class="media-body mb-2">
 											<strong class="d-block text-white">Whatsapp</strong>
-											<i class="far fa-chevron-circle-right"></i> <a href="https://api.whatsapp.com/send?phone=50687397420" target="_blank">50687397420</a>
+											<i class="far fa-chevron-circle-right"></i> <a href="https://api.whatsapp.com/send?phone=50687397420" target="_blank">506 87397420</a>
+                                                                                        <br>
+                                                                                        <i class="far fa-chevron-circle-right"></i> <a href="https://api.whatsapp.com/send?phone=50662957664" target="_blank">506 64957664</a>
 										</p>
 									</div>
 								</div>
@@ -127,3 +130,17 @@
 			</div>
 		</div>
 		<a href="javascript:" id="return-to-top"><i class="fas fa-angle-up"></i></a>
+                <!--Start of Tawk.to Script-->
+        <script type="text/javascript">
+            var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();(
+                function(){
+                    var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+                    s1.async=true;
+                    s1.src='https://embed.tawk.to/5c398446494cc76b7872ba3a/default';
+                    s1.charset='UTF-8';
+                    s1.setAttribute('crossorigin','*');
+                    s0.parentNode.insertBefore(s1,s0);
+                }
+            )();
+        </script>
+        <!--End of Tawk.to Script-->
