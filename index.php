@@ -373,7 +373,6 @@
 	
 	<!-- Footer
 	================================================== -->
-		
 	<footer class="footer" itemscope itemtype="http://schema.org/LocalBusiness">
             <?php include 'assets/footer.php';?>
 	</footer>
@@ -400,7 +399,7 @@
 	<!-- Scroll
 	================================================== -->
 	<script>$(window).scroll(function() {if ($(this).scrollTop() >= 200) {$('#return-to-top').fadeIn(300);} else {$('#return-to-top').fadeOut(300);}});$('#return-to-top').click(function() {
-$('body,html').animate({scrollTop : 0}, 500);});</script>
+            $('body,html').animate({scrollTop : 0}, 500);});</script>
 
 	<script>$(function(){var r=$("#header nav");$(window).scroll(function(){$(window).scrollTop()>=60?(r.removeClass("bg-custom").addClass("bg-custom-scrolled")):(r.removeClass("bg-custom-scrolled").addClass("bg-custom"))})})</script>
 	<script>$(document).ready(function(){var $root=$("html, body");$("#more a").click(function(t){t.preventDefault();var r=$.attr(this,"href"),o=$(r).offset().top-115;return $root.animate({scrollTop:o},1e3),!1});})</script>	
@@ -410,21 +409,7 @@ $('body,html').animate({scrollTop : 0}, 500);});</script>
 	================================================== -->
 	<script type="application/ld+json">{"@context":"http://schema.org","@type":"LocalBusiness","address":{"@type":"PostalAddress":"50201","addressLocality":"Nicoya","addressRegion": "Guanacaste","addressCountry":"Costa Rica","streetAddress":""},"description":"Soporte Informático","name":"TecnicoaCR","contactPoint":[{"@type":"ContactPoint","telephone":"+506-8739-7420","contactType":"Customer Service","areaServed":"Costa Rica"}],"url": "https://www.tecnicoacr.com","logo":"https://www.tecnicocr.com/assets/img/brand/tecnicoacr-tagline.png"}
 	</script>
-          
-        <!--Start of Tawk.to Script-->
-        <script type="text/javascript">
-            var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();(
-                function(){
-                    var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-                    s1.async=true;
-                    s1.src='https://embed.tawk.to/5c398446494cc76b7872ba3a/default';
-                    s1.charset='UTF-8';
-                    s1.setAttribute('crossorigin','*');
-                    s0.parentNode.insertBefore(s1,s0);
-                }
-            )();
-        </script>
-        <!--End of Tawk.to Script-->
-</body>
+     
+    </body>
 </html>
 
