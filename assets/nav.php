@@ -37,7 +37,7 @@
 				</ul>				
 				
 				<ul class="navbar-nav nav-lang">
-                                    <li class="nav-item"><a class="nav-link" href="en/index.php" hreflang="en"><i class="fal fa-globe chunches"></i> English</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="index.php" hreflang="en"><i class="fal fa-globe chunches"></i> English</a></li>
 				</ul>
 			
 			</div>

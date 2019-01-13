@@ -63,6 +63,14 @@
 		
 	<link rel="canonical" href="index.php" />
 	<link rel="alternate" hreflang="en" href="en/index.php" />
+        
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({
+                google_ad_client: "ca-pub-9518159691628899",
+                enable_page_level_ads: true
+            });
+        </script>
 
 </head>
 <body>
@@ -290,7 +298,9 @@
                                                                 <li> _ </li>
                                                                 <li> _ </li>                                                               
 							</ul>
-							<a class="btn-cta btn-cta-blue" href="#"><i class="far fa-chevron-circle-right"></i> Ver Plan <strong>Cheap</strong></a>						</div>
+                                                        <a class="btn-cta btn-cta-orange-outline" href="plancheap.php"><i class="far fa-chevron-circle-right"></i> Ver Plan <strong>Cheap</strong></a>
+                                                        <a class="btn-cta btn-cta-outline" href="contrato_cheap.php"><i class="far fa-chevron-circle-right"></i> Ver <strong>Contrato</strong></a>
+                                                </div>
 					</div>
 					
 					<!-- Plan ProWeb -->
@@ -311,7 +321,9 @@
                                                                 <li>Formulario de Contacto</li>
                                                                 <li>2 actualizaciones mensuales</li>
 							</ul>
-							<a class="btn-cta btn-cta-red" href="#"><i class="far fa-chevron-circle-right"></i> Ver Plan <strong>ProWeb</strong></a>						</div>
+							<a class="btn-cta btn-cta-red" href="#"><i class="far fa-chevron-circle-right"></i> Ver Plan <strong>ProWeb</strong></a>
+                                                        <a class="btn-cta btn-cta-outline" href="#"><i class="far fa-chevron-circle-right"></i> Ver <strong>Contrato</strong></a>
+                                                </div>
 					</div>
 					
 					<!-- Plan Soporte -->
@@ -331,7 +343,8 @@
                                                             <li> _ </li>
                                                             <li> _ </li>    
 							</ul>
-							<a class="btn-cta btn-cta-blue" href="#"><i class="far fa-chevron-circle-right"></i> Ver Plan <strong>Soporte</strong></a>						</div>
+							<a class="btn-cta btn-cta-blue" href="#"><i class="far fa-chevron-circle-right"></i> Ver Plan <strong>Soporte</strong></a>
+                                                        <a class="btn-cta btn-cta-outline" href="#"><i class="far fa-chevron-circle-right"></i> Ver <strong>Contrato</strong></a></div>
 					</div>
 					
 					<!-- Plan Social -->
@@ -342,15 +355,16 @@
 						<div class="card-body">
 							<p class="card-title pricing-card-title">US$ 32.99 <small class="text-muted"> / mes</small></p>
 							<ul class="list-unstyled mt-3 mb-4">
-                                                            <li>Diseño y creacion de perfiles Sociales</li>
-                                                            <li>Mantenimiento de perfiles Sociales</li>
-                                                            <li>Publicidad (opcional)</li>
-                                                            <li>2 actualizaciones mensuales</li>
-                                                            <li> _ </li>
+								<li>Diseño y creacion de perfiles Sociales</li>
+								<li>Mantenimiento de perfiles Sociales</li>
+								<li>Publicidad (opcional)</li>
+								<li>2 actualizaciones mensuales</li>
+                                                                <li> _ </li>
                                                             <li> _ </li>   
                                                             <li> _ </li>
 							</ul>
-							<a class="btn-cta btn-cta-blue" href="#"><i class="far fa-chevron-circle-right"></i> Ver Plan <strong>Social</strong></a>						</div>
+							<a class="btn-cta btn-cta-orange" href="#"><i class="far fa-chevron-circle-right"></i> Ver Plan <strong>Social</strong></a>
+                                                        <a class="btn-cta btn-cta-outline" href="#"><i class="far fa-chevron-circle-right"></i> Ver <strong>Contrato</strong></a></div>
 					</div>
 				</div>
 			</div>	

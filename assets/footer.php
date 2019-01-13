@@ -16,15 +16,12 @@
 									<li><a href="contacto.php"><i class="far fa-chevron-circle-right"></i> Contáctenos</a></li>
 								</ul>
 							</div>
-							<!--<div class="col-sm-6 col-md-12 col-lg-7">
+							<div class="col-sm-6 col-md-12 col-lg-7">
 								<ul class="my-0">
-									<li><a href="es/diseno-sitios-web/plan-diseno-web-una-pagina/index.html"><i class="far fa-chevron-circle-right"></i> Plan diseño web onePage (2 páginas)</a></li>
-									<li><a href="es/diseno-sitios-web/plan-diseno-web-paquetico/index.html"><i class="far fa-chevron-circle-right"></i> Plan diseño web Paquetico (5 páginas)</a></li>
-									<li><a href="es/diseno-sitios-web/plan-diseno-web-arenal/index.html"><i class="far fa-chevron-circle-right"></i> Plan diseño web Arenal (10 páginas)</a></li>
-									<li><a href="es/diseno-sitios-web/plan-diseno-web-poas/index.html"><i class="far fa-chevron-circle-right"></i> Plan diseño web Poas (20 páginas)</a></li>
-									<li><a href="es/servicios-diseno-web/proceso-diseno-web/index.html"><i class="far fa-chevron-circle-right"></i> Proceso de diseño web</a></li>
+                                                                    <li><a><i class="far fa-chevron-circle-right"></i> Visitas totales: </a></li> <br>
+                                                                    <li><h3><a><?php echo contador(); ?></a></h3></li>
 								</ul>
-							</div>-->
+							</div>
 						</div>
 					</div>
 					<div class="col-sm-12 col-md-6 pb-4">
@@ -144,3 +141,27 @@
             )();
         </script>
         <!--End of Tawk.to Script-->
+        
+        <?php
+            function contador(){
+                $archivo = "contador.txt"; //el archivo que contiene en numero
+                
+                $f = fopen($archivo, "r"); //abrimos el archivo en modo de lectura
+                
+                if($f){
+                    $contador = fread($f, filesize($archivo)); //leemos el archivo
+                    $contador = $contador + 1; //sumamos +1 al contador
+                    
+                    fclose($f);
+                }
+                
+                $f = fopen($archivo, "w+");
+        
+                if($f){
+                    fwrite($f, $contador);
+                    fclose($f);
+                }
+                
+            return $contador;
+            }
+        ?>
