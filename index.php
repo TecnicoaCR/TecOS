@@ -106,8 +106,8 @@
 							<div class="oferta">
 								<h2><strong>¡Hola!</strong></h2>
 								<p>En este 2019, queremos darle a <strong>Usted</strong> un descuento de un</p>
-								<p class="oferta-perc">25%</p>
-								<p>en el costo anual del primer año de su primer servicio. Solamente contáctenos y en su mensaje indique <strong>PROMO420-2019</strong>. Así de fácil!</p>
+								<p class="oferta-perc">10%</p>
+								<p>en el costo mensual del primer año de su primer servicio. Solamente contáctenos y en su mensaje indique <strong>PROMO420-2019</strong>. Así de fácil!</p>
 								<div class="text-center">
 									<a class="btn-cta btn-cta-blue" href="contacto.php"><i class="far fa-chevron-circle-right"></i> Contactar ahora</a>
 								</div>
@@ -299,7 +299,7 @@
                                                                 <li> _ </li>                                                               
 							</ul>
                                                         <a class="btn-cta btn-cta-orange-outline" href="plancheap.php"><i class="far fa-chevron-circle-right"></i> Ver Plan <strong>Cheap</strong></a>
-                                                        <a class="btn-cta btn-cta-outline" href="contrato_cheap.php"><i class="far fa-chevron-circle-right"></i> Ver <strong>Contrato</strong></a>
+                                                        
                                                 </div>
 					</div>
 					
@@ -322,7 +322,7 @@
                                                                 <li>2 actualizaciones mensuales</li>
 							</ul>
 							<a class="btn-cta btn-cta-red" href="#"><i class="far fa-chevron-circle-right"></i> Ver Plan <strong>ProWeb</strong></a>
-                                                        <a class="btn-cta btn-cta-outline" href="#"><i class="far fa-chevron-circle-right"></i> Ver <strong>Contrato</strong></a>
+                                                        
                                                 </div>
 					</div>
 					
@@ -344,8 +344,7 @@
                                                             <li> _ </li>    
 							</ul>
 							<a class="btn-cta btn-cta-blue" href="#"><i class="far fa-chevron-circle-right"></i> Ver Plan <strong>Soporte</strong></a>
-                                                        <a class="btn-cta btn-cta-outline" href="#"><i class="far fa-chevron-circle-right"></i> Ver <strong>Contrato</strong></a></div>
-					</div>
+                                                </div></div>
 					
 					<!-- Plan Social -->
 					<div class="card mb-4 shadow-sm">
@@ -364,7 +363,7 @@
                                                             <li> _ </li>
 							</ul>
 							<a class="btn-cta btn-cta-orange" href="#"><i class="far fa-chevron-circle-right"></i> Ver Plan <strong>Social</strong></a>
-                                                        <a class="btn-cta btn-cta-outline" href="#"><i class="far fa-chevron-circle-right"></i> Ver <strong>Contrato</strong></a></div>
+                                                </div>
 					</div>
 				</div>
 			</div>	
