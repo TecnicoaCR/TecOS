@@ -503,7 +503,7 @@
                                                                 data-height="['auto']"
 
                                                                 data-type="button" 
-                                                                data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"https:\/\/www.skycamintl.com\/contact\/","delay":""}]'
+                                                                data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"#","delay":""}]'
                                                                 data-responsive_offset="on" 
 
                                                                 data-frames='[{"delay":10,"speed":300,"frame":"0","from":"x:{-250,250};y:{-150,150};rX:{-90,90};rY:{-90,90};rZ:{-360,360};sX:0;sY:0;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0,0,0,1);bg:rgba(255,255,255,1);"}]'
