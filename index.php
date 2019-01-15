@@ -309,7 +309,7 @@
 							<p class="card-title pricing-card-title">US$ 44.99 <small class="text-muted"> / mes</small></p>
 							<ul class="list-unstyled mt-3 mb-4">
 								<li>Dominio (.com .net .org .cr)</li>
-								<li>Alojamiento Web en la Nube</li>
+								<li>Alojamiento Web</li>
                                                                 <li>Sitio Web Responsive</li>
 								<li>Integración a Redes Sociales</li>
                                                                 <li>Chat Online (PC/Android/iOS)</li>

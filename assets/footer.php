@@ -1,4 +1,31 @@
-<?php //Author : TecnicoaCR-Team ?>
+<?php //Author : TecnicoaCR-Team 
+//
+//Obtener tipo de cambio 
+$doc_c = new DOMDocument(); 
+$doc_v = new DOMDocument(); 
+$ind_econom_ws =  'http://indicadoreseconomicos.bccr.fi.cr/indicadoreseconomicos/WebServices/wsIndicadoresEconomicos.asmx/ObtenerIndicadoresEconomicos'; 
+$fecha = date("d/m/Y"); 
+$compra = 317; 
+$venta = 318; 
+
+$urlWS_c = $ind_econom_ws."?tcIndicador=".$compra."&tcFechaInicio=".$fecha."&tcFechaFinal=".$fecha."&tcNombre=tq&tnSubNiveles=N"; 
+$urlWS_v = $ind_econom_ws."?tcIndicador=".$venta."&tcFechaInicio=".$fecha."&tcFechaFinal=".$fecha."&tcNombre=tq&tnSubNiveles=N"; 
+
+//Valor Compra 
+$xml_c = file_get_contents($urlWS_c); 
+$doc_c->loadXML($xml_c); 
+$ind_c = $doc_c->getElementsByTagName('INGC011_CAT_INDICADORECONOMIC')->item(0); 
+$val_c = $ind_c->getElementsByTagName('NUM_VALOR')->item(0); 
+$valor_compra = substr($val_c->nodeValue,0,-6); 
+
+//Valor Venta 
+$xml_v = file_get_contents($urlWS_v); 
+$doc_v->loadXML($xml_v); 
+$ind_v = $doc_v->getElementsByTagName('INGC011_CAT_INDICADORECONOMIC')->item(0); 
+$val_v = $ind_v->getElementsByTagName('NUM_VALOR')->item(0); 
+$valor_venta = substr($val_v->nodeValue,0,-6); 
+
+?>
 
             <div class="footer-map">
                 <div class="container">
@@ -18,14 +45,22 @@
                                         </div>
                                         <div class="col-sm-6 col-md-12 col-lg-7">
                                                 <ul class="my-0">
-                                                    <li><a><i class="far fa-chevron-circle-right"></i> Visitas totales: </a></li> <br>
-                                                    <li><h3><a><?php echo contador(); ?></a></h3></li>
+                                                    <li><a><i class="far fa-chevron-circle-right"></i> Visitas totales: </a></li>
+                                                    <li><h3><a><?php echo contador(); ?></a></h3></li> <br>
+                                                    <li>
+                                                        <a><i class="fal fa-exchange fa-lg fa-fw"></i> <strong>Tipo de Cambio (BCCR)</strong></a>
+                                                    <div class="pl-2">
+                                                        <p class="media-body mb-2"> 
+                                                            Venta: ₡<?php echo $valor_compra;?>/US$<br>
+                                                            Compra: ₡<?php echo $valor_venta;?>/US$   
+                                                        </p>
+                                                    </div></li>
                                                 </ul>
                                         </div>
                                 </div>
                         </div>
 			<div class="col-sm-12 col-md-6 pb-4">
-                            <h5>->    Tecnicoa CR Profesional Services</h5>
+                            <h5> Tecnicoa CR Professional Services</h5>
                             <div class="row">
                                     <div class="col-sm-6 col-md-12 col-lg-5">
                                             <div class="media mb-3">
@@ -47,17 +82,6 @@
                                                                     <i class="far fa-chevron-circle-right"></i> <a href="https://api.whatsapp.com/send?phone=50687397420" target="_blank">506 87397420</a>
                                                                     <br>
                                                                     <i class="far fa-chevron-circle-right"></i> <a href="https://api.whatsapp.com/send?phone=50662957664" target="_blank">506 64957664</a>
-                                                            </p>
-                                                    </div>
-                                            </div>
-
-                                            <div class="media mb-3">
-                                                    <i class="fal fa-exchange fa-lg fa-fw"></i>
-                                                    <div class="pl-2">
-                                                            <p class="media-body mb-2">
-                                                                    <strong class="d-block text-white">Tipo de Cambio (BCCR)</strong>
-                                                                    Venta: ₡612.12/US$<br>
-                                                                    Compra: ₡605.61/US$
                                                             </p>
                                                     </div>
                                             </div>
@@ -110,7 +134,7 @@
                                 <div class="col-md-6 col-lg-3">
                                         <ul>
                                                 <li><a href="#"><i class="far fa-chevron-circle-right"></i> Términos y condiciones</a></li>
-                                                <li><a href="#"><i class="far fa-chevron-circle-right"></i> Contratos de servicio</a></li>
+                                                <!--<li><a href="#"><i class="far fa-chevron-circle-right"></i> Contratos de servicio</a></li>-->
                                         </ul>
                                 </div>
                                 <div class="col-md-6 col-lg-3">
