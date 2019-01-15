@@ -36,12 +36,12 @@
                                 <div class="row">
                                         <div class="col-sm-6 col-md-12 col-lg-5">
                                                 <ul class="my-0">
-                                                        <li><a href="index.php"><i class="far fa-chevron-circle-right"></i> Inicio</a></li>
-                                                        <li><a href="index.php#nosotros"><i class="far fa-chevron-circle-right"></i> Sobre Nosotros</a></li>
-                                                        <li><a href="index.php#services"><i class="far fa-chevron-circle-right"></i> Nuestros Servicios</a></li>
-                                                        <li><a href="index.php#planes"><i class="far fa-chevron-circle-right"></i> Planes</a></li>
-                                                        <li><a href="clientes.php"><i class="far fa-chevron-circle-right"></i> Clientes</a></li>
-                                                        <li><a href="contacto.php"><i class="far fa-chevron-circle-right"></i> Contáctenos</a></li>
+                                                        <li><a href="../index.php"><i class="far fa-chevron-circle-right"></i> Inicio</a></li>
+                                                        <li><a href="../index.php#nosotros"><i class="far fa-chevron-circle-right"></i> Sobre Nosotros</a></li>
+                                                        <li><a href="../index.php#services"><i class="far fa-chevron-circle-right"></i> Nuestros Servicios</a></li>
+                                                        <li><a href="../index.php#planes"><i class="far fa-chevron-circle-right"></i> Planes</a></li>
+                                                        <li><a href="../clientes.php"><i class="far fa-chevron-circle-right"></i> Clientes</a></li>
+                                                        <li><a href="../contacto.php"><i class="far fa-chevron-circle-right"></i> Contáctenos</a></li>
                                                 </ul>
                                         </div>
                                         <div class="col-sm-6 col-md-12 col-lg-7">
@@ -49,7 +49,7 @@
                                                     <li><a><i class="far fa-chevron-circle-right"></i> Visitas totales: </a></li>
                                                     <li><h3><a><?php echo contador(); ?></a></h3></li> <br>
                                                     <li>
-                                                        <a><i class="fal fa-exchange fa-lg fa-fw"></i> <strong>Tipo de Cambio (BCCR)</strong></a>
+                                                        <a href="http://indicadoreseconomicos.bccr.fi.cr/indicadoreseconomicos/cuadros/frmvercatcuadro.aspx?CodCuadro=400"><i class="fal fa-exchange fa-lg fa-fw"></i> <strong>Tipo de Cambio (BCCR)</strong></a>
                                                     <div class="pl-2">
                                                         <p class="media-body mb-2"> 
                                                             Venta: ₡<?php echo $valor_compra;?>/US$<br>
@@ -119,7 +119,7 @@
                                                     </div>
                                             </div>
                                         <div class="btn-cta btn-cta-orange-outline">
-                                            <a href="contacto.php" role="button"><i class="far fa-chevron-circle-right"></i> Contáctenos</a>	
+                                            <a href="../contacto.php" role="button"><i class="far fa-chevron-circle-right"></i> Contáctenos</a>	
                                         </div>
                                 </div>
                             </div>
@@ -144,7 +144,7 @@
                                         </ul>
                                 </div>
                                 <div class="col-md-6 col-lg-3">
-                                    <p><a href="index.php">Soporte Informático <span> en Costa Rica </span> www.tecnicoacr.com</a></p>
+                                    <p><a href="../index.php">Soporte Informático <span> en Costa Rica </span> www.tecnicoacr.com</a></p>
                                 </div>
                         </div>
                     </div>
@@ -178,7 +178,7 @@
                 <!--Start of Contador Script-->
                 <?php
                     function contador(){
-                        $archivo = "contador.txt"; //el archivo que contiene en numero
+                        $archivo = "../contador.txt"; //el archivo que contiene en numero
                         $f = fopen($archivo, "r"); //abrimos el archivo en modo de lectura
                 
                         if($f){

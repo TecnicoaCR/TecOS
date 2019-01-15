@@ -12,33 +12,29 @@
             <div class="collapse navbar-collapse" id="navbarToggler">
                 <ul class="navbar-nav ml-auto mt-2 mt-lg-0">
                     <li class="nav-item active">
-                            <a class="nav-link" href="index.php">Inicio<span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="../index.php">Inicio<span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                            <a class="nav-link" href="index.php#nosotros">Sobre Nosotros</a>
-                    </li>
-
-                    <li class="nav-item">
-                            <a class="nav-link" href="index.php#services">Servicios</a>
+                            <a class="nav-link" href="../index.php#nosotros">Sobre Nosotros</a>
                     </li>
 
                     <li class="nav-item">
-                            <a class="nav-link" href="index.php#planes">Planes</a>
+                            <a class="nav-link" href="../index.php#services">Servicios</a>
                     </li>
 
                     <li class="nav-item">
-                            <a class="nav-link" href="clientes.php">Clientes</a>
+                            <a class="nav-link" href="../index.php#planes">Planes</a>
+                    </li>
+
+                    <li class="nav-item">
+                            <a class="nav-link" href="../clientes.php">Clientes</a>
                     </li>
 
                     <li class="nav-item">
                         <a class="nav-link" href="contacto.php">Contáctenos</a>
                     </li>
                 </ul>		
-                <ul class="navbar-nav nav-lang">
-                    <li class="nav-item">
-                        <a class="nav-link" href="apps/index.php" hreflang="en"><i class="fal fa-globe chunches"></i> Ingresar</a>
-                    </li>
-		</ul>
+               
 			
 			</div>
 		</div>
