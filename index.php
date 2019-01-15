@@ -295,7 +295,7 @@
                                                                 <li> _ </li>
                                                                 <li> _ </li>                                                               
 							</ul>
-                                                        <a class="btn-cta btn-cta-orange-outline" href="plancheap.php"><i class="far fa-chevron-circle-right"></i> Ver Plan <strong>Cheap</strong></a>
+                                                        <a class="btn-cta btn-cta-orange-outline" href="#"><i class="far fa-chevron-circle-right"></i> Ver Plan <strong>Cheap</strong></a>
                                                         
                                                 </div>
 					</div>
