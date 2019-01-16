@@ -17,14 +17,14 @@
     } else if (version_compare(PHP_VERSION, '5.5.0', '<')) {
        // si está utilizando PHP 5.3 o PHP 5.4, tendremos que incluir la password_api_compatibility_library.php
         // (esta biblioteca agrega las funciones de hashing de contraseña de PHP 5.5 a versiones anteriores de PHP)
-        require_once("libraries/password_compatibility_library.php");
+        require_once("assets/libraries/password_compatibility_library.php");
     }
 
     // Se incluyen las configuraciones / constantes para la conexión de base de datos.
-    require_once("config/db.php");
+    require_once("assets/config/db.php");
 
     // Cargamos la Clase Login
-    require_once("classes/Login.php");
+    require_once("assets/classes/Login.php");
 
     // Se crea un objeto de inicio de sesión. cuando se crea este objeto, hará todo el inicio de sesión / cierre de sesión automáticamente
     // así que esta línea única maneja todo el proceso de inicio de sesión. en consecuencia, puedes simplemente ...
@@ -34,7 +34,7 @@
     if ($login->isUserLoggedIn() == true) {
         // El usuario ha iniciado sesión. Puedes hacer lo que quieras aquí.
         // para fines de demostración, simplemente mostramos la vista "usted está conectado".
-       header("location: home.php");
+       header("location: admin/home.php");
        } else {
         // el usuario no está conectado. puedes hacer lo que quieras aquí.
         // para fines de demostración, simplemente mostramos la vista "no ha iniciado sesión".
@@ -51,7 +51,7 @@
             <!-- Latest compiled and minified CSS -->
             <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
             <!-- CSS  -->
-            <link href="assets/css/login.css" type="text/css" rel="stylesheet" media="screen,projection"/>     
+            <link href="site-data/assets/css/login.css" type="text/css" rel="stylesheet" media="screen,projection"/>     
         </head>
         <body>
             <div class="container">
@@ -94,10 +94,14 @@
                         <button type="submit" class="btn btn-lg btn-success btn-block btn-signin" name="login" id="submit">Iniciar Sesión</button>
                     </form><!-- /form -->
                     <a class="copyright_url" href="https://www.tecnicoacr.com">Volver a TecnicoaCR</a>
+                    
+                    <div class="text-center">
+          <a class="d-block small" href="forgot-password.php">Recuperar contraseña</a>
+        </div>
             
         </div><!-- /card-container -->
     </div><!-- /container -->
-		<?php include 'assets/footer.php' ?>
+		<?php include 'site-data/assets/footer.php' ?>
 	</body>
 </html>
 <?php
