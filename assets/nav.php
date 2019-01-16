@@ -25,6 +25,9 @@
                     <li class="nav-item">
                             <a class="nav-link" href="index.php#planes">Planes</a>
                     </li>
+                    <li class="nav-item">
+                            <a class="nav-link" href="apps/">Proyectos</a>
+                    </li>
 
                     <li class="nav-item">
                             <a class="nav-link" href="clientes.php">Clientes</a>
