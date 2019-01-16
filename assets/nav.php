@@ -15,7 +15,7 @@
                             <a class="nav-link" href="index.php">Inicio<span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                            <a class="nav-link" href="index.php#nosotros">Sobre Nosotros</a>
+                            <a class="nav-link" href="index.php#nosotros">Nosotros</a>
                     </li>
 
                     <li class="nav-item">
