@@ -338,7 +338,7 @@
                     <div class="hero-message">
                         <div class="row">
                             <div class="col-md-12 col-lg-7 pr-5">
-				<h1>¿Listo para el siguiente paso? <span class="chunches">¡Contáctenos!</span></h1>
+				<h1>¿Listo para el siguiente paso? <span class="CR">¡Contáctenos!</span></h1>
 				<p>Estamos muy emocionados de hablar o chatear con usted. O simplemente use el siguiente formulario y envíenos un mensaje.</p>
 				<div id="more">
                                     <a class="btn-cta btn-cta-orange" href="#contacto"><i class="fal fa-chevron-circle-down"></i> Ir al formulario</a>

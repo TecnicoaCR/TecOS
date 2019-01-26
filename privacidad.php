@@ -83,7 +83,7 @@
                     <div class="hero-message">
                         <div class="row">
                             <div class="col-md-12 col-lg-7 pr-5">
-                                <h1>Política de Privacidad de <strong><span class="mis">Tecnicoa</span><span class="chunches">CR</span>&reg;</strong></h1>
+                                <h1>Política de Privacidad de <strong><span class="tecnicoa">Tecnicoa</span><span class="CR">CR</span>&reg;</strong></h1>
                                 <p>Fecha efectiva: January 14, 2019</p>
                                 <div id="more">
                                     <a class="btn-cta btn-cta-orange" href="#next"><i class="fal fa-chevron-circle-down"></i> Ver Política de Privacidad</a>
@@ -98,7 +98,7 @@
 		<div class="section-white-wave"><div id="next"></div></div>
 		<div class="container section-b text-justify">
 			<h2 class="pb-2">Política de Privacidad</h2>
-			<p><strong><span class="mis">Tecnicoa</span><span class="chunches">CR</span>&reg;</strong> ("nosotros", "a nosotros", "nuestro") opera el sitio web <a href="index.php">www.tecnicoacr.com</a> (en adelante, el "Servicio").</p>
+			<p><strong><span class="tecnicoa">Tecnicoa</span><span class="CR">CR</span>&reg;</strong> ("nosotros", "a nosotros", "nuestro") opera el sitio web <a href="index.php">www.tecnicoacr.com</a> (en adelante, el "Servicio").</p>
 			
 			<p>Esta página le informa de nuestras políticas en materia de recopilación, uso y divulgación de datos personales cuando utiliza nuestro Servicio y de las opciones de las que dispone en relación con esos datos.</p>
 			

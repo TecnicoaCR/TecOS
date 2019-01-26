@@ -84,7 +84,7 @@
                     <div class="hero-message">
                         <div class="row">
                             <div class="col-md-12 col-lg-7 pr-5">
-                                <h1>Servicios Profesionales ofrecidos por <small><strong><span class="mis">Tecnicoa</span><span class="chunches">CR</span>&reg;</strong></small></h1>
+                                <h1>Servicios Profesionales ofrecidos por <small><strong><span class="tecnicoa">Tecnicoa</span><span class="CR">CR</span>&reg;</strong></small></h1>
                                 <p>Desde 2015, ayudamos a las pequeñas y medianas empresas a optimizar, construir y mantener todos los procesos operativos posibles para sus necesidades y clientes únicos.</p>
                                 <p>Nos encanta lo que hacemos. Y nos encanta hacerlo bien!</p>
                                 <div id="more">
@@ -149,7 +149,7 @@
             ================================================== -->
             <div class="section-b" id="cartera">
                 <div class="container">
-                    <h3 class="h1 text-center pb-4">Clientes de <strong><span class="mis">Tecnicoa</span><span class="chunches"> CR</span>&reg;</strong></h3>
+                    <h3 class="h1 text-center pb-4">Clientes de <strong><span class="tecnicoa">Tecnicoa</span><span class="CR"> CR</span>&reg;</strong></h3>
                     <div class="row justify-content-center">
                         <div class="col-md-8 lead pb-5">
                             <p>A continuación haga clic sobre cualquiera de los logotipos para ver la información relevante.</p>

@@ -123,7 +123,7 @@
 				</ul>				
 				
 				<ul class="navbar-nav nav-lang">
-					<li class="nav-item"><a class="nav-link" href="../../../en/web-design-services/web-design-process/index.html" hreflang="en"><i class="fal fa-globe chunches"></i> English</a></li>
+					<li class="nav-item"><a class="nav-link" href="../../../en/web-design-services/web-design-process/index.html" hreflang="en"><i class="fal fa-globe CR"></i> English</a></li>
 				</ul>
 			
 			</div>
@@ -170,7 +170,7 @@
 		<div class="container section-b">
 			<div class="row justify-content-center">
 				<div class="col-md-12 col-lg-8">
-					<h2 class="h1 text-center pb-4">El poder de la <span class="chunches">simplicidad</span></h2>
+					<h2 class="h1 text-center pb-4">El poder de la <span class="CR">simplicidad</span></h2>
 					<div class="text-justify lead">
 						<p class="text-center"><strong>Más simple es mejor que mejor.</strong></p>
 						<p class="pb-4">Y tratamos de mantener nuestro proceso de diseño web simple y eficiente. Nuestro proceso asegurará que su sitio web comunique claramente su mensaje, servicio o producto a través de su sitio web, que alcance todos sus objetivos y se lance de la manera más oportuna y rentable.</p>
@@ -231,7 +231,7 @@
 		<!-- plans
 		================================================== -->
 		<div class="container section-b">
-			<h2 class="h1 text-center pb-1" id="planes">Planes de <strong><span class="mis">diseño</span> <span class="chunches">web</span></strong></h2>
+			<h2 class="h1 text-center pb-1" id="planes">Planes de <strong><span class="tecnicoa">diseño</span> <span class="CR">web</span></strong></h2>
 			<div class="row justify-content-center">
 				<div class="col-md-12 col-lg-8 pb-4">
 					<p class="text-align lead">Seleccione el plan de diseño web que mejor se adapte a sus necesidades. Todos nuestros planes incluyen: registro de dominio, hospedaje, el diseño web, entre otras características.</p>
@@ -242,7 +242,7 @@
 					<!-- One Page -->
 					<div class="card mb-4 shadow-sm mx-auto">
 						<div class="card-header">
-							<h4><strong><span class="mis">Plan</span> <span class="chunches">onePage</span></strong></h4>
+							<h4><strong><span class="tecnicoa">Plan</span> <span class="CR">onePage</span></strong></h4>
 						</div>
 						<div class="card-body">
 							<p class="card-title pricing-card-title">US$ 124.99 <small class="text-muted"> / año</small></p>
@@ -258,7 +258,7 @@
 					<!-- Paquetico -->
 					<div class="card mb-4 shadow-sm">
 						<div class="card-header">
-							<h4><strong><span class="mis">Plan</span> <span class="chunches">Paquetico</span></strong></h4>
+							<h4><strong><span class="tecnicoa">Plan</span> <span class="CR">Paquetico</span></strong></h4>
 						</div>
 						<div class="card-body">
 							<p class="card-title pricing-card-title">US$ 249.99 <small class="text-muted"> / año</small></p>
@@ -274,7 +274,7 @@
 					<!-- Arenal -->
 					<div class="card mb-4 shadow-sm">
 						<div class="card-header">
-							<h4><strong><span class="mis">Plan</span> <span class="chunches">Arenal</span></strong></h4>
+							<h4><strong><span class="tecnicoa">Plan</span> <span class="CR">Arenal</span></strong></h4>
 						</div>
 						<div class="card-body">
 							<p class="card-title pricing-card-title">US$ 374.99 <small class="text-muted"> / año</small></p>
@@ -290,7 +290,7 @@
 					<!-- Poas -->
 					<div class="card mb-4 shadow-sm">
 						<div class="card-header">
-							<h4><strong><span class="mis">Plan</span> <span class="chunches">Poas</span></strong></h4>
+							<h4><strong><span class="tecnicoa">Plan</span> <span class="CR">Poas</span></strong></h4>
 						</div>
 						<div class="card-body">
 							<p class="card-title pricing-card-title">US$ 599.99 <small class="text-muted"> / año</small></p>

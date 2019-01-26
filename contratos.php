@@ -89,7 +89,7 @@
                         <div class="row">
                             <div class="col-md-12 col-lg-7 pr-5">
                                 <h1>Contratos de Servicio</h1>
-                                <p>Términos de contratación de los paquetes de servicio y cualquiera de los servicios proporcionados por <strong><span class="mis">Tecnicoa</span><span class="chunches">CR</span>&reg;</strong></p>
+                                <p>Términos de contratación de los paquetes de servicio y cualquiera de los servicios proporcionados por <strong><span class="tecnicoa">Tecnicoa</span><span class="CR">CR</span>&reg;</strong></p>
                                 <div id="more">
                                     <a class="btn-cta btn-cta-orange" href="#next"><i class="fal fa-chevron-circle-down"></i> Ver contrato</a>
                                 </div>
@@ -104,7 +104,7 @@
             <div class="container section-b text-justify">
                     <h1 class="pb-4">Contratos de servicios de Soporte informático</h1>
                     <h3>Introducción</h3>
-                    <p>La contratación de un paquete de soporte informático o cualquiera de los servicios ofrecidos por <strong><span class="mis">Tecnicoa</span><span class="chunches">CR</span>&reg;</strong>  (de ahora en adelante <strong>La Empresa</strong>), supone la aceptación de este contrato, y se entiende aceptado y firmado por El Cliente y La Empresa.</p>
+                    <p>La contratación de un paquete de soporte informático o cualquiera de los servicios ofrecidos por <strong><span class="tecnicoa">Tecnicoa</span><span class="CR">CR</span>&reg;</strong>  (de ahora en adelante <strong>La Empresa</strong>), supone la aceptación de este contrato, y se entiende aceptado y firmado por El Cliente y La Empresa.</p>
                     <h3>Planes de Desarrollo</h3>
                     <ul>
                         

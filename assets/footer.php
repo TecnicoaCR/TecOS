@@ -36,10 +36,11 @@
                                 <div class="row">
                                         <div class="col-sm-6 col-md-12 col-lg-5">
                                                 <ul class="my-0">
-                                                        <li><a href="index.php"><i class="far fa-chevron-circle-right"></i> Inicio</a></li>
-                                                        <li><a href="index.php#nosotros"><i class="far fa-chevron-circle-right"></i> Sobre Nosotros</a></li>
-                                                        <li><a href="index.php#services"><i class="far fa-chevron-circle-right"></i> Nuestros Servicios</a></li>
-                                                        <li><a href="index.php#planes"><i class="far fa-chevron-circle-right"></i> Planes</a></li>
+                                                        <li><a href="/"><i class="far fa-chevron-circle-right"></i> Inicio</a></li>
+                                                        <li><a href="nosotros.php"><i class="far fa-chevron-circle-right"></i> Sobre Nosotros</a></li>
+                                                        <li><a href="../#services"><i class="far fa-chevron-circle-right"></i> Nuestros Servicios</a></li>
+                                                        <li><a href="../#planes"><i class="far fa-chevron-circle-right"></i> Planes</a></li>
+                                                        <li><a href="apps/"><i class="far fa-chevron-circle-right"></i> Software</a></li>
                                                         <li><a href="clientes.php"><i class="far fa-chevron-circle-right"></i> Clientes</a></li>
                                                         <li><a href="contacto.php"><i class="far fa-chevron-circle-right"></i> Contáctenos</a></li>
                                                 </ul>
@@ -49,7 +50,7 @@
                                                     <li><a><i class="far fa-chevron-circle-right"></i> Visitas totales: </a></li>
                                                     <li><h3><a><?php echo contador(); ?></a></h3></li> <br>
                                                     <li>
-                                                        <a><i class="fal fa-exchange fa-lg fa-fw"></i> <strong>Tipo de Cambio (BCCR)</strong></a>
+                                                        <a href="https://gee.bccr.fi.cr/indicadoreseconomicos/Cuadros/frmVerCatCuadro.aspx?idioma=1&CodCuadro=%20400" target="_blank"><i class="fal fa-exchange fa-lg fa-fw"></i> <strong>Tipo de Cambio (BCCR)</strong></a>
                                                     <div class="pl-2">
                                                         <p class="media-body mb-2"> 
                                                             Venta: ₡<?php echo $valor_compra;?>/US$<br>
@@ -91,7 +92,7 @@
                                     <div class="col-sm-6 col-md-12 col-lg-7">
                                             <div class="media mb-3">
                                                     <i class="fas fa-map-marker-alt fa-lg fa-fw"></i>
-                                                    <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                                    <div itemprop="address">
                                                             <div class="pl-2">
                                                                     <p class="media-body mb-2">
                                                                             <strong class="d-block text-white">Ubicación</strong>
@@ -106,7 +107,7 @@
 
                                             <div class="media mb-3">
                                                     <i class="fas fa-envelope fa-lg fa-fw"></i>
-                                                    <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                                    <div itemprop="address" >
                                                             <div class="pl-2">
                                                                     <p class="media-body mb-2">
                                                                             <strong class="d-block text-white">Correo eléctronico</strong>
@@ -144,7 +145,7 @@
                                         </ul>
                                 </div>
                                 <div class="col-md-6 col-lg-3">
-                                    <p><a href="index.php">Soporte Informático <span> en Costa Rica </span> www.tecnicoacr.com</a></p>
+                                    <p><a href="/">Soporte Informático <span> en Costa Rica </span> www.tecnicoacr.com</a></p>
                                 </div>
                         </div>
                     </div>
@@ -153,6 +154,7 @@
                 
                 <!-- Global site tag (gtag.js) - Google Analytics -->
                 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132406686-1"></script>
+                
                 <script>
                     window.dataLayer = window.dataLayer || [];
                     function gtag(){dataLayer.push(arguments);}
