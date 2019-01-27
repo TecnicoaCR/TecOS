@@ -288,7 +288,7 @@
                                 <!-- Cheap -->
                                     <div class="card mb-4 shadow-sm mx-auto">
                                         <div class="card-header">
-                                            <h4><strong><span class="tecnicoa">PYME</span> <span class="CR"></span></strong></h4>
+                                            <h4><strong><span class="pyme"><i class="fal fa-book pyme"></i> PYME</span> </strong></h4>
                                         </div>
 						<div class="card-body">
 							<p class="card-title pricing-card-title">$24.99<small class="text-muted"> / mes</small></p>
@@ -302,7 +302,7 @@
                                                             <li>Formulario de Contacto</li>
                                                             <li>1 actualización mensual</li>                                                            
 							</ul>
-                                                        <a class="btn-cta btn-cta-orange-outline" href="#"><i class="far fa-chevron-circle-right"></i> Ver Plan <strong>PYME</strong></a>
+                                                        <a class="btn-cta btn-cta-orange" style="background: darkorange" href="planes_de_servicio/dev_pyme"><i class="far fa-chevron-circle-right"></i> Ver Plan <strong>PYME <i class="fal fa-book"></i></strong></a>
                                                         
                                                 </div>
 					</div>
@@ -310,7 +310,7 @@
 					<!-- Plan ProWeb -->
 					<div class="card mb-4 shadow-sm">
 						<div class="card-header">
-							<h4><strong><span class="tecnicoa"></span> <span class="CR">PRO</span></strong></h4>
+							<h4><strong><span class="pro"><i class="fal fa-coffee fa-fw pro"></i> PRO</span></strong></h4>
 						</div>
 						<div class="card-body" >
 							<p class="card-title pricing-card-title">$ 44.99 <small class="text-muted"> / mes</small></p>
@@ -326,7 +326,7 @@
                                                             <li>Formulario de Contacto</li>
                                                             <li>2 actualizaciones mensuales</li>
 							</ul>
-							<a class="btn-cta btn-cta-red" href="#"><i class="far fa-chevron-circle-right"></i> Ver Plan <strong>PRO</strong></a>
+                                                        <a class="btn-cta btn-cta-red" style="background: crimson" href="planes_de_servicio/dev_pro/"><i class="far fa-chevron-circle-right"></i> Ver Plan <strong>PRO <i class="fal fa-coffee fa-fw"></i></strong></a>
                                                         
                                                 </div>
 					</div>
@@ -334,7 +334,7 @@
 					<!-- Plan Soporte -->
 					<div class="card mb-4 shadow-sm">
 						<div class="card-header">
-							<h4><strong><span class="tecnicoa">PLUS</span> <span class="CR"></span></strong></h4>
+							<h4><strong><span class="plus"><i class="fal fa-code fa-fw plus"></i> PLUS</span></strong></h4>
 						</div>
 						<div class="card-body" >
 							<p class="card-title pricing-card-title">$ 72.99 <small class="text-muted"> / mes</small></p>
@@ -351,13 +351,13 @@
                                                             <li>Formulario de Contacto</li>
                                                             <li>4 actualizaciones mensuales</li>    
 							</ul>
-							<a class="btn-cta btn-cta-blue" href="#"><i class="far fa-chevron-circle-right"></i> Ver Plan <strong>PLUS</strong></a>
+                                                        <a class="btn-cta btn-cta-blue" style="background: darkorchid" href="planes_de_servicio/dev_plus/"><i class="far fa-chevron-circle-right"></i> Ver Plan <strong>PLUS <i class="fal fa-code fa-fw"></i></strong></a>
                                                 </div></div>
 					
 					<!-- Plan Social -->
 					<div class="card mb-4 shadow-sm">
 						<div class="card-header">
-							<h4><strong><span class="tecnicoa">SOCIAL</span> <span class="CR"></span></strong></h4>
+							<h4><strong><span class="social"><i class="fal fa-globe fa-fw social"></i> SOCIAL</span></strong></h4>
 						</div>
 						<div class="card-body" >
 							<p class="card-title pricing-card-title">$ 32.99 <small class="text-muted"> / mes</small></p>
@@ -369,7 +369,7 @@
                                                             <li>Rendimiento y estadísticas de alcance</li>
                                                             <li>3 dias continuos por semana de publicidad sobre productos</li>   
 							</ul>
-							<a class="btn-cta btn-cta-orange" href="#"><i class="far fa-chevron-circle-right"></i> Ver Plan <strong>SOCIAL</strong></a>
+                                                        <a class="btn-cta btn-cta-orange" style="background: #090" href="planes_de_servicio/mkt_social/"><i class="far fa-chevron-circle-right"></i> Ver Plan <strong>SOCIAL <i class="fal fa-globe fa-fw"></i></strong></a>
                                                 </div>
 					</div>
 				</div>
