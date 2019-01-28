@@ -302,7 +302,7 @@
                                                             <li>Formulario de Contacto</li>
                                                             <li>1 actualización mensual</li>                                                            
 							</ul>
-                                                        <a class="btn-cta btn-cta-orange" style="background: darkorange" href="planes_de_servicio/dev_pyme"><i class="far fa-chevron-circle-right"></i> Ver Plan <strong>PYME <i class="fal fa-book"></i></strong></a>
+                                                        <a class="btn-cta btn-cta-orange" style="background: darkorange" href="planes_de_servicio/dev_pyme/"><i class="far fa-chevron-circle-right"></i> Ver Plan <strong>PYME <i class="fal fa-book"></i></strong></a>
                                                         
                                                 </div>
 					</div>
