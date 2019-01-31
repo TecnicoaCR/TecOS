@@ -26,12 +26,8 @@
         <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
         <link rel='stylesheet' id='wp-block-library-css'  href='wp-includes/css/dist/block-library/style.minaead.css?ver=5.0.3' type='text/css' media='all' />
         <link rel='stylesheet' id='jetpack-email-subscribe-css'  href='wp-content/plugins/jetpack/modules/shortcodes/css/jetpack-email-subscribe5152.css?ver=1.0' type='text/css' media='all' />
-        <link rel='stylesheet' id='es-widget-css-css'  href='wp-content/plugins/email-subscribers/widget/es-widgetaead.css?ver=5.0.3' type='text/css' media='all' />
         <link rel='stylesheet' id='ultimate-headings-style-css'  href='wp-content/plugins/Ultimate_VC_Addons/assets/min-css/headings.minf28f.css?ver=3.16.12' type='text/css' media='all' />
         <link rel='stylesheet' id='rs-plugin-settings-css'  href='wp-content/plugins/revslider/public/assets/css/settings78d9.css?ver=5.4.3.1' type='text/css' media='all' />
-        <link rel='stylesheet' id='woocommerce-layout-css'  href='wp-content/plugins/woocommerce/assets/css/woocommerce-layout1aae.css?ver=3.5.3' type='text/css' media='all' />
-        <link rel='stylesheet' id='woocommerce-smallscreen-css'  href='wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen1aae.css?ver=3.5.3' type='text/css' media='only screen and (max-width: 768px)' />
-        <link rel='stylesheet' id='woocommerce-general-css'  href='wp-content/plugins/woocommerce/assets/css/woocommerce1aae.css?ver=3.5.3' type='text/css' media='all' />
         <link rel='stylesheet' id='brick-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Titillium+Web%3A200%2C200i%2C300%2C300i%2C400%2C400i%2C600%2C600i%2C700%2C700i%2C900%7CQuicksand%3A300%2C400%2C500%2C700%7CRoboto%3A100%2C100i%2C300%2C300i%2C400%2C400i%2C500%2C500i%2C700%2C700i%2C900%2C900i&amp;ver=5.0.3' type='text/css' media='all' />
         <link rel='stylesheet' id='animate-css'  href='wp-content/themes/brick/assets/css/animateaead.css?ver=5.0.3' type='text/css' media='all' />
         <link rel='stylesheet' id='font-awesome-css'  href='wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min5fba.css?ver=5.2' type='text/css' media='all' />
@@ -57,15 +53,13 @@
         <link rel='stylesheet' id='ult-stats-counter-style-css'  href='wp-content/plugins/Ultimate_VC_Addons/assets/min-css/stats-counter.minf28f.css?ver=3.16.12' type='text/css' media='all' />
         <link rel='stylesheet' id='redux-google-fonts-brick_smof_data-css'  href='https://fonts.googleapis.com/css?family=Titillium+Web%3A200%2C300%2C400%2C600%2C700%2C900%2C200italic%2C300italic%2C400italic%2C600italic%2C700italic&amp;ver=1508607447' type='text/css' media='all' />
         <link rel='stylesheet' id='jetpack_css-css'  href='wp-content/plugins/jetpack/css/jetpackd4d0.css?ver=6.9' type='text/css' media='all' />
-
+        
+        
         <script type='text/javascript' src='wp-includes/js/jquery/jqueryb8ff.js?ver=1.12.4'></script>
         <script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min330a.js?ver=1.4.1'></script>
         <script type='text/javascript' src='wp-content/plugins/Ultimate_VC_Addons/assets/min-js/headings.minf28f.js?ver=3.16.12'></script>
         <script type='text/javascript' src='wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min78d9.js?ver=5.4.3.1'></script>
         <script type='text/javascript' src='wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min78d9.js?ver=5.4.3.1'></script>
-        <script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min44fd.js?ver=2.70'></script>
-        <script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min1aae.js?ver=3.5.3'></script>
-        <script type='text/javascript' src='wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart5fba.js?ver=5.2'></script>
         <script type='text/javascript' src='wp-content/themes/brick/assets/lib/hoverdir/modernizr.custom.97074aead.js?ver=5.0.3'></script>
         <script type='text/javascript' src='wp-content/plugins/Ultimate_VC_Addons/assets/min-js/ultimate-params.minf28f.js?ver=3.16.12'></script>
         <script type='text/javascript' src='wp-content/plugins/Ultimate_VC_Addons/assets/min-js/jquery-appear.minf28f.js?ver=3.16.12'></script>
@@ -73,7 +67,7 @@
         <script type='text/javascript' src='wp-content/plugins/Ultimate_VC_Addons/assets/min-js/countUp.minf28f.js?ver=3.16.12'></script>
 
         <script type="text/javascript">function setREVStartSize(e){
-            try{ var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;	
+            try{ var i=jQuery(window).width(),t=999,r=0,n=0,l=0,f=0,s=0,h=0;	
                 if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
             }catch(d){console.log("Failure at Presize of Slider:"+d)}
             };
@@ -120,7 +114,6 @@
                 <?php require_once 'assets/nav.php'; ?>
             </header>         
             <!--END BEGIN HEADER -->
-            
             <div class="uk-container uk-container-center">
                 <div class="uk-grid ">
                     <div id="main-content" class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1 uk-width-1-1 brick-content page-content ">
@@ -135,19 +128,17 @@
                                             <ul>	<!-- SLIDE  -->
                                                 <li data-index="rs-1" data-transition="fade,parallaxtotop,parallaxtoleft,slotslide-horizontal,slotslide-vertical,slideoverright,slideoverleft,slidingoverlayleft,slidingoverlayright,slideright,slideleft,slidehorizontal,scaledownfrombottom,zoomout,scaledownfromleft,turnoff,incube-horizontal,3dcurtain-vertical,3dcurtain-horizontal,curtain-2,curtain-3,random-static,random-premium,random" data-slotamount="default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default" data-easeout="default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default" data-masterspeed="300,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default"  data-rotate="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                                                     <!-- MAIN IMAGE -->
-                                                    
                                                     <img src="assets/img/slider_1.jpg"  alt="" title="finalhero"  width="1440" height="868" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                                                    
                                                     <!-- LAYERS -->
                                                     <!-- LAYER NR. 1 -->
                                                     <div class="tp-caption   tp-resizeme"  id="slide-1-layer-1"  data-x="right" data-hoffset="50" 
                                                         data-y="center" data-voffset="-198" 
-                                                                                data-width="['auto']"
+                                                        data-width="['auto']"
                                                         data-height="['auto']"
-
                                                         data-type="text" 
                                                         data-responsive_offset="on" 
-
-                                                        data-frames='[{"delay":10,"split":"chars","splitdelay":0.1,"speed":2000,"split_direction":"forward","frame":"0","from":"x:left;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                                                        data-frames='[{"delay":10,"split":"chars","splitdelay":0.1,"speed":3000,"split_direction":"forward","frame":"0","from":"x:left;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
                                                         data-textAlign="['inherit','inherit','inherit','inherit']"
                                                         data-paddingtop="[0,0,0,0]"
                                                         data-paddingright="[0,0,0,0]"
@@ -176,27 +167,6 @@
 
                                                         style="z-index: 7; min-width: 314px; max-width: 314px; max-width: 76px; max-width: 76px; white-space: normal; font-size: 20px; line-height: 25px; font-weight: 400; color: #4e5453; letter-spacing: 0px;font-family:Quicksand;">
                                                         </div>
-
-                                                        <!-- LAYER NR. 3 --
-                                                        <div class="tp-caption rev-btn  tp-resizeme  bg-color-primary border-color-primary bg-hover-color-transparent color-hover-primary box-shadow-default" 
-                                                                 id="slide-1-layer-4" 
-                                                                 data-x="right" data-hoffset="44" 
-                                                                 data-y="center" data-voffset="75" 
-                                                                                        data-width="['auto']"
-                                                                data-height="['auto']"
-
-                                                                data-type="button" 
-                                                                data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"#","delay":""}]'
-                                                                data-responsive_offset="on" 
-
-                                                                data-frames='[{"delay":10,"speed":300,"frame":"0","from":"x:{-250,250};y:{-150,150};rX:{-90,90};rY:{-90,90};rZ:{-360,360};sX:0;sY:0;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0,0,0,1);bg:rgba(255,255,255,1);"}]'
-                                                                data-textAlign="['inherit','inherit','inherit','inherit']"
-                                                                data-paddingtop="[12,12,12,12]"
-                                                                data-paddingright="[35,35,35,35]"
-                                                                data-paddingbottom="[12,12,12,12]"
-                                                                data-paddingleft="[35,35,35,35]"
-
-                                                                style="z-index: 8; white-space: nowrap; font-size: 14px; line-height: 17px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Titillium Web;background-color:rgb(0, 57, 110);border-color:rgba(0,0,0,1);border-style:solid;border-width:2px 2px 2px 2px;border-radius:40px 40px 40px 40px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">Contáctanos </div>
 
                                                         <!-- LAYER NR. 4 -->
                                                         <div class="tp-caption   tp-resizeme" 
@@ -276,7 +246,7 @@
                                                                 data-height="['auto']"
 
                                                                 data-type="button" 
-                                                                data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"#","delay":""}]'
+                                                                data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"contacto/","delay":""}]'
                                                                 data-responsive_offset="on" 
 
                                                                 data-frames='[{"delay":10,"speed":300,"frame":"0","from":"x:{-250,250};y:{-150,150};rX:{-90,90};rY:{-90,90};rZ:{-360,360};sX:0;sY:0;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0,0,0,1);bg:rgba(255,255,255,1);"}]'
@@ -670,61 +640,8 @@
                                             <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	
                                         </div>
                                         
-                                        <script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
-                                            if(htmlDiv) {
-                                                htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
-                                            }else{
-                                                var htmlDiv = document.createElement("div");
-                                                htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
-                                                document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
-                                            }
-                                        </script>
-                                        
-                                        <script type="text/javascript">
-                                            setREVStartSize({c: jQuery('#rev_slider_1_1'), gridwidth: [1240], gridheight: [868], sliderLayout: 'fullwidth'});		
-                                            var revapi1,
-                                            tpj=jQuery;
-                                    
-                                            tpj(document).ready(function() {
-                                                if(tpj("#rev_slider_1_1").revolution == undefined){
-                                                        revslider_showDoubleJqueryError("#rev_slider_1_1");
-                                                }else{
-                                                        revapi1 = tpj("#rev_slider_1_1").show().revolution({
-                                                                sliderType:"standard",
-                                                                jsFileLocation:"//www.skycamintl.com/wp-content/plugins/revslider/public/assets/js/",
-                                                                sliderLayout:"fullwidth",
-                                                                dottedOverlay:"none",
-                                                                delay:9000,
-                                                                navigation: {
-                                                                        onHoverStop:"off",
-                                                                },
-                                                                visibilityLevels:[1240,1024,778,480],
-                                                                gridwidth:1240,
-                                                                gridheight:868,
-                                                                lazyType:"none",
-                                                                shadow:0,
-                                                                spinner:"spinner0",
-                                                                stopLoop:"off",
-                                                                stopAfterLoops:-1,
-                                                                stopAtSlide:-1,
-                                                                shuffle:"off",
-                                                                autoHeight:"off",
-                                                                disableProgressBar:"on",
-                                                                hideThumbsOnMobile:"off",
-                                                                hideSliderAtLimit:0,
-                                                                hideCaptionAtLimit:0,
-                                                                hideAllCaptionAtLilmit:0,
-                                                                debugMode:false,
-                                                                fallbacks: {
-                                                                        simplifyAll:"off",
-                                                                        nextSlideOnWindowFocus:"off",
-                                                                        disableFocusListener:false,
-                                                                }
-                                                            }
-                                                        );
-                                            }
-                                            });	/*ready*/
-                                        </script>
+                                        <script type='text/javascript' src='assets/js/rev-slider.js'></script>
+                                 
                                         </div>
                                         <!-- END REVOLUTION SLIDER -->
                                     </div>
@@ -1162,7 +1079,6 @@
         <script type='text/javascript' src='wp-content/themes/brick/assets/lib/fotorama-4.6.4/fotoramaaead.js?ver=5.0.3'></script>
         <script type='text/javascript' src='wp-content/themes/brick/assets/lib/loading/modernizr.minaead.js?ver=5.0.3'></script>
         <script type='text/javascript' src='wp-content/themes/brick/assets/js/main.minaead.js?ver=5.0.3'></script>
-        <script type='text/javascript' src='wp-content/themes/brick/assets/js/woocommerceaead.js?ver=5.0.3'></script>
         <script type='text/javascript' src='wp-content/plugins/Ultimate_VC_Addons/assets/min-js/flip-box.minf28f.js?ver=3.16.12'></script>
         <script type='text/javascript' src='wp-includes/js/wp-embed.minaead.js?ver=5.0.3'></script>
         <script type='text/javascript' src='wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min5fba.js?ver=5.2'></script>
