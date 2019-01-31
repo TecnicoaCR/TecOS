@@ -1,103 +1,37 @@
 <!DOCTYPE html>
 <html>
     <head>
-        
         <meta charset="UTF-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <meta name="generator" content="Powered by TecnicoaCR"/>
+        
+        <!-- Start Tags -->
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="Seguridad TRS S.A" />
+        <meta property="og:description" content="Seguridad TRS S.A" />
+        <meta property="og:url" content="https://www.seguridadtrscr.com/" />
+        <meta property="og:site_name" content="Seguridad TRS S.A" />
+        <meta property="og:image" content="assets/img/logos/logo.png" />
+        <meta property="og:locale" content="es_CR" />
+        <!-- End Tags -->
         
         <title>Seguridad TRS &#8211; CR S.A</title>
         
-        <meta property="og:image" content="assets/img/logos/logo.png" />
-        
-        
-
         <!-- favicon-->
         <link rel="shortcut icon" href="assets/img/favicon.png" type="image/png">
         
-        
-
-        <script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
-        
-        <script>window._wca = window._wca || [];</script>
-        
-        <link rel='dns-prefetch' href='http://s0.wp.com/' />
-        <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
-        <link rel='dns-prefetch' href='http://s.w.org/' />
-        
-        <link rel="alternate" type="application/rss+xml" title="Seguridad TRS S.A &raquo; Feed" href="feed/index.php" />
-        <link rel="alternate" type="application/rss+xml" title="Seguridad TRS S.A &raquo; Comments Feed" href="comments/feed/index.php" />
-	
-        <script type="text/javascript">
-            window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.skycamintl.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.0.3"}};
-            !function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
-        </script>
-        
-        <style type="text/css"> .primary-color-trs{background: rgb(0, 57, 110)}</style>
-        
-	<style type="text/css">
-            img.wp-smiley,
-            img.emoji {
-                display: inline !important;
-                border: none !important;
-                box-shadow: none !important;
-                height: 1em !important;
-                width: 1em !important;
-                margin: 0 .07em !important;
-                vertical-align: -0.1em !important;
-                background: none !important;
-                padding: 0 !important;
-            }
-        </style>
-        
-       <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<style>
-.mySlides {display:none;}
-</style>
-
-<script>
-var myIndex = 0;
-carousel();
-
-function carousel() {
-  var i;
-  var x = document.getElementsByClassName("mySlides");
-  for (i = 0; i < x.length; i++) {
-    x[i].style.display = "none";  
-  }
-  myIndex++;
-  if (myIndex > x.length) {myIndex = 1}    
-  x[myIndex-1].style.display = "block";  
-  setTimeout(carousel, 2000); // Change image every 2 seconds
-}
-</script>
-        
+        <link rel="stylesheet" href="assets/css/custom.css">
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
         <link rel='stylesheet' id='wp-block-library-css'  href='wp-includes/css/dist/block-library/style.minaead.css?ver=5.0.3' type='text/css' media='all' />
         <link rel='stylesheet' id='jetpack-email-subscribe-css'  href='wp-content/plugins/jetpack/modules/shortcodes/css/jetpack-email-subscribe5152.css?ver=1.0' type='text/css' media='all' />
         <link rel='stylesheet' id='es-widget-css-css'  href='wp-content/plugins/email-subscribers/widget/es-widgetaead.css?ver=5.0.3' type='text/css' media='all' />
         <link rel='stylesheet' id='ultimate-headings-style-css'  href='wp-content/plugins/Ultimate_VC_Addons/assets/min-css/headings.minf28f.css?ver=3.16.12' type='text/css' media='all' />
         <link rel='stylesheet' id='rs-plugin-settings-css'  href='wp-content/plugins/revslider/public/assets/css/settings78d9.css?ver=5.4.3.1' type='text/css' media='all' />
-        
-        <style id='rs-plugin-settings-inline-css' type='text/css'>
-            #rs-demo-id {}
-        </style>
-        
         <link rel='stylesheet' id='woocommerce-layout-css'  href='wp-content/plugins/woocommerce/assets/css/woocommerce-layout1aae.css?ver=3.5.3' type='text/css' media='all' />
-        
-        <style id='woocommerce-layout-inline-css' type='text/css'>
-            .infinite-scroll .woocommerce-pagination {
-		display: none;
-            }
-        </style>
-        
         <link rel='stylesheet' id='woocommerce-smallscreen-css'  href='wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen1aae.css?ver=3.5.3' type='text/css' media='only screen and (max-width: 768px)' />
         <link rel='stylesheet' id='woocommerce-general-css'  href='wp-content/plugins/woocommerce/assets/css/woocommerce1aae.css?ver=3.5.3' type='text/css' media='all' />
-        
-        <style id='woocommerce-inline-inline-css' type='text/css'>
-            .woocommerce form .form-row .required { visibility: visible; }
-        </style>
-        
         <link rel='stylesheet' id='brick-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Titillium+Web%3A200%2C200i%2C300%2C300i%2C400%2C400i%2C600%2C600i%2C700%2C700i%2C900%7CQuicksand%3A300%2C400%2C500%2C700%7CRoboto%3A100%2C100i%2C300%2C300i%2C400%2C400i%2C500%2C500i%2C700%2C700i%2C900%2C900i&amp;ver=5.0.3' type='text/css' media='all' />
         <link rel='stylesheet' id='animate-css'  href='wp-content/themes/brick/assets/css/animateaead.css?ver=5.0.3' type='text/css' media='all' />
         <link rel='stylesheet' id='font-awesome-css'  href='wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min5fba.css?ver=5.2' type='text/css' media='all' />
@@ -130,13 +64,6 @@ function carousel() {
         <script type='text/javascript' src='wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min78d9.js?ver=5.4.3.1'></script>
         <script type='text/javascript' src='wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min78d9.js?ver=5.4.3.1'></script>
         <script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min44fd.js?ver=2.70'></script>
-        
-        <script type='text/javascript'>
-            /* <![CDATA[ */
-            var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/www.skycamintl.com","is_cart":"","cart_redirect_after_add":"no"};
-            /* ]]> */
-        </script>
-        
         <script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min1aae.js?ver=3.5.3'></script>
         <script type='text/javascript' src='wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart5fba.js?ver=5.2'></script>
         <script type='text/javascript' src='wp-content/themes/brick/assets/lib/hoverdir/modernizr.custom.97074aead.js?ver=5.0.3'></script>
@@ -145,172 +72,6 @@ function carousel() {
         <script type='text/javascript' src='wp-content/plugins/Ultimate_VC_Addons/assets/min-js/custom.minf28f.js?ver=3.16.12'></script>
         <script type='text/javascript' src='wp-content/plugins/Ultimate_VC_Addons/assets/min-js/countUp.minf28f.js?ver=3.16.12'></script>
 
-        <style type='text/css'>img#wpstats{display:none}</style><style type="text/css">.fa fa-search {
-            display: none;
-            }
-        </style>
-        
-        <style type="text/css">
-            #header .header-v1 .top-bar .box ul.br-info li{color:#676767;}
-            #header .header-v1{background:rgba(255,255,255,1);}
-            #header .header-v1 .header{background:rgba(16,9,9,1);}
-            #header .header .br-navbar ul li a, #header .menu-primary-show ul  li  a{
-                        text-transform: uppercase;
-                 }
-            body{background:none;background-size:100%;background-position:center center;background-repeat:repeat;}
-        </style>
-        
-        <style> @media (min-width: 992px){}</style>
-        <style type="text/css">
-            .footer{ background: #000000;  background-repeat:repeat; color: #dcddde;}
-            .footer .sec-padding{ padding:90px 0 90px 0; margin:0px auto;}
-            .footer .footer-widget ul li a{ color: #dcddde;}
-            .footer .footer-widget ul li a:hover{ color: #0d9af4;}
-            .footer .col-footer .footer-widget .title{ color: #dcddde;}
-        </style>
-        
-        <script type="text/javascript">
-            jQuery(function ($) {
-                if ($('#footer-particles-js').length) {
-                    particlesJS('footer-particles-js',
-                {
-                "particles": {
-                    "number": {
-                        "value": 100,
-                        "density": {
-                            "enable": true,
-                            "value_area": 800
-                        }
-                    },
-                    "color": {
-                        "value": "#101161"
-                    },
-                    "shape": {
-                        "type": "circle",
-                            "stroke": {
-                                "width": 0,
-                                "color": "#000000"
-                            },
-                            "polygon": {
-                                "nb_sides": 5
-                            },
-                            "image": {
-                                "src": "img/github.svg",
-                                "width": 100,
-                                "height": 100
-                            }
-                    },
-                    "opacity": {
-                        "value": 0.5,
-                        "random": false,
-                        "anim": {
-                            "enable": false,
-                            "speed": 1,
-                            "opacity_min": 0.1,
-                            "sync": false
-                        }
-                    },
-                    "size": {
-                        "value": 6,
-                        "random": true,
-                        "anim": {
-                            "enable": false,
-                            "speed": 40,
-                            "size_min": 0.1,
-                            "sync": false
-                        }
-                    },
-                    "line_linked": {
-                        "enable": true,
-                        "distance": 150,
-                        "color": "#28B1D3",
-                        "opacity": 0.4,
-                        "width": 1                                        },
-                    "move": {
-                        "enable": true,
-                        "speed": 6,
-                        "direction": "none",
-                        "random": false,
-                        "straight": false,
-                        "out_mode": "out",
-                        "attract": {
-                            "enable": false,
-                            "rotateX": 600,
-                            "rotateY": 1200
-                        }
-                    }
-                },
-                "interactivity": {
-                    "detect_on": "canvas",
-                    "events": {
-                        "onhover": {
-                            "enable": true,
-                            "mode": "repulse"
-                        },
-                        "onclick": {
-                            "enable": false,
-                            "mode": "push"
-                        },
-                        "resize": true
-                    },
-                    "modes": {
-                        "grab": {
-                            "distance": 400,
-                            "line_linked": {
-                                "opacity": 1
-                            }
-                        },
-                        "bubble": {
-                            "distance": 400,
-                            "size": 40,
-                            "duration": 2,
-                            "opacity": 8,
-                            "speed": 3
-                        },
-                        "repulse": {
-                            "distance": 200
-                        },
-                        "push": {
-                            "particles_nb": 4
-                        },
-                        "remove": {
-                            "particles_nb": 2
-                        }
-                    }
-                },
-                "retina_detect": true,
-                "config_demo": {
-                    "hide_card": false,
-                    "background_color": "#b61924",
-                    "background_image": "",
-                    "background_position": "50% 50%",
-                    "background_repeat": "no-repeat",
-                    "background_size": "cover"
-                }
-            }
-                    );
-                    }
-                });
-        </script>
-        
-        <noscript>
-            <style>.woocommerce-product-gallery{ opacity: 1 !important; }</style>
-        </noscript>
-        
-	<meta name="generator" content="Powered by TecnicoaCR"/>
-
-        <!-- Start Tags -->
-        <meta property="og:type" content="website" />
-        <meta property="og:title" content="Seguridad TRS S.A" />
-        <meta property="og:description" content="Seguridad TRS S.A" />
-        <meta property="og:url" content="https://www.seguridadtrscr.com/" />
-        <meta property="og:site_name" content="Seguridad TRS S.A" />
-        <meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
-        <meta property="og:locale" content="es_CR" />
-        <meta name="twitter:text:title" content="New Homepage" />
-        <meta name="twitter:card" content="summary" />
-        <!-- End Tags -->
-        
         <script type="text/javascript">function setREVStartSize(e){
             try{ var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;	
                 if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
@@ -349,136 +110,17 @@ function carousel() {
             </style>
         </noscript>
         
-        <script async src='site-data/stats.wp.com/s-201902.js'></script>
-        
     </head>
-
     <body class="home page-template-default page page-id-645 woocommerce-no-js brick-body brick-sticky wpb-js-composer js-comp-ver-5.2 vc_responsive" > 
-        <!--<div class="br_page_loader style-2">
-            <div class="page_loader_inner">
-                <div class="br_spinner"></div>
-            </div>
-        </div>-->
         <div id="wrapper">
+            
             <!-- BEGIN HEADER -->
             <header class="header-v1" data-uk-sticky="{top: -500, animation: 'uk-animation-slide-top'}">
-                <div id="justify_mega" class="header">
-                    
-                    <div class="uk-container uk-container-center">
-                        <nav class="menu-primary uk-clearfix">
-                            <ul class="uk-navbar-nav uk-flex uk-flex-center main-menu">
-                                <li id="menu-item-1400" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1400" data-depth="0">
-                                    <a href="/"><span class="menu-title">
-                                        <span class="title-menu">
-                                            <img src="assets/img/logos/logo.png" alt="Seguridad TRS - CR"  style="max-height: 58px; margin:0px; padding:0px;" class="normal-logo logo-main"/>
-                                        </span></span>
-                                    </a>
-                                </li>
-                                <li id="menu-item-1383" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-645 current_page_item menu-item-1383" data-depth="0">
-                                    <a href="/"><span class="menu-title"><span class="title-menu">Inicio</span></span></a>
-                                </li>
-                                <li id="menu-item-1431" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1431" data-depth="0">
-                                    <a><span class="menu-title"><span class="title-menu"> Sobre Nosotros</span></span></a>
-                                    <ul class='standar-dropdown standard autodrop_submenu sub-menu dropdown-menu' style="">
-                                        <li id="menu-item-1430" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1430" data-depth="1">
-                                            <a href="nosotros/#historia"><span class="menu-title"><span class="title-menu">História</span></span></a>
-                                        </li>
-                                        <li id="menu-item-1365" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1365" data-depth="1">
-                                            <a href="nosotros/#mision"><span class="menu-title"><span class="title-menu"></span>Misión</span></a>
-                                        </li>
-                                        <li id="menu-item-1369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1369" data-depth="1">
-                                            <a href="nosotros/#vision"><span class="menu-title"><span class="title-menu">Visión</span></span></a>
-                                        </li>
-                                        <li id="menu-item-1369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1369" data-depth="1">
-                                            <a href="nosotros/#que-nos-diferencia"><span class="menu-title"><span class="title-menu">Qué nos diferencia</span></span></a>
-                                        </li>
-                                        <li id="menu-item-1369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1369" data-depth="1">
-                                            <a href="nosotros/#lo-que-hacemos"><span class="menu-title"><span class="title-menu">Lo que hacemos</span></span></a>
-                                        </li>
-                                        <li id="menu-item-1369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1369" data-depth="1">
-                                            <a href="nosotros/#nuestro-objetivo"><span class="menu-title"><span class="title-menu">Nuestro Objetivo</span></span></a>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li id="menu-item-1370" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1370" data-depth="0">
-                                    <a><span class="menu-title"><span class="title-menu">Nuestros Servicios</span></span></a>
-                                    <ul class='standar-dropdown standard autodrop_submenu sub-menu dropdown-menu' style="">
-                                        <li id="menu-item-1371" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1371" data-depth="1">
-                                            <a href="servicios/#seguridad-fisica"><span class="menu-title"><span class="title-menu">Seguridad Física</span></span></a>
-                                        </li>
-                                        <li id="menu-item-1371" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1371" data-depth="1">
-                                            <a href="servicios/#seguridad-electronica"><span class="menu-title"><span class="title-menu">Seguridad Eléctronica</span></span></a>
-                                        </li>
-                                    </ul>
-                                </li>
-                               
-                                <li id="menu-item-1400" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1400" data-depth="0">
-                                    <a href="contacto/"><span class="menu-title"><span class="title-menu">Contáctenos</span></span></a>
-                                </li> 
-                            </ul>
-                        </nav>
-                        <div class="mobile-logo">
-                            <a class="br-logo" href="/">
-                                <img src="assets/img/logos/logo.png" alt="Seguridad TRS S.A" style="max-height: 50px; margin:0px; padding:0px;" class="normal-logo logo-main"/>
-                            </a>
-                        </div>
-                        <div class="search search-cart-wrap">                           
-                            <div class="search-wrap"></div>
-                            <div class="toggle-icon">
-                                <div id="menu_primary_toggle" class="btn-toggle-menu"><span></span></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="mobile-menu">
-                    <nav class="nav-holder">
-                        <ul>
-                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-645 current_page_item menu-item-1383" data-depth="0">
-                                <a href="/"><span class="menu-title"><span class="title-menu">Inicio</span></span></a>
-                            </li>
-                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1431" data-depth="0">
-                                <a><span class="menu-title"><span class="title-menu">Sobre Nosotros</span></span></a>
-                                <ul class='standar-dropdown standard autodrop_submenu sub-menu dropdown-menu' style="">
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1430" data-depth="1">
-                                        <a href="nosotros/#historia"><span class="menu-title"><span class="title-menu">Historia</span></span></a>
-                                    </li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1365" data-depth="1">
-                                        <a href="nosotros/#mision"><span class="menu-title"><span class="title-menu">Misión</span></span></a>
-                                    </li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1369" data-depth="1">
-                                        <a href="nosotros/#vision"><span class="menu-title"><span class="title-menu">Visión</span></span></a>
-                                    </li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1369" data-depth="1">
-                                        <a href="nosotros/#que-nos-diferencia"><span class="menu-title"><span class="title-menu">Qué nos diferencia</span></span></a>
-                                    </li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1369" data-depth="1">
-                                        <a href="nosotros/#lo-que-hacemos"><span class="menu-title"><span class="title-menu">Lo que hacemos</span></span></a>
-                                    </li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1369" data-depth="1">
-                                        <a href="nosotros/#objetivo"><span class="menu-title"><span class="title-menu">Nuestro objetivo</span></span></a>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1370" data-depth="0">
-                                <a><span class="menu-title"><span class="title-menu">Nuestros Servicios</span></span></a>
-                                <ul class='standar-dropdown standard autodrop_submenu sub-menu dropdown-menu' style="">
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1371" data-depth="1">
-                                        <a href="servicios/#seguridad-fisica"><span class="menu-title"><span class="title-menu">Seguridad Física</span></span></a>
-                                    </li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1371" data-depth="1">
-                                        <a href="servicios/#seguridad-electronica"><span class="menu-title"><span class="title-menu">Seguridad Eléctronica</span></span></a>
-                                    </li>
-                                </ul>
-                            </li>
-           
-                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1400" data-depth="0">
-                                <a href="contacto/"><span class="menu-title"><span class="title-menu">Contáctenos</span></span></a>
-                            </li>
-                        </ul>
-                    </nav>
-                </div>
+                <!-- Navbar -->
+                <?php require_once 'assets/nav.php'; ?>
             </header>         
             <!--END BEGIN HEADER -->
+            
             <div class="uk-container uk-container-center">
                 <div class="uk-grid ">
                     <div id="main-content" class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1 uk-width-1-1 brick-content page-content ">
@@ -1477,119 +1119,26 @@ function carousel() {
         </div>
     </div>
 </div>
-</div>
-        <footer class = "footer">
-            <div id="footer-particles-js"></div>
-            <div class="sec-padding">
-                <div class = "uk-container uk-container-center">
-                    <div class = "uk-grid">
-                        <div class = "uk-width-medium-1-3 uk-width-small-1-1 uk-width-1-1 col-footer">
-                            <div id="text-5" class="footer-widget textwidget">	
-                                <div class="" style="font-size:20px">
-                                    <img src="assets/img/logos/trs.png" class="logo-footer" alt="Logo" data-recalc-dims="1" /><br>
-                                    <i class="fa fa-phone fa-fw"></i> Llámanos <a href="https://api.whatsapp.com/send?phone=50671720886" target="_blank ">+506 7172 0886</a><br>
-                                    <i class="fa fa-map-pin fa-fw"></i> Puriscal, San Jose, Costa Rica.<a href="https://wego.here.com/directions/mix/mylocation/e-eyJuYW1lIjoiU2VndXJpZGFkIFRSUyBTLkEiLCJhZGRyZXNzIjoic2FuIGpvc2UgcHVyaXNjYWwgc2FudGlhZ28sIFNhbnRpYWdvIERlIFB1cmlzY2FsLCBTYW4gSm9zZSwgQ29zdGEgUmljYSIsImxhdGl0dWRlIjo5Ljg1MTQxLCJsb25naXR1ZGUiOi04NC4zMDYyMDk5LCJwcm92aWRlck5hbWUiOiJmYWNlYm9vayIsInByb3ZpZGVySWQiOjIzODEwMDc3Mjg1OTI0NTZ9?map=9.85141,-84.30621,15,normal&fb_locale=es_LA"> Comó llegar ?</a><br>
-                                    <i class="fa fa-envelope fa-fw"></i> Escribínos <a href="mailto:luis@seguridadtrscr.net.in" target="_blank">luis@seguridadtrscr.net.in</a>
-                                </div>
-                            </div>     
-                        </div>
-                        <div class = "uk-width-medium-1-3 uk-width-small-1-1 uk-width-1-1 col-footer">
-                            <div id="text-9" class="footer-widget widget_text">
-                                <h4 class="title">Seguridad Física</h4>
-                                <div class="textwidget">
-                                    <div class="textwidget">
-                                        <p>En nuestra división de Seguridad Física
-                                        (Oficiales de seguridad) contamos con un
-                                        grupo importante de servicios con los
-                                        más altos estándares de calidad, depuración
-                                        y entrenamiento.<br>
-                                        - Supervisión de seguridad.<br>
-                                        - Oficiales de seguridad.<br>
-                                        - Asesoramiento de seguridad.<br>
-                                        - Seguridad en eventos.</p>
-                                    </div>
-                                </div>
-                            </div>           
-                        </div>
-                        <div class = "uk-width-medium-1-3 uk-width-small-1-1 uk-width-1-1 col-footer">
-                            <div id="text-8" class="footer-widget widget_text">
-                                <h4 class="title">Seguridad electrónica</h4>	
-                                <div class="textwidget">
-                                    <p>Nuestros sistemas de seguridad electrónica abarcan 
-                                    todos los aspectos para que nuestros clientes puedan 
-                                    contar con una asesoría, instalación y servicio de 
-                                    post venta efectivo y profesional. Los grandes grupos 
-                                    dentro de la seguridad electrónica son:<br>
-                                    - Sistemas de Control de Acceso (Automatización)<br>
-                                    - Alarmas contra intrusos<br>
-                                    - Sistemas de Detección de Incendios<br>
-                                    - Servicio de Monitoreo digital<br>
-                                    - Cámaras de seguridad (CCTV) y Video Vigilancia</p>
-                                </div>
-                            </div>             
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </footer>
-<div class="footer-bottom" style="background: rgb(0, 57, 110)">
-            <div class="uk-container uk-container-center">
-                <div class="uk-grid uk-grid-small">
-                    <div class="uk-width-medium-1-1 uk-width-small-1-1 uk-width-1-1">
-                        <div class="copyright text-center">
-                            <p>Copyright 2019 SEGURIDAD TRS S.A | Powered by <a href="https://www.tecnicoacr.com">TecnicoaCR</a></p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            </div>
-        <div id="br_backtop" class="brick-backtotop" style="background: rgb(0, 57, 110)"><i class="fa fa-arrow-up"></i></div>
+        </div>
+        
+        <!-- Footer -->
+        <?php require_once 'assets/footer.php'; ?>
+
         </div> <!--end #wrapper -->
 	<div style="display:none"></div>
-	<script type="text/javascript">
-            var c = document.body.className;
-            c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
-            document.body.className = c;
-	</script>
         
-        <script type="text/javascript">
-            function revslider_showDoubleJqueryError(sliderID) {
-                    var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
-                    errorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";
-                    errorMessage += "<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option:  <strong><b>Put JS Includes To Body</b></strong> option to true.";
-                    errorMessage += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.";
-                    errorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "</span>";
-                            jQuery(sliderID).show().html(errorMessage);
-            }
-	</script>
-        
+        <script type='text/javascript' src='assets/js/footer-particles.js'></script>
 	<script type='text/javascript' src='wp-content/plugins/jetpack/_inc/build/photon/photon.minb3d9.js?ver=20130122'></script>
-     
         <script type='text/javascript' src='wp-content/plugins/email-subscribers/widget/es-widget-pageaead.js?ver=5.0.3'></script>
         <script type='text/javascript' src='site-data/s0.wp.com/wp-content/js/devicepx-jetpack2acb.js?ver=201902'></script>
-        <script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min6b25.js?ver=2.1.4'></script>
-        
-        <script type='text/javascript'>
-        /* <![CDATA[ */
-        var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
-        /* ]]> */
-        </script>
-        
-        <script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min1aae.js?ver=3.5.3'></script>
-        
-        <script type='text/javascript'>
-        /* <![CDATA[ */
-        var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_a430b3fc371e1c2c14b0807cf505c531","fragment_name":"wc_fragments_a430b3fc371e1c2c14b0807cf505c531"};
-        /* ]]> */
-        </script>
-        
+        <script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min6b25.js?ver=2.1.4'></script>       
+        <script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min1aae.js?ver=3.5.3'></script>       
         <script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min1aae.js?ver=3.5.3'></script>
 
         <script type='text/javascript'>
-                        jQuery( 'body' ).bind( 'wc_fragments_refreshed', function() {
-                                jQuery( 'body' ).trigger( 'jetpack-lazy-images-load' );
-                        } );
-
+            jQuery( 'body' ).bind( 'wc_fragments_refreshed', function() {
+                    jQuery( 'body' ).trigger( 'jetpack-lazy-images-load' );
+            } );
         </script>
         
         <script type='text/javascript' src='wp-includes/js/comment-reply.minaead.js?ver=5.0.3'></script>
@@ -1601,7 +1150,6 @@ function carousel() {
         <script type='text/javascript' src='wp-content/themes/brick/assets/lib/lightGallery/dist/js/lightgallery-all.minaead.js?ver=5.0.3'></script>
         <script type='text/javascript' src='wp-content/themes/brick/assets/lib/lightGallery/dist/js/jquery.mousewheel.minaead.js?ver=5.0.3'></script>
         <script type='text/javascript' src='wp-content/themes/brick/assets/js/isotope.pkgd.minaead.js?ver=5.0.3'></script>
-              
         <script type='text/javascript' src='wp-content/themes/brick/assets/js/ajax_load_portfolioaead.js?ver=5.0.3'></script>
         <script type='text/javascript' src='wp-content/themes/brick/assets/lib/uikit/js/uikit.minaead.js?ver=5.0.3'></script>
         <script type='text/javascript' src='wp-content/themes/brick/assets/lib/uikit/js/components/grid.minaead.js?ver=5.0.3'></script>
@@ -1618,13 +1166,6 @@ function carousel() {
         <script type='text/javascript' src='wp-content/plugins/Ultimate_VC_Addons/assets/min-js/flip-box.minf28f.js?ver=3.16.12'></script>
         <script type='text/javascript' src='wp-includes/js/wp-embed.minaead.js?ver=5.0.3'></script>
         <script type='text/javascript' src='wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min5fba.js?ver=5.2'></script>
-        <script type='text/javascript' src='../stats.wp.com/e-201902.js' async='async' defer='defer'></script>
-
-        <script type='text/javascript'>
-                _stq = window._stq || [];
-                _stq.push([ 'view', {v:'ext',j:'1:6.9',blog:'135446821',post:'645',tz:'0',srv:'www.seguridadtrscr.com'} ]);
-                _stq.push([ 'clickTrackerInit', '135446821', '645' ]);
-        </script>
-
+        
     </body> <!--end body-->
 </html> 

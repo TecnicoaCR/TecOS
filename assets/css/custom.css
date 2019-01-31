@@ -1,0 +1,37 @@
+
+/* 
+    Created on : 30/01/2019, 07:24:48 PM
+    Author     : JoeAlv
+*/
+
+.primary-color-trs{background: rgb(0, 57, 110)} /* Important*/
+
+#header .header-v1 .top-bar .box ul.br-info li{color:#676767;}
+            #header .header-v1{background:rgba(255,255,255,1);}
+            #header .header-v1 .header{background:rgba(16,9,9,1);}
+            #header .header .br-navbar ul li a, #header .menu-primary-show ul  li  a{
+                        text-transform: uppercase;
+                 }
+            body{background:none;background-size:100%;background-position:center center;background-repeat:repeat;}
+            
+            @media (min-width: 992px){}
+            
+            .footer{ background: #000000;  background-repeat:repeat; color: #dcddde;}
+            .footer .sec-padding{ padding:90px 0 90px 0; margin:0px auto;}
+            .footer .footer-widget ul li a{ color: #dcddde;}
+            .footer .footer-widget ul li a:hover{ color: #0d9af4;}
+            .footer .col-footer .footer-widget .title{ color: #dcddde;}
+
+
+img.wp-smiley,
+            img.emoji {
+                display: inline !important;
+                border: none !important;
+                box-shadow: none !important;
+                height: 1em !important;
+                width: 1em !important;
+                margin: 0 .07em !important;
+                vertical-align: -0.1em !important;
+                background: none !important;
+                padding: 0 !important;
+            }

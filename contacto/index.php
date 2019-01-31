@@ -903,39 +903,10 @@
             </div>
 </div>
             <footer class = "footer">
-                                    <div id="footer-particles-js"></div>
-                                <div class="sec-padding">
-                    <div class = "uk-container uk-container-center">
-                        <div class = "uk-grid">
-                                                            <div class = "uk-width-medium-1-3 uk-width-small-1-1 uk-width-1-1 col-footer">
-                                    <div id="text-5" class="footer-widget widget_text">			<div class="textwidget"><img src="../../i2.wp.com/www.skycamintl.com/wp-content/uploads/2017/10/footerlogo05c9.png?w=600&amp;ssl=1" class="logo-footer" alt="Logo" data-recalc-dims="1" />
-+1 (829) 542-0629<br>
-Miami, Florida 33126, USA<br>
-sales@skycamintl.com</div>
-		</div>                                </div>
-                                                                <div class = "uk-width-medium-1-3 uk-width-small-1-1 uk-width-1-1 col-footer">
-                                    <div id="text-9" class="footer-widget widget_text"><h4 class="title">Sales</h4>			<div class="textwidget"><div class="textwidget">
-<p>For any sales questions or if you are in need of building any projects please feel free to contact us and one of our business development personnel will contact you as soon as possible.</p>
-</div>
-</div>
-		</div>                                </div>
-                                                                <div class = "uk-width-medium-1-3 uk-width-small-1-1 uk-width-1-1 col-footer">
-                                    <div id="text-8" class="footer-widget widget_text"><h4 class="title">Support</h4>			<div class="textwidget">For any support questions or concerns and you are in need of technical support please contact us immediately at Skycam International support and one of our technical engineers will be reaching out to you within 24 hours.</div>
-		</div>                                </div>
-                                                        </div>
-                    </div>
-                </div>
+                                    
             </footer>
                     <div class="footer-bottom">
-            <div class="uk-container uk-container-center">
-                <div class="uk-grid uk-grid-small">
-                    <div class="uk-width-medium-1-1 uk-width-small-1-1 uk-width-1-1">
-                        <div class="copyright text-center">
-                            <p>Copyright 2017 SKYCAM INTERNATIONAL | Managed By Gorilla Consultant</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            
         </div>
                     <div id="br_backtop" class="brick-backtotop bg-primary-color"><i class="fa fa-arrow-up"></i></div>
             </div> <!--end #wrapper -->
