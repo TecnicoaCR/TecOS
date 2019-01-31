@@ -22,7 +22,8 @@
         <!-- favicon-->
         <link rel="shortcut icon" href="assets/img/favicon.png" type="image/png">
         
-        <link rel="stylesheet" href="assets/css/custom.css">
+        <link rel="stylesheet" href="assets/css/custom.css" type="text/css">
+        <link rel="stylesheet" href="assets/css/dynamic.css" class="options-output" type="text/css">
         <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
         <link rel='stylesheet' id='wp-block-library-css'  href='wp-includes/css/dist/block-library/style.minaead.css?ver=5.0.3' type='text/css' media='all' />
         <link rel='stylesheet' id='jetpack-email-subscribe-css'  href='wp-content/plugins/jetpack/modules/shortcodes/css/jetpack-email-subscribe5152.css?ver=1.0' type='text/css' media='all' />
@@ -72,26 +73,7 @@
             }catch(d){console.log("Failure at Presize of Slider:"+d)}
             };
         </script>
-        
-        <style type="text/css" title="dynamic-css" class="options-output">
-            .br_page_loader{background-color:rgb(0, 57, 110);}
-            .page-title-bar{background-color:#1E1E1E;background-repeat:no-repeat;background-size:cover;background-position:center top;background-image:url('assets/img/nosotros.jpg');}
-            .page-title-bar{margin-top:0;margin-right:0;margin-bottom:5%;margin-left:0;}
-            .page-title-bar{padding-top:110px;padding-right:0;padding-bottom:110px;padding-left:0;}
-            .blog-title-bar{background-color:#1e1e1e;background-repeat:no-repeat;background-size:cover;background-position:center top;background-image:url('wp-content/plugins/qtc-brick/qtc-options/options/images/bg_title_bar.jpg');}
-            .blog-title-bar{margin-top:0;margin-right:0;margin-bottom:5%;margin-left:0;}
-            .blog-title-bar{padding-top:110px;padding-right:0;padding-bottom:110px;padding-left:0;}
-            .product-title-bar{background-color:#1E1E1E;background-repeat:no-repeat;background-size:cover;background-position:center top;background-image:url('wp-content/plugins/qtc-brick/qtc-options/options/images/bg_title_bar.jpg');}
-            .product-title-bar{margin-top:0;margin-right:0;margin-bottom:5%;margin-left:0;}
-            .product-title-bar{padding-top:110px;padding-right:0;padding-bottom:110px;padding-left:0;}body{font-family:"Titillium Web";line-height:26px;font-weight:400;font-style:normal;color:#4e5453;font-size:14px;}
-            h1{font-family:"Titillium Web";line-height:48px;font-weight:900;font-style:normal;color:#1b2725;font-size:42px;}
-            h2{font-family:"Titillium Web";line-height:42px;font-weight:700;font-style:normal;color:#1b2725;font-size:36px;}
-            h3{font-family:"Titillium Web";line-height:30px;font-weight:700;font-style:normal;color:#1b2725;font-size:24px;}
-            h4{font-family:"Titillium Web";line-height:24px;font-weight:400;font-style:normal;color:#1b2725;font-size:18px;}
-            h5{font-family:"Titillium Web";line-height:22px;font-weight:400;font-style:normal;color:#1b2725;font-size:16px;}
-            h6{font-family:"Titillium Web";line-height:18px;font-weight:300;font-style:normal;color:#1b2725;font-size:14px;}
-        </style>
-        
+
         <style type="text/css" data-type="vc_shortcodes-custom-css">
             .vc_custom_1499223489092{padding-top: 52px !important;padding-bottom: 10px !important;}
             .vc_custom_1501647372720{padding-top: 10% !important;padding-bottom: 8% !important;background-color: rgb(0, 57, 110) !important;}
@@ -106,6 +88,8 @@
         
     </head>
     <body class="home page-template-default page page-id-645 woocommerce-no-js brick-body brick-sticky wpb-js-composer js-comp-ver-5.2 vc_responsive" > 
+        
+        <!-- Script de Facebook -->
         <div id="fb-root"></div>
         <script>
             (function(d, s, id) {
@@ -116,6 +100,7 @@
                 fjs.parentNode.insertBefore(js, fjs);
             }(document, 'script', 'facebook-jssdk'));            
         </script>
+        <!-- Fin de Script de Facebook -->
         
         <div id="wrapper">
             
@@ -128,541 +113,13 @@
             <div class="uk-container uk-container-center">
                 <div class="uk-grid ">
                     <div id="main-content" class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1 uk-width-1-1 brick-content page-content ">
-                        <div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_row-no-padding">
-                            <div class="wpb_column vc_column_container vc_col-sm-12">
-                                <div class="vc_column-inner ">
-                                    <div class="wpb_wrapper">
-                                        <link href="https://fonts.googleapis.com/css?family=Titillium+Web:400%2C900|Quicksand:400" rel="stylesheet" property="stylesheet" type="text/css" media="all">
-                                        <div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-source="gallery" style="margin:0px auto;background:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
-                                        <!-- START REVOLUTION SLIDER 5.4.3.1 fullwidth mode -->
-                                        <div id="rev_slider_1_1" class="rev_slider fullwidthabanner slider" style="display:none;" data-version="5.4.3.1">
-                                            <ul>	<!-- SLIDE  -->
-                                                <li data-index="rs-1" data-transition="fade,parallaxtotop,parallaxtoleft,slotslide-horizontal,slotslide-vertical,slideoverright,slideoverleft,slidingoverlayleft,slidingoverlayright,slideright,slideleft,slidehorizontal,scaledownfrombottom,zoomout,scaledownfromleft,turnoff,incube-horizontal,3dcurtain-vertical,3dcurtain-horizontal,curtain-2,curtain-3,random-static,random-premium,random" data-slotamount="default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default" data-easeout="default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default" data-masterspeed="300,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default"  data-rotate="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-                                                    <!-- MAIN IMAGE -->
-                                                    <img src="assets/img/slider_1.jpg"  alt="" title="finalhero"  width="1440" height="868" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
-                                                    
-                                                    <!-- LAYERS -->
-                                                    <!-- LAYER NR. 1 -->
-                                                    <div class="tp-caption   tp-resizeme"  id="slide-1-layer-1"  data-x="right" data-hoffset="50" 
-                                                        data-y="center" data-voffset="-198" 
-                                                        data-width="['auto']"
-                                                        data-height="['auto']"
-                                                        data-type="text" 
-                                                        data-responsive_offset="on" 
-                                                        data-frames='[{"delay":10,"split":"chars","splitdelay":0.1,"speed":3000,"split_direction":"forward","frame":"0","from":"x:left;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                                                        data-textAlign="['inherit','inherit','inherit','inherit']"
-                                                        data-paddingtop="[0,0,0,0]"
-                                                        data-paddingright="[0,0,0,0]"
-                                                        data-paddingbottom="[0,0,0,0]"
-                                                        data-paddingleft="[0,0,0,0]"
-
-                                                        style="z-index: 5; white-space: nowrap; font-size: 48px; line-height: 48px; font-weight: 400; color: #000000; letter-spacing: 0px;font-family:Titillium Web;">
-                                                        Bienvenidos a
-                                                    </div>
-                                                    <!-- LAYER NR. 2 -->
-                                                    <div class="tp-caption   tp-resizeme"  id="slide-1-layer-3" 
-                                                        data-x="right" data-hoffset="42" 
-                                                        data-y="center" data-voffset="-44" 
-                                                                               data-width="['314']"
-                                                       data-height="['76']"
-
-                                                       data-type="text" 
-                                                       data-responsive_offset="on" 
-
-                                                       data-frames='[{"delay":10,"speed":300,"frame":"0","from":"y:bottom;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                                                       data-textAlign="['inherit','inherit','inherit','inherit']"
-                                                       data-paddingtop="[0,0,0,0]"
-                                                       data-paddingright="[0,0,0,0]"
-                                                       data-paddingbottom="[0,0,0,0]"
-                                                       data-paddingleft="[0,0,0,0]"
-
-                                                        style="z-index: 7; min-width: 314px; max-width: 314px; max-width: 76px; max-width: 76px; white-space: normal; font-size: 20px; line-height: 25px; font-weight: 400; color: #4e5453; letter-spacing: 0px;font-family:Quicksand;">
-                                                        </div>
-
-                                                        <!-- LAYER NR. 4 -->
-                                                        <div class="tp-caption   tp-resizeme" 
-                                                                 id="slide-1-layer-5" 
-                                                                 data-x="right" data-hoffset="48" 
-                                                                 data-y="center" data-voffset="-139" 
-                                                                                        data-width="['auto']"
-                                                                data-height="['auto']"
-
-                                                                data-type="text" 
-                                                                data-responsive_offset="on" 
-
-                                                                data-frames='[{"delay":10,"split":"chars","splitdelay":0.1,"speed":2000,"split_direction":"forward","frame":"0","from":"x:left;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                                                                data-textAlign="['inherit','inherit','inherit','inherit']"
-                                                                data-paddingtop="[0,0,0,0]"
-                                                                data-paddingright="[0,0,0,0]"
-                                                                data-paddingbottom="[0,0,0,0]"
-                                                                data-paddingleft="[0,0,0,0]"
-
-                                                                style="z-index: 9; white-space: nowrap; font-size: 80px; line-height: 48px; font-weight: 900; color: rgb(0, 57, 110); letter-spacing: 0px;font-family:Segoe UI;">
-                                                            Seguridad TRS - CR 
-                                                        </div>
-                                                </li>
-                                                
-                                                <!-- Segunda slider -->
-                                                <li data-index="rs-2" data-transition="fade,parallaxtotop,parallaxtoleft,slotslide-horizontal,slotslide-vertical,slideoverright,slideoverleft,slidingoverlayleft,slidingoverlayright,slideright,slideleft,slidehorizontal,scaledownfrombottom,zoomout,scaledownfromleft,turnoff,incube-horizontal,3dcurtain-vertical,3dcurtain-horizontal,curtain-2,curtain-3,random-static,random-premium,random" data-slotamount="default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default" data-easeout="default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default" data-masterspeed="300,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default"  data-rotate="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-                                                    <!-- MAIN IMAGE -->
-                                                    
-                                                    <img src="assets/img/slider_2.jpg"  alt="" title="finalhero"  width="1440" height="868" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
-                                                    <!-- LAYERS -->
-                                                    <!-- LAYER NR. 1 -->
-                                                    <div class="tp-caption   tp-resizeme"  id="slide-1-layer-1"  data-x="right" data-hoffset="50" 
-                                                        data-y="center" data-voffset="-198" 
-                                                                                data-width="['auto']"
-                                                        data-height="['auto']"
-
-                                                        data-type="text" 
-                                                        data-responsive_offset="on" 
-
-                                                        data-frames='[{"delay":10,"split":"chars","splitdelay":0.1,"speed":2000,"split_direction":"forward","frame":"0","from":"x:left;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                                                        data-textAlign="['inherit','inherit','inherit','inherit']"
-                                                        data-paddingtop="[0,0,0,0]"
-                                                        data-paddingright="[0,0,0,0]"
-                                                        data-paddingbottom="[0,0,0,0]"
-                                                        data-paddingleft="[0,0,0,0]"
-
-                                                        style="z-index: 5; white-space: nowrap; font-size: 48px; line-height: 48px; font-weight: 400; color: #1b2725; letter-spacing: 0px;font-family:Titillium Web;">
-                                                        Bienvenidos a
-                                                    </div>
-                                                    <!-- LAYER NR. 2 -->
-                                                    <div class="tp-caption   tp-resizeme"  id="slide-1-layer-3" 
-                                                        data-x="right" data-hoffset="42" 
-                                                        data-y="center" data-voffset="-44" 
-                                                                               data-width="['314']"
-                                                       data-height="['76']"
-
-                                                       data-type="text" 
-                                                       data-responsive_offset="on" 
-
-                                                       data-frames='[{"delay":10,"speed":300,"frame":"0","from":"y:bottom;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                                                       data-textAlign="['inherit','inherit','inherit','inherit']"
-                                                       data-paddingtop="[0,0,0,0]"
-                                                       data-paddingright="[0,0,0,0]"
-                                                       data-paddingbottom="[0,0,0,0]"
-                                                       data-paddingleft="[0,0,0,0]"
-
-                                                        style="z-index: 7; min-width: 314px; max-width: 314px; max-width: 76px; max-width: 76px; white-space: normal; font-size: 20px; line-height: 25px; font-weight: 400; color: #4e5453; letter-spacing: 0px;font-family:Quicksand;">
-                                                        Estamos enfocados en dar soluciones de seguridad de acuerdo a la necesidad requerida, diseñada para asegurar atención de los riesgos y optimización de la seguridad.
-                                                        </div>
-
-                                                        <!-- LAYER NR. 3 -->
-                                                        <div class="tp-caption rev-btn  tp-resizeme  bg-color-primary border-color-primary bg-hover-color-transparent color-hover-primary box-shadow-default" 
-                                                                 id="slide-1-layer-4" 
-                                                                 data-x="right" data-hoffset="44" 
-                                                                 data-y="center" data-voffset="75" 
-                                                                                        data-width="['auto']"
-                                                                data-height="['auto']"
-
-                                                                data-type="button" 
-                                                                data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"contacto/","delay":""}]'
-                                                                data-responsive_offset="on" 
-
-                                                                data-frames='[{"delay":10,"speed":300,"frame":"0","from":"x:{-250,250};y:{-150,150};rX:{-90,90};rY:{-90,90};rZ:{-360,360};sX:0;sY:0;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0,0,0,1);bg:rgba(255,255,255,1);"}]'
-                                                                data-textAlign="['inherit','inherit','inherit','inherit']"
-                                                                data-paddingtop="[12,12,12,12]"
-                                                                data-paddingright="[35,35,35,35]"
-                                                                data-paddingbottom="[12,12,12,12]"
-                                                                data-paddingleft="[35,35,35,35]"
-
-                                                                style="z-index: 8; white-space: nowrap; font-size: 14px; line-height: 17px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Titillium Web;background-color:rgb(0, 57, 110);border-color:rgba(0,0,0,1);border-style:solid;border-width:2px 2px 2px 2px;border-radius:40px 40px 40px 40px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">Contáctanos </div>
-
-                                                        <!-- LAYER NR. 4 -->
-                                                        <div class="tp-caption   tp-resizeme" 
-                                                                 id="slide-1-layer-5" 
-                                                                 data-x="right" data-hoffset="48" 
-                                                                 data-y="center" data-voffset="-139" 
-                                                                                        data-width="['auto']"
-                                                                data-height="['auto']"
-
-                                                                data-type="text" 
-                                                                data-responsive_offset="on" 
-
-                                                                data-frames='[{"delay":10,"split":"chars","splitdelay":0.1,"speed":2000,"split_direction":"forward","frame":"0","from":"x:left;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                                                                data-textAlign="['inherit','inherit','inherit','inherit']"
-                                                                data-paddingtop="[0,0,0,0]"
-                                                                data-paddingright="[0,0,0,0]"
-                                                                data-paddingbottom="[0,0,0,0]"
-                                                                data-paddingleft="[0,0,0,0]"
-
-                                                                style="z-index: 9; white-space: nowrap; font-size: 60px; line-height: 48px; font-weight: 900; color: #1b2725; letter-spacing: 0px;font-family:Titillium Web;">
-                                                            Seguridad TRS - CR 
-                                                        </div>
-                                                </li>
-                                                <li data-index="rs-3" data-transition="fade,parallaxtotop,parallaxtoleft,slotslide-horizontal,slotslide-vertical,slideoverright,slideoverleft,slidingoverlayleft,slidingoverlayright,slideright,slideleft,slidehorizontal,scaledownfrombottom,zoomout,scaledownfromleft,turnoff,incube-horizontal,3dcurtain-vertical,3dcurtain-horizontal,curtain-2,curtain-3,random-static,random-premium,random" data-slotamount="default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default" data-easeout="default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default" data-masterspeed="300,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default"  data-rotate="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-                                                    <!-- MAIN IMAGE -->
-                                                    
-                                                    <img src="assets/img/slider_3.jpg"  alt="" title="finalhero"  width="1440" height="868" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
-                                                    <!-- LAYERS -->
-                                                    <!-- LAYER NR. 1 -->
-                                                    <div class="tp-caption   tp-resizeme"  id="slide-1-layer-1"  data-x="right" data-hoffset="50" 
-                                                        data-y="center" data-voffset="-198" 
-                                                                                data-width="['auto']"
-                                                        data-height="['auto']"
-
-                                                        data-type="text" 
-                                                        data-responsive_offset="on" 
-
-                                                        data-frames='[{"delay":10,"split":"chars","splitdelay":0.1,"speed":2000,"split_direction":"forward","frame":"0","from":"x:left;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                                                        data-textAlign="['inherit','inherit','inherit','inherit']"
-                                                        data-paddingtop="[0,0,0,0]"
-                                                        data-paddingright="[0,0,0,0]"
-                                                        data-paddingbottom="[0,0,0,0]"
-                                                        data-paddingleft="[0,0,0,0]"
-
-                                                        style="z-index: 5; white-space: nowrap; font-size: 48px; line-height: 48px; font-weight: 400; color: #1b2725; letter-spacing: 0px;font-family:Titillium Web;">
-                                                        Bienvenidos a
-                                                    </div>
-                                                    <!-- LAYER NR. 2 -->
-                                                    <div class="tp-caption   tp-resizeme"  id="slide-1-layer-3" 
-                                                        data-x="right" data-hoffset="42" 
-                                                        data-y="center" data-voffset="-44" 
-                                                                               data-width="['314']"
-                                                       data-height="['76']"
-
-                                                       data-type="text" 
-                                                       data-responsive_offset="on" 
-
-                                                       data-frames='[{"delay":10,"speed":300,"frame":"0","from":"y:bottom;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                                                       data-textAlign="['inherit','inherit','inherit','inherit']"
-                                                       data-paddingtop="[0,0,0,0]"
-                                                       data-paddingright="[0,0,0,0]"
-                                                       data-paddingbottom="[0,0,0,0]"
-                                                       data-paddingleft="[0,0,0,0]"
-
-                                                        style="z-index: 7; min-width: 314px; max-width: 314px; max-width: 76px; max-width: 76px; white-space: normal; font-size: 20px; line-height: 25px; font-weight: 400; color: #4e5453; letter-spacing: 0px;font-family:Quicksand;">
-                                                        Contamos con personal que día a día trabaja y sirve con lealtad, responsabilidad con el firme propósito de dar un servicio de excelencia.
-                                                        </div>
-
-                                                        <!-- LAYER NR. 3 -->
-                                                        <div class="tp-caption rev-btn  tp-resizeme  bg-color-primary border-color-primary bg-hover-color-transparent color-hover-primary box-shadow-default" 
-                                                                 id="slide-1-layer-4" 
-                                                                 data-x="right" data-hoffset="44" 
-                                                                 data-y="center" data-voffset="75" 
-                                                                                        data-width="['auto']"
-                                                                data-height="['auto']"
-
-                                                                data-type="button" 
-                                                                data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"#","delay":""}]'
-                                                                data-responsive_offset="on" 
-
-                                                                data-frames='[{"delay":10,"speed":300,"frame":"0","from":"x:{-250,250};y:{-150,150};rX:{-90,90};rY:{-90,90};rZ:{-360,360};sX:0;sY:0;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0,0,0,1);bg:rgba(255,255,255,1);"}]'
-                                                                data-textAlign="['inherit','inherit','inherit','inherit']"
-                                                                data-paddingtop="[12,12,12,12]"
-                                                                data-paddingright="[35,35,35,35]"
-                                                                data-paddingbottom="[12,12,12,12]"
-                                                                data-paddingleft="[35,35,35,35]"
-
-                                                                style="z-index: 8; white-space: nowrap; font-size: 14px; line-height: 17px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Titillium Web;background-color:rgba(0,0,0,0.75);border-color:rgba(0,0,0,1);border-style:solid;border-width:2px 2px 2px 2px;border-radius:40px 40px 40px 40px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">Contáctanos </div>
-
-                                                        <!-- LAYER NR. 4 -->
-                                                        <div class="tp-caption   tp-resizeme" 
-                                                                 id="slide-1-layer-5" 
-                                                                 data-x="right" data-hoffset="48" 
-                                                                 data-y="center" data-voffset="-139" 
-                                                                                        data-width="['auto']"
-                                                                data-height="['auto']"
-
-                                                                data-type="text" 
-                                                                data-responsive_offset="on" 
-
-                                                                data-frames='[{"delay":10,"split":"chars","splitdelay":0.1,"speed":2000,"split_direction":"forward","frame":"0","from":"x:left;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                                                                data-textAlign="['inherit','inherit','inherit','inherit']"
-                                                                data-paddingtop="[0,0,0,0]"
-                                                                data-paddingright="[0,0,0,0]"
-                                                                data-paddingbottom="[0,0,0,0]"
-                                                                data-paddingleft="[0,0,0,0]"
-
-                                                                style="z-index: 9; white-space: nowrap; font-size: 60px; line-height: 48px; font-weight: 900; color: #1b2725; letter-spacing: 0px;font-family:Titillium Web;">
-                                                            Seguridad TRS - CR 
-                                                        </div>
-                                                    </li>
-                                                    
-                                                    <li data-index="rs-4" data-transition="fade,parallaxtotop,parallaxtoleft,slotslide-horizontal,slotslide-vertical,slideoverright,slideoverleft,slidingoverlayleft,slidingoverlayright,slideright,slideleft,slidehorizontal,scaledownfrombottom,zoomout,scaledownfromleft,turnoff,incube-horizontal,3dcurtain-vertical,3dcurtain-horizontal,curtain-2,curtain-3,random-static,random-premium,random" data-slotamount="default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default" data-easeout="default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default" data-masterspeed="300,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default"  data-rotate="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-                                                    <!-- MAIN IMAGE -->
-                                                    
-                                                    <img src="assets/img/slider_4.jpg"  alt="" title="finalhero"  width="1440" height="868" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
-                                                    <!-- LAYERS -->
-                                                    <!-- LAYER NR. 1 -->
-                                                    <div class="tp-caption   tp-resizeme"  id="slide-1-layer-1"  data-x="right" data-hoffset="50" 
-                                                        data-y="center" data-voffset="-198" 
-                                                                                data-width="['auto']"
-                                                        data-height="['auto']"
-
-                                                        data-type="text" 
-                                                        data-responsive_offset="on" 
-
-                                                        data-frames='[{"delay":10,"split":"chars","splitdelay":0.1,"speed":2000,"split_direction":"forward","frame":"0","from":"x:left;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                                                        data-textAlign="['inherit','inherit','inherit','inherit']"
-                                                        data-paddingtop="[0,0,0,0]"
-                                                        data-paddingright="[0,0,0,0]"
-                                                        data-paddingbottom="[0,0,0,0]"
-                                                        data-paddingleft="[0,0,0,0]"
-
-                                                        style="z-index: 5; white-space: nowrap; font-size: 48px; line-height: 48px; font-weight: 400; color: #1b2725; letter-spacing: 0px;font-family:Titillium Web;">
-                                                        Bienvenidos a
-                                                    </div>
-                                                    <!-- LAYER NR. 2 -->
-                                                    <div class="tp-caption   tp-resizeme"  id="slide-1-layer-3" 
-                                                        data-x="right" data-hoffset="42" 
-                                                        data-y="center" data-voffset="-44" 
-                                                                               data-width="['314']"
-                                                       data-height="['76']"
-
-                                                       data-type="text" 
-                                                       data-responsive_offset="on" 
-
-                                                       data-frames='[{"delay":10,"speed":300,"frame":"0","from":"y:bottom;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                                                       data-textAlign="['inherit','inherit','inherit','inherit']"
-                                                       data-paddingtop="[0,0,0,0]"
-                                                       data-paddingright="[0,0,0,0]"
-                                                       data-paddingbottom="[0,0,0,0]"
-                                                       data-paddingleft="[0,0,0,0]"
-
-                                                        style="z-index: 7; min-width: 314px; max-width: 314px; max-width: 76px; max-width: 76px; white-space: normal; font-size: 20px; line-height: 25px; font-weight: 400; color: #4e5453; letter-spacing: 0px;font-family:Quicksand;">
-                                                        Contamos con personal que día a día trabaja y sirve con lealtad, responsabilidad con el firme propósito de dar un servicio de excelencia.
-                                                        </div>
-
-                                                        <!-- LAYER NR. 3 -->
-                                                        <div class="tp-caption rev-btn  tp-resizeme  bg-color-primary border-color-primary bg-hover-color-transparent color-hover-primary box-shadow-default" 
-                                                                 id="slide-1-layer-4" 
-                                                                 data-x="right" data-hoffset="44" 
-                                                                 data-y="center" data-voffset="75" 
-                                                                                        data-width="['auto']"
-                                                                data-height="['auto']"
-
-                                                                data-type="button" 
-                                                                data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"#","delay":""}]'
-                                                                data-responsive_offset="on" 
-
-                                                                data-frames='[{"delay":10,"speed":300,"frame":"0","from":"x:{-250,250};y:{-150,150};rX:{-90,90};rY:{-90,90};rZ:{-360,360};sX:0;sY:0;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0,0,0,1);bg:rgba(255,255,255,1);"}]'
-                                                                data-textAlign="['inherit','inherit','inherit','inherit']"
-                                                                data-paddingtop="[12,12,12,12]"
-                                                                data-paddingright="[35,35,35,35]"
-                                                                data-paddingbottom="[12,12,12,12]"
-                                                                data-paddingleft="[35,35,35,35]"
-
-                                                                style="z-index: 8; white-space: nowrap; font-size: 14px; line-height: 17px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Titillium Web;background-color:rgba(0,0,0,0.75);border-color:rgba(0,0,0,1);border-style:solid;border-width:2px 2px 2px 2px;border-radius:40px 40px 40px 40px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">Contáctanos </div>
-
-                                                        <!-- LAYER NR. 4 -->
-                                                        <div class="tp-caption   tp-resizeme" 
-                                                                 id="slide-1-layer-5" 
-                                                                 data-x="right" data-hoffset="48" 
-                                                                 data-y="center" data-voffset="-139" 
-                                                                                        data-width="['auto']"
-                                                                data-height="['auto']"
-
-                                                                data-type="text" 
-                                                                data-responsive_offset="on" 
-
-                                                                data-frames='[{"delay":10,"split":"chars","splitdelay":0.1,"speed":2000,"split_direction":"forward","frame":"0","from":"x:left;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                                                                data-textAlign="['inherit','inherit','inherit','inherit']"
-                                                                data-paddingtop="[0,0,0,0]"
-                                                                data-paddingright="[0,0,0,0]"
-                                                                data-paddingbottom="[0,0,0,0]"
-                                                                data-paddingleft="[0,0,0,0]"
-
-                                                                style="z-index: 9; white-space: nowrap; font-size: 60px; line-height: 48px; font-weight: 900; color: #1b2725; letter-spacing: 0px;font-family:Titillium Web;">
-                                                            Seguridad TRS - CR 
-                                                        </div>
-                                                    </li>
-                                                    
-                                                    <li data-index="rs-5" data-transition="fade,parallaxtotop,parallaxtoleft,slotslide-horizontal,slotslide-vertical,slideoverright,slideoverleft,slidingoverlayleft,slidingoverlayright,slideright,slideleft,slidehorizontal,scaledownfrombottom,zoomout,scaledownfromleft,turnoff,incube-horizontal,3dcurtain-vertical,3dcurtain-horizontal,curtain-2,curtain-3,random-static,random-premium,random" data-slotamount="default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default" data-easeout="default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default" data-masterspeed="300,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default"  data-rotate="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-                                                    <!-- MAIN IMAGE -->
-                                                    
-                                                    <img src="assets/img/slider_5.jpg"  alt="" title="finalhero"  width="1440" height="868" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
-                                                    <!-- LAYERS -->
-                                                    <!-- LAYER NR. 1 -->
-                                                    <div class="tp-caption   tp-resizeme"  id="slide-1-layer-1"  data-x="right" data-hoffset="50" 
-                                                        data-y="center" data-voffset="-198" 
-                                                                                data-width="['auto']"
-                                                        data-height="['auto']"
-
-                                                        data-type="text" 
-                                                        data-responsive_offset="on" 
-
-                                                        data-frames='[{"delay":10,"split":"chars","splitdelay":0.1,"speed":2000,"split_direction":"forward","frame":"0","from":"x:left;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                                                        data-textAlign="['inherit','inherit','inherit','inherit']"
-                                                        data-paddingtop="[0,0,0,0]"
-                                                        data-paddingright="[0,0,0,0]"
-                                                        data-paddingbottom="[0,0,0,0]"
-                                                        data-paddingleft="[0,0,0,0]"
-
-                                                        style="z-index: 5; white-space: nowrap; font-size: 48px; line-height: 48px; font-weight: 400; color: #1b2725; letter-spacing: 0px;font-family:Titillium Web;">
-                                                        Bienvenidos a
-                                                    </div>
-                                                    <!-- LAYER NR. 2 -->
-                                                    <div class="tp-caption   tp-resizeme"  id="slide-1-layer-3" 
-                                                        data-x="right" data-hoffset="42" 
-                                                        data-y="center" data-voffset="-44" 
-                                                                               data-width="['314']"
-                                                       data-height="['76']"
-
-                                                       data-type="text" 
-                                                       data-responsive_offset="on" 
-
-                                                       data-frames='[{"delay":10,"speed":300,"frame":"0","from":"y:bottom;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                                                       data-textAlign="['inherit','inherit','inherit','inherit']"
-                                                       data-paddingtop="[0,0,0,0]"
-                                                       data-paddingright="[0,0,0,0]"
-                                                       data-paddingbottom="[0,0,0,0]"
-                                                       data-paddingleft="[0,0,0,0]"
-
-                                                        style="z-index: 7; min-width: 314px; max-width: 314px; max-width: 76px; max-width: 76px; white-space: normal; font-size: 20px; line-height: 25px; font-weight: 400; color: #4e5453; letter-spacing: 0px;font-family:Quicksand;">
-                                                        Contamos con personal que día a día trabaja y sirve con lealtad, responsabilidad con el firme propósito de dar un servicio de excelencia.
-                                                        </div>
-
-                                                        <!-- LAYER NR. 3 -->
-                                                        <div class="tp-caption rev-btn  tp-resizeme  bg-color-primary border-color-primary bg-hover-color-transparent color-hover-primary box-shadow-default" 
-                                                                 id="slide-1-layer-4" 
-                                                                 data-x="right" data-hoffset="44" 
-                                                                 data-y="center" data-voffset="75" 
-                                                                                        data-width="['auto']"
-                                                                data-height="['auto']"
-
-                                                                data-type="button" 
-                                                                data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"#","delay":""}]'
-                                                                data-responsive_offset="on" 
-
-                                                                data-frames='[{"delay":10,"speed":300,"frame":"0","from":"x:{-250,250};y:{-150,150};rX:{-90,90};rY:{-90,90};rZ:{-360,360};sX:0;sY:0;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0,0,0,1);bg:rgba(255,255,255,1);"}]'
-                                                                data-textAlign="['inherit','inherit','inherit','inherit']"
-                                                                data-paddingtop="[12,12,12,12]"
-                                                                data-paddingright="[35,35,35,35]"
-                                                                data-paddingbottom="[12,12,12,12]"
-                                                                data-paddingleft="[35,35,35,35]"
-
-                                                                style="z-index: 8; white-space: nowrap; font-size: 14px; line-height: 17px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Titillium Web;background-color:rgba(0,0,0,0.75);border-color:rgba(0,0,0,1);border-style:solid;border-width:2px 2px 2px 2px;border-radius:40px 40px 40px 40px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">Contáctanos </div>
-
-                                                        <!-- LAYER NR. 4 -->
-                                                        <div class="tp-caption   tp-resizeme" 
-                                                                 id="slide-1-layer-5" 
-                                                                 data-x="right" data-hoffset="48" 
-                                                                 data-y="center" data-voffset="-139" 
-                                                                                        data-width="['auto']"
-                                                                data-height="['auto']"
-
-                                                                data-type="text" 
-                                                                data-responsive_offset="on" 
-
-                                                                data-frames='[{"delay":10,"split":"chars","splitdelay":0.1,"speed":2000,"split_direction":"forward","frame":"0","from":"x:left;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                                                                data-textAlign="['inherit','inherit','inherit','inherit']"
-                                                                data-paddingtop="[0,0,0,0]"
-                                                                data-paddingright="[0,0,0,0]"
-                                                                data-paddingbottom="[0,0,0,0]"
-                                                                data-paddingleft="[0,0,0,0]"
-
-                                                                style="z-index: 9; white-space: nowrap; font-size: 60px; line-height: 48px; font-weight: 900; color: #1b2725; letter-spacing: 0px;font-family:Titillium Web;">
-                                                            Seguridad TRS - CR 
-                                                        </div>
-                                                    </li> <!-- FIN DE IMAGEM_5 -->
-                                                    <li data-index="rs-6" data-transition="fade,parallaxtotop,parallaxtoleft,slotslide-horizontal,slotslide-vertical,slideoverright,slideoverleft,slidingoverlayleft,slidingoverlayright,slideright,slideleft,slidehorizontal,scaledownfrombottom,zoomout,scaledownfromleft,turnoff,incube-horizontal,3dcurtain-vertical,3dcurtain-horizontal,curtain-2,curtain-3,random-static,random-premium,random" data-slotamount="default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default" data-easeout="default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default" data-masterspeed="300,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default,default"  data-rotate="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-                                                    <!-- MAIN IMAGE -->
-                                                    
-                                                    <img src="assets/img/slider_6.jpg"  alt="" title="finalhero"  width="1440" height="868" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
-                                                    <!-- LAYERS -->
-                                                    <!-- LAYER NR. 1 -->
-                                                    <div class="tp-caption   tp-resizeme"  id="slide-1-layer-1"  data-x="right" data-hoffset="50" 
-                                                        data-y="center" data-voffset="-198" 
-                                                                                data-width="['auto']"
-                                                        data-height="['auto']"
-
-                                                        data-type="text" 
-                                                        data-responsive_offset="on" 
-
-                                                        data-frames='[{"delay":10,"split":"chars","splitdelay":0.1,"speed":2000,"split_direction":"forward","frame":"0","from":"x:left;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                                                        data-textAlign="['inherit','inherit','inherit','inherit']"
-                                                        data-paddingtop="[0,0,0,0]"
-                                                        data-paddingright="[0,0,0,0]"
-                                                        data-paddingbottom="[0,0,0,0]"
-                                                        data-paddingleft="[0,0,0,0]"
-
-                                                        style="z-index: 5; white-space: nowrap; font-size: 48px; line-height: 48px; font-weight: 400; color: #1b2725; letter-spacing: 0px;font-family:Titillium Web;">
-                                                        Bienvenidos a
-                                                    </div>
-                                                    <!-- LAYER NR. 2 -->
-                                                    <div class="tp-caption   tp-resizeme"  id="slide-1-layer-3" 
-                                                        data-x="right" data-hoffset="42" 
-                                                        data-y="center" data-voffset="-44" 
-                                                                               data-width="['314']"
-                                                       data-height="['76']"
-
-                                                       data-type="text" 
-                                                       data-responsive_offset="on" 
-
-                                                       data-frames='[{"delay":10,"speed":300,"frame":"0","from":"y:bottom;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                                                       data-textAlign="['inherit','inherit','inherit','inherit']"
-                                                       data-paddingtop="[0,0,0,0]"
-                                                       data-paddingright="[0,0,0,0]"
-                                                       data-paddingbottom="[0,0,0,0]"
-                                                       data-paddingleft="[0,0,0,0]"
-
-                                                        style="z-index: 7; min-width: 314px; max-width: 314px; max-width: 76px; max-width: 76px; white-space: normal; font-size: 20px; line-height: 25px; font-weight: 400; color: #4e5453; letter-spacing: 0px;font-family:Quicksand;">
-                                                        Contamos con personal que día a día trabaja y sirve con lealtad, responsabilidad con el firme propósito de dar un servicio de excelencia.
-                                                        </div>
-
-                                                        <!-- LAYER NR. 3 -->
-                                                        <div class="tp-caption rev-btn  tp-resizeme  bg-color-primary border-color-primary bg-hover-color-transparent color-hover-primary box-shadow-default" 
-                                                                 id="slide-1-layer-4" 
-                                                                 data-x="right" data-hoffset="44" 
-                                                                 data-y="center" data-voffset="75" 
-                                                                                        data-width="['auto']"
-                                                                data-height="['auto']"
-
-                                                                data-type="button" 
-                                                                data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"#","delay":""}]'
-                                                                data-responsive_offset="on" 
-
-                                                                data-frames='[{"delay":10,"speed":300,"frame":"0","from":"x:{-250,250};y:{-150,150};rX:{-90,90};rY:{-90,90};rZ:{-360,360};sX:0;sY:0;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0,0,0,1);bg:rgba(255,255,255,1);"}]'
-                                                                data-textAlign="['inherit','inherit','inherit','inherit']"
-                                                                data-paddingtop="[12,12,12,12]"
-                                                                data-paddingright="[35,35,35,35]"
-                                                                data-paddingbottom="[12,12,12,12]"
-                                                                data-paddingleft="[35,35,35,35]"
-
-                                                                style="z-index: 8; white-space: nowrap; font-size: 14px; line-height: 17px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Titillium Web;background-color:rgba(0,0,0,0.75);border-color:rgba(0,0,0,1);border-style:solid;border-width:2px 2px 2px 2px;border-radius:40px 40px 40px 40px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">Contáctanos </div>
-
-                                                        <!-- LAYER NR. 4 -->
-                                                        <div class="tp-caption   tp-resizeme" 
-                                                                 id="slide-1-layer-5" 
-                                                                 data-x="right" data-hoffset="48" 
-                                                                 data-y="center" data-voffset="-139" 
-                                                                                        data-width="['auto']"
-                                                                data-height="['auto']"
-
-                                                                data-type="text" 
-                                                                data-responsive_offset="on" 
-
-                                                                data-frames='[{"delay":10,"split":"chars","splitdelay":0.1,"speed":2000,"split_direction":"forward","frame":"0","from":"x:left;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                                                                data-textAlign="['inherit','inherit','inherit','inherit']"
-                                                                data-paddingtop="[0,0,0,0]"
-                                                                data-paddingright="[0,0,0,0]"
-                                                                data-paddingbottom="[0,0,0,0]"
-                                                                data-paddingleft="[0,0,0,0]"
-
-                                                                style="z-index: 9; white-space: nowrap; font-size: 60px; line-height: 48px; font-weight: 900; color: #1b2725; letter-spacing: 0px;font-family:Titillium Web;">
-                                                            Seguridad TRS - CR 
-                                                        </div>
-                                                    </li>
-                                                    
-                                                    
-                                                </ul>
-                                            <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	
-                                        </div>
-                                        
-                                        <script type='text/javascript' src='assets/js/rev-slider.js'></script>
-                                 
-                                        </div>
-                                        <!-- END REVOLUTION SLIDER -->
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                        
+                        <?php require_once 'assets/slider.php'; ?>
                         
                         <!-- Nosotros -->
                         <div class="vc_row-full-width vc_clearfix"></div>
                         <div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid primary-color-trs section-counter vc_custom_1499223489092">
+                            
                             <div class="wpb_column vc_column_container vc_col-sm-12">
                                 <div class="vc_column-inner ">
                                     <div class="wpb_wrapper">
@@ -736,23 +193,232 @@
                             </div>    
                         </div>
                         <div class="vc_row-full-width vc_clearfix"></div>
-                        <br>
-                        <h1 class="aio-icon-title ult-responsive" data-responsive-json-new='{"font-size":"desktop:25px;","line-height":""}' style="font-family:#039;Titillium Web&#039;;font-weight:700;color:#1b2725;position: fixed;">
-                            Sobre nosotros
-                        </h1>
-                                                                                        
-                        <!--END BEGIN HEADER -->
+                              
+                        <!-- Servicios -->
+                        <div class="vc_row-full-width vc_clearfix" id="servicios"></div>
+                        <div class="vc_row wpb_row vc_row-fluid vc_custom_1501640405821">
+                            <div id="ultimate-heading-42235c3a73dc00389" class="qtc-heading uvc-heading ult-adjust-bottom-margin ultimate-heading-42235c3a73dc00389 uvc-1578 " data-hspacer="no_spacer"  data-halign="left" style="text-align:left">
+                            <h2 style="font-family:'Titillium Web';font-weight:500;color:#1b2725;margin-bottom:1px;">Somos expertos en</h2><br>
+                            </div>
+                            <div class="wpb_column vc_column_container vc_col-sm-4">
+                                <div class="vc_column-inner ">
+                                    <div class="wpb_wrapper">
+                                        <div id="ultimate-heading-42235c3a73dc00389" class="qtc-heading uvc-heading ult-adjust-bottom-margin ultimate-heading-42235c3a73dc00389 uvc-1578 " data-hspacer="no_spacer"  data-halign="left" style="text-align:left">
+                                            <div class="uvc-heading-spacer no_spacer" style="top"></div>
+                                            <div class="brick-sub-title">
+                                                <p style="font-family:'Quicksand';font-style:italic;font-weight:normal;font-style:normal;color:#656b6f;font-size:16px;line-height:18px;">
+                                                    Nuestros Servicios
+                                                </p>
+                                            </div>
+                                            <div class="uvc-main-heading ult-responsive"  data-ultimate-target='.uvc-heading.ultimate-heading-42235c3a73dc00389 h2'  data-responsive-json-new='{"font-size":"desktop:30px;","line-height":"desktop:32px;"}' ><h2 style="font-family:'Titillium Web';font-weight:600;color:#0d9af4;margin-top:5PX;margin-bottom:15PX;">
+                                                    LA INTEGRIDAD ES NUESTRA PRIORIDAD
+                                                </h2>
+                                            </div>
+                                            <div class="uvc-sub-heading ult-responsive"  data-ultimate-target='.uvc-heading.ultimate-heading-42235c3a73dc00389 .uvc-sub-heading '  data-responsive-json-new='{"font-size":"desktop:14px;","line-height":"desktop:21px;"}'  style="font-family:'Quicksand';font-weight:normal;color:#656b6f;">
+                                                Trabajamos bajo procesos que permitan unificar la información con el fin de dar pronta 
+                                                solución a cualquier requerimiento de nuestros clientes, nuestra organización labora 
+                                                cumpliendo los requerimientos que establecen los entes reguladores del oficio de 
+                                                vigilancia y seguridad privada, los cuales nos categorizan como una empresa que desarrolla
+                                                sus actividades bajo la legalidad y trasparencia, es por eso que cualquier acto de corrupción 
+                                                no cabe dentro de nuestro desarrollo empresarial.
+                                            </div>     
+                                        </div>      
+                                    </div>      
+                                </div>   
+                            </div>
+                            
+                            
+                            <div class="wpb_column vc_column_container vc_col-sm-8">
+                                <div class="vc_column-inner ">
+                                    <div class="wpb_wrapper">
+                                        <div class="vc_row wpb_row vc_inner vc_row-fluid">
+                                            <div class="wpb_column vc_column_container vc_col-sm-6">
+                                                <div class="vc_column-inner ">
+                                                    <div class="wpb_wrapper">
+                                                        <div class="flip-box-wrap" style="">
+                                                            <div class="flip-box ifb-jq-height  horizontal_flip_left flip-ifb-jq-height"  style="" >
+                                                                <div class="ifb-flip-box" id="flip-box-wrap-2744">
+                                                                    <div class="ifb-face ifb-front " style="color:#333743;background:#ffffff; border-width: 1px;border-style: solid; border-color:#bdbdbd;">
+                                                                        <div class="ifb-flip-box-section ifb-flip-box-section-vertical-middle">
+                                                                            <div class="flip-box-icon">
+                                                                                <div class="ult-just-icon-wrapper  ">
+                                                                                    <div class="align-icon" style="text-align:center;">
+                                                                                        <div class="aio-icon-img " style="font-size:48px;display:inline-block;" >
+                                                                                            <img class="img-icon" alt="Seguridad Física " src="assets/img/service-1.jpg"/>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <h3 class="ult-responsive"  data-ultimate-target='#flip-box-wrap-2744 h3.ult-responsive'  data-responsive-json-new='{"font-size":"desktop:18px;","line-height":"desktop:20px;"}'  style="color:#333743; font-family:#039;Roboto&#039;;font-weight:500;">
+                                                                                Seguridad Física
+                                                                            </h3>
+                                                                        </div>
+                                                                    </div>
+                                                                    <!-- END .front -->
+                                                                    <div class="ifb-face ifb-back" style="color:#333743;background:#ffffff; border-width: 1px;border-style: solid; border-color:#bdbdbd;">
+                                                                        <div class="ifb-flip-box-section ifb-flip-box-section-vertical-middle">
+                                                                            <div class="ifb-flip-box-section-content ult-responsive"  data-ultimate-target='#flip-box-wrap-2744 .ult-responsive'  data-responsive-json-new='{"font-size":"desktop:14px;","line-height":"desktop:24px;"}'  style="font-family:#039;Quicksand&#039;;font-style:italic;font-weight:normal;font-style:normal;color:#333333;color:#333743;">
+                                                                                <p>Para conocer la lista completa de servicios, ¡<a href="contacto/">contáctanos</a>!</p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div><!-- END .back -->
+                                                                </div><!-- ifb-flip-box -->
+                                                            </div><!-- flip-box -->
+                                                        </div><!-- End icon block -->
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            
+                                            <!-- Servicios_2 -->
+                                            <div class="wpb_column vc_column_container vc_col-sm-6">
+                                                <div class="vc_column-inner ">
+                                                    <div class="wpb_wrapper">
+                                                        <div class="flip-box-wrap" style="">
+                                                            <div class="flip-box ifb-jq-height  horizontal_flip_left flip-ifb-jq-height"  style="" >
+                                                                <div class="ifb-flip-box" id="flip-box-wrap-9753">
+                                                                    <div class="ifb-face ifb-front " style="color:#333743;background:#ffffff; border-width: 1px;border-style: solid; border-color:#bdbdbd;">
+                                                                        <div class="ifb-flip-box-section ifb-flip-box-section-vertical-middle">
+                                                                            <div class="flip-box-icon">
+                                                                                <div class="ult-just-icon-wrapper  ">
+                                                                                    <div class="align-icon" style="text-align:center;">
+                                                                                        <div class="aio-icon-img " style="font-size:48px;display:inline-block;" >
+                                                                                            <img class="img-icon" alt="null" src="assets/img/service-2.jpg"/>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <h3 class="ult-responsive"  data-ultimate-target='#flip-box-wrap-9753 h3.ult-responsive'  data-responsive-json-new='{"font-size":"desktop:18px;","line-height":"desktop:20px;"}'  style="color:#333743; font-family:#039;Roboto&#039;;font-weight:500;">
+                                                                                Seguridad Eléctronica
+                                                                            </h3>
+                                                                        </div>
+                                                                    </div><!-- END .front -->
+                                                                    
+                                                                    <div class="ifb-face ifb-back" style="color:#333743;background:#ffffff; border-width: 1px;border-style: solid; border-color:#bdbdbd;">
+                                                                        <div class="ifb-flip-box-section ifb-flip-box-section-vertical-middle">
+                                                                            <div class="ifb-flip-box-section-content ult-responsive"  data-ultimate-target='#flip-box-wrap-9753 .ult-responsive'  data-responsive-json-new='{"font-size":"desktop:14px;","line-height":"desktop:24px;"}'  style="font-family:#039;Quicksand&#039;;font-style:italic;font-weight:normal;font-style:normal;color:#333333;color:#333743;">
+                                                                                <p>Para conocer la lista completa de servicios, ¡<a href="contacto/">contáctanos</a>!</p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div><!-- END .back -->
+                                                                    
+                                                                </div> <!-- ifb-flip-box -->
+                                                            </div> <!-- flip-box -->
+                                                        </div><!-- End icon block -->
+                                                    </div>
+                                                </div>
+                                            </div>
+ 
+                                        </div>
+                                        <div class="vc_row wpb_row vc_inner vc_row-fluid">
+                                            <div class="wpb_column vc_column_container vc_col-sm-6">
+                                                <div class="vc_column-inner ">
+                                                    <div class="wpb_wrapper">
+                                                        <div class="flip-box-wrap" style="">
+                                                            <div class="flip-box ifb-jq-height  horizontal_flip_left flip-ifb-jq-height"  style="" >
+                                                                <div class="ifb-flip-box" id="flip-box-wrap-1771">
+                                                                    <div class="ifb-face ifb-front " style="color:#333743;background:#ffffff; border-width: 1px;border-style: solid; border-color:#bdbdbd;">
+                                                                        <div class="ifb-flip-box-section ifb-flip-box-section-vertical-middle">
+                                                                            <div class="flip-box-icon">
+                                                                                <div class="ult-just-icon-wrapper  ">
+                                                                                    <div class="align-icon" style="text-align:center;">
+                                                                                        <div class="aio-icon-img " style="font-size:48px;display:inline-block;" >
+                                                                                            <img class="img-icon" alt="null" src="site-data/i1.wp.com/www.skycamintl.com/wp-content/uploads/2017/08/cameraicon5e2a.png?fit=79%2C68&amp;ssl=1"/>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <h3 class="ult-responsive"  data-ultimate-target='#flip-box-wrap-1771 h3.ult-responsive'  data-responsive-json-new='{"font-size":"desktop:18px;","line-height":"desktop:20px;"}'  style="color:#333743; font-family:#039;Roboto&#039;;font-weight:500;">
+                                                                                Circuito Cerrado de Televisión
+                                                                            </h3>
+                                                                        </div>
+                                                                    </div><!-- END .front -->
+                                                                    <div class="ifb-face ifb-back" style="color:#333743;background:#ffffff; border-width: 1px;border-style: solid; border-color:#bdbdbd;">
+                                                                        <div class="ifb-flip-box-section ifb-flip-box-section-vertical-middle"><div class="ifb-flip-box-section-content ult-responsive"  data-ultimate-target='#flip-box-wrap-1771 .ult-responsive'  data-responsive-json-new='{"font-size":"desktop:14px;","line-height":"desktop:24px;"}'  style="font-family:&#039;Quicksand&#039;;font-style:italic;font-weight:normal;font-style:normal;color:#333333;color:#333743;">
+                                                                                <p>Para conocer la lista completa de servicios, ¡<a href="contacto/">contáctanos</a>!</p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div><!-- END .back -->
+                                                                </div> <!-- ifb-flip-box -->
+                                                            </div> <!-- flip-box -->
+                                                        </div><!-- End icon block -->
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="wpb_column vc_column_container vc_col-sm-6">
+                                                <div class="vc_column-inner ">
+                                                    <div class="wpb_wrapper">
+                                                        <div class="flip-box-wrap" style="">
+                                                            <div class="flip-box ifb-jq-height  horizontal_flip_left flip-ifb-jq-height"  style="" >
+                                                                <div class="ifb-flip-box" id="flip-box-wrap-3816">
+                                                                    <div class="ifb-face ifb-front " style="color:#333743;background:#ffffff; border-width: 1px;border-style: solid; border-color:#bdbdbd;">
+                                                                        <div class="ifb-flip-box-section ifb-flip-box-section-vertical-middle">
+                                                                            <div class="flip-box-icon">
+                                                                                <div class="ult-just-icon-wrapper  ">
+                                                                                    <div class="align-icon" style="text-align:center;">
+                                                                                        <div class="aio-icon-img " style="font-size:48px;display:inline-block;" >
+                                                                                            <img class="img-icon" alt="null" src="site-data/i0.wp.com/www.skycamintl.com/wp-content/uploads/2017/08/networkicon5e2a.png?fit=79%2C68&amp;ssl=1"/>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <h3 class="ult-responsive"  data-ultimate-target='#flip-box-wrap-3816 h3.ult-responsive'  data-responsive-json-new='{"font-size":"desktop:18px;","line-height":"desktop:20px;"}'  style="color:#333743; font-family:#039;Roboto&#039;;font-weight:500;">
+                                                                                Soluciones de Conectividad
+                                                                            </h3>
+                                                                        </div>
+                                                                    </div><!-- END .front -->
+                                                                    <div class="ifb-face ifb-back" style="color:#333743;background:#ffffff; border-width: 1px;border-style: solid; border-color:#bdbdbd;">
+                                                                        <div class="ifb-flip-box-section ifb-flip-box-section-vertical-middle">
+                                                                            <div class="ifb-flip-box-section-content ult-responsive"  data-ultimate-target='#flip-box-wrap-3816 .ult-responsive'  data-responsive-json-new='{"font-size":"desktop:14px;","line-height":"desktop:24px;"}'  style="font-family:&#039;Quicksand&#039;;font-style:italic;font-weight:normal;font-style:normal;color:#333333;color:#333743;">
+                                                                                <p>Para conocer la lista completa de servicios, ¡<a href="contacto/">contáctanos</a>!</p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div><!-- END .back -->
+                                                                </div> <!-- ifb-flip-box -->
+                                                            </div> <!-- flip-box -->
+                                                        </div><!-- End icon block -->
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div id="empresa"></div>
+                        <br><br><br>
+                        
+                        <!-- Nosotros -->
+                        <div class="vc_row wpb_row vc_inner vc_row-fluid" >
+                            <div class="wpb_column vc_column_container vc_col-sm-12">
+                                <div class="vc_column-inner ">
+                                    <div class="wpb_wrapper">
+                                        <div id="ultimate-heading-74405c3a73ff661b4" class="qtc-heading uvc-heading ult-adjust-bottom-margin ultimate-heading-74405c3a73ff661b4 uvc-3602 " data-hspacer="no_spacer"  data-halign="center" style="text-align:center">
+                                            <div class="uvc-heading-spacer no_spacer" style="top"></div>
+                                            <div class="uvc-main-heading ult-responsive"  data-ultimate-target='.uvc-heading.ultimate-heading-74405c3a73ff661b4 h2'  data-responsive-json-new='{"font-size":"desktop:44px;","line-height":"desktop:45px;"}' >
+                                                <h2 style="font-family:'Titillium Web';font-weight:900;color:#1b2725;margin-bottom:20px;">Sobre Nosotros</h2>
+                                            </div>
+                                        </div>                   
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                                                                              
+
                         <div class="page-title-bar br_title_bar">
                             <div class="uk-container uk-container-center">
                                 <div class="box uk-clearfix">
-                                    <h1 class="br-title">SERVIMOS Y PROTEGEMOS</h1>
+                                    
                                     <div class="br-breadcrumb">
                                         <div id="br-crumbs">
-                                            <span typeof="v:Breadcrumb"><a rel="v:url" property="v:title" >
-                                            SEGURIDAD TRS S.A., es una organización de seguridad privada comprometida con el bienestar, tranquilidad y protección de todos nuestros usuarios. </a></span></div></div>
+                                            <span typeof="v:Breadcrumb"><a rel="v:url" property="v:title" ></a></span>
+                                            
                                         </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
+                        
                         <div class="uk-container uk-container-center">
                             <div class="uk-grid ">
                                 <div id="main-content" class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1 uk-width-1-1 brick-content page-content ">
@@ -768,6 +434,7 @@
                                                                     <div class="uvc-heading-spacer no_spacer" style="top"></div>
                                                                     <div class="uvc-main-heading ult-responsive"  data-ultimate-target='.uvc-heading.ultimate-heading-74405c3a73ff661b4 h2'  data-responsive-json-new='{"font-size":"desktop:44px;","line-height":"desktop:45px;"}' >
                                                                         <h2 style="font-family:'Titillium Web';font-weight:900;color:#1b2725;margin-bottom:20px;">Nuestra misión</h2>
+                                                                        
                                                                     </div>
                                                                 </div>
                                                                 <div class="wpb_text_column wpb_content_element " >
@@ -908,145 +575,7 @@
                             </div>
                         </div>  
                         
-                        <!-- Servicios -->
-                        <div class="vc_row-full-width vc_clearfix" id="#servicios"></div>
-                        <div class="vc_row wpb_row vc_row-fluid vc_custom_1501640405821">
-                            <div class="wpb_column vc_column_container vc_col-sm-4">
-                                <div class="vc_column-inner ">
-                                    <div class="wpb_wrapper">
-                                        <div id="ultimate-heading-42235c3a73dc00389" class="qtc-heading uvc-heading ult-adjust-bottom-margin ultimate-heading-42235c3a73dc00389 uvc-1578 " data-hspacer="no_spacer"  data-halign="left" style="text-align:left">
-                                            <div class="uvc-heading-spacer no_spacer" style="top"></div>
-                                            <div class="brick-sub-title">
-                                                <p style="font-family:'Quicksand';font-style:italic;font-weight:normal;font-style:normal;color:#656b6f;font-size:16px;line-height:18px;">
-                                                    Nuestros Servicios
-                                                </p>
-                                            </div>
-                                            <div class="uvc-main-heading ult-responsive"  data-ultimate-target='.uvc-heading.ultimate-heading-42235c3a73dc00389 h2'  data-responsive-json-new='{"font-size":"desktop:30px;","line-height":"desktop:32px;"}' ><h2 style="font-family:'Titillium Web';font-weight:600;color:#0d9af4;margin-top:5PX;margin-bottom:15PX;">
-                                                    LA INTEGRIDAD ES NUESTRA PRIORIDAD
-                                                </h2>
-                                            </div>
-                                            <div class="uvc-sub-heading ult-responsive"  data-ultimate-target='.uvc-heading.ultimate-heading-42235c3a73dc00389 .uvc-sub-heading '  data-responsive-json-new='{"font-size":"desktop:14px;","line-height":"desktop:21px;"}'  style="font-family:'Quicksand';font-weight:normal;color:#656b6f;">
-                                                Trabajamos bajo procesos que permitan unificar la información con el fin de dar pronta 
-                                                solución a cualquier requerimiento de nuestros clientes, nuestra organización labora 
-                                                cumpliendo los requerimientos que establecen los entes reguladores del oficio de 
-                                                vigilancia y seguridad privada, los cuales nos categorizan como una empresa que desarrolla
-                                                sus actividades bajo la legalidad y trasparencia, es por eso que cualquier acto de corrupción 
-                                                no cabe dentro de nuestro desarrollo empresarial.
-                                            </div>     
-                                        </div>      
-                                    </div>      
-                                </div>   
-                            </div>
-                            
-                            
-                            <div class="wpb_column vc_column_container vc_col-sm-8">
-                                <div class="vc_column-inner ">
-                                    <div class="wpb_wrapper">
-                                        <div class="vc_row wpb_row vc_inner vc_row-fluid">
-                                            <div class="wpb_column vc_column_container vc_col-sm-6">
-                                                <div class="vc_column-inner ">
-                                                    <div class="wpb_wrapper">
-                                                        <div class="flip-box-wrap" style="">
-                                                            <div class="flip-box ifb-jq-height  horizontal_flip_left flip-ifb-jq-height"  style="" >
-                                                                <div class="ifb-flip-box" id="flip-box-wrap-2744">
-                                                                    <div class="ifb-face ifb-front " style="color:#333743;background:#ffffff; border-width: 1px;border-style: solid; border-color:#bdbdbd;">
-                                                                        <div class="ifb-flip-box-section ifb-flip-box-section-vertical-middle">
-                                                                            <div class="flip-box-icon">
-                                                                                <div class="ult-just-icon-wrapper  ">
-                                                                                    <div class="align-icon" style="text-align:center;">
-                                                                                        <div class="aio-icon-img " style="font-size:48px;display:inline-block;" >
-                                                                                            <img class="img-icon" alt="null" src="site-data/i2.wp.com/www.skycamintl.com/wp-content/uploads/2017/08/computericon5e2a.png?fit=79%2C68&amp;ssl=1"/>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <h3 class="ult-responsive"  data-ultimate-target='#flip-box-wrap-2744 h3.ult-responsive'  data-responsive-json-new='{"font-size":"desktop:18px;","line-height":"desktop:20px;"}'  style="color:#333743; font-family:#039;Roboto&#039;;font-weight:500;">
-                                                                                Seguridad Física
-                                                                            </h3>
-                                                                        </div>
-                                                                    </div>
-                                                                    <!-- END .front -->
-                                                                    <div class="ifb-face ifb-back" style="color:#333743;background:#ffffff; border-width: 1px;border-style: solid; border-color:#bdbdbd;">
-                                                                        <div class="ifb-flip-box-section ifb-flip-box-section-vertical-middle">
-                                                                            <div class="ifb-flip-box-section-content ult-responsive"  data-ultimate-target='#flip-box-wrap-2744 .ult-responsive'  data-responsive-json-new='{"font-size":"desktop:14px;","line-height":"desktop:24px;"}'  style="font-family:#039;Quicksand&#039;;font-style:italic;font-weight:normal;font-style:normal;color:#333333;color:#333743;">
-                                                                                <p>Para conocer la lista completa de servicios, escríbenos a luis@seguridadtrscr.net.in</p>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div><!-- END .back -->
-                                                                </div><!-- ifb-flip-box -->
-                                                            </div><!-- flip-box -->
-                                                        </div><!-- End icon block -->
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="wpb_column vc_column_container vc_col-sm-6">
-                                                <div class="vc_column-inner ">
-                                                    <div class="wpb_wrapper">
-                                                        <div class="flip-box-wrap" style="">
-                                                            <div class="flip-box ifb-jq-height  horizontal_flip_left flip-ifb-jq-height"  style="" >
-                                                                <div class="ifb-flip-box" id="flip-box-wrap-9753">
-                                                                    <div class="ifb-face ifb-front " style="color:#333743;background:#ffffff; border-width: 1px;border-style: solid; border-color:#bdbdbd;">
-                                                                        <div class="ifb-flip-box-section ifb-flip-box-section-vertical-middle">
-                                                                            <div class="flip-box-icon">
-                                                                                <div class="ult-just-icon-wrapper  ">
-                                                                                    <div class="align-icon" style="text-align:center;">
-                                                                                        <div class="aio-icon-img " style="font-size:48px;display:inline-block;" >
-                                                                                            <img class="img-icon" alt="null" src="site-data/i2.wp.com/www.skycamintl.com/wp-content/uploads/2017/08/serericon5e2a.png?fit=79%2C68&amp;ssl=1"/>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <h3 class="ult-responsive"  data-ultimate-target='#flip-box-wrap-9753 h3.ult-responsive'  data-responsive-json-new='{"font-size":"desktop:18px;","line-height":"desktop:20px;"}'  style="color:#333743; font-family:#039;Roboto&#039;;font-weight:500;">
-                                                                                Seguridad Eléctronica
-                                                                            </h3>
-                                                                        </div>
-                                                                    </div><!-- END .front -->
-                                                                    <div class="ifb-face ifb-back" style="color:#333743;background:#ffffff; border-width: 1px;border-style: solid; border-color:#bdbdbd;">
-                                                                        <div class="ifb-flip-box-section ifb-flip-box-section-vertical-middle">
-                                                                            <div class="ifb-flip-box-section-content ult-responsive"  data-ultimate-target='#flip-box-wrap-9753 .ult-responsive'  data-responsive-json-new='{"font-size":"desktop:14px;","line-height":"desktop:24px;"}'  style="font-family:#039;Quicksand&#039;;font-style:italic;font-weight:normal;font-style:normal;color:#333333;color:#333743;">
-                                                                                <p>Para conocer la lista completa de servicios, escríbenos a luis@seguridadtrscr.net.in</p>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div><!-- END .back -->
-                                                                </div> <!-- ifb-flip-box -->
-                                                            </div> <!-- flip-box -->
-                                                        </div><!-- End icon block -->
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!--<div class="vc_row wpb_row vc_inner vc_row-fluid">
-                                            <div class="wpb_column vc_column_container vc_col-sm-6">
-                                                <div class="vc_column-inner ">
-                                                    <div class="wpb_wrapper">
-                                                        <div class="flip-box-wrap" style="">
-                                                            <div class="flip-box ifb-jq-height  horizontal_flip_left flip-ifb-jq-height"  style="" >
-                                                                <div class="ifb-flip-box" id="flip-box-wrap-1771">
-                                                                    <div class="ifb-face ifb-front " style="color:#333743;background:#ffffff; border-width: 1px;border-style: solid; border-color:#bdbdbd;">
-                                                                        <div class="ifb-flip-box-section ifb-flip-box-section-vertical-middle">
-                                                                            <div class="flip-box-icon">
-                                                                                <div class="ult-just-icon-wrapper  ">
-                                                                                    <div class="align-icon" style="text-align:center;">
-                                                                                        <div class="aio-icon-img " style="font-size:48px;display:inline-block;" >
-                                                                                            <img class="img-icon" alt="null" src="site-data/i1.wp.com/www.skycamintl.com/wp-content/uploads/2017/08/cameraicon5e2a.png?fit=79%2C68&amp;ssl=1"/>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <h3 class="ult-responsive"  data-ultimate-target='#flip-box-wrap-1771 h3.ult-responsive'  data-responsive-json-new='{"font-size":"desktop:18px;","line-height":"desktop:20px;"}'  style="color:#333743; font-family:#039;Roboto&#039;;font-weight:500;">Camera Solutions</h3></div></div><!-- END .front --
-						<div class="ifb-face ifb-back" style="color:#333743;background:#ffffff; border-width: 1px;border-style: solid; border-color:#bdbdbd;">
-							<div class="ifb-flip-box-section ifb-flip-box-section-vertical-middle"><div class="ifb-flip-box-section-content ult-responsive"  data-ultimate-target='#flip-box-wrap-1771 .ult-responsive'  data-responsive-json-new='{"font-size":"desktop:14px;","line-height":"desktop:24px;"}'  style="font-family:&#039;Quicksand&#039;;font-style:italic;font-weight:normal;font-style:normal;color:#333333;color:#333743;"><p>For a list of Products we carry please contact sales@skycamintl.com</p></div></div></div><!-- END .back --</div> <!-- ifb-flip-box --</div> <!-- flip-box --</div><!-- End icon block --</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="flip-box-wrap" style=""><div class="flip-box ifb-jq-height  horizontal_flip_left flip-ifb-jq-height"  style="" ><div class="ifb-flip-box" id="flip-box-wrap-3816"><div class="ifb-face ifb-front " style="color:#333743;background:#ffffff; border-width: 1px;border-style: solid; border-color:#bdbdbd;">
-							<div class="ifb-flip-box-section ifb-flip-box-section-vertical-middle">
-							<div class="flip-box-icon"><div class="ult-just-icon-wrapper  "><div class="align-icon" style="text-align:center;">
-<div class="aio-icon-img " style="font-size:48px;display:inline-block;" >
-    <img class="img-icon" alt="null" src="site-data/i0.wp.com/www.skycamintl.com/wp-content/uploads/2017/08/networkicon5e2a.png?fit=79%2C68&amp;ssl=1"/>
-</div></div></div></div><h3 class="ult-responsive"  data-ultimate-target='#flip-box-wrap-3816 h3.ult-responsive'  data-responsive-json-new='{"font-size":"desktop:18px;","line-height":"desktop:20px;"}'  style="color:#333743; font-family:#039;Roboto&#039;;font-weight:500;">Networking Solutions</h3></div></div><!-- END .front --
-						<div class="ifb-face ifb-back" style="color:#333743;background:#ffffff; border-width: 1px;border-style: solid; border-color:#bdbdbd;">
-							<div class="ifb-flip-box-section ifb-flip-box-section-vertical-middle"><div class="ifb-flip-box-section-content ult-responsive"  data-ultimate-target='#flip-box-wrap-3816 .ult-responsive'  data-responsive-json-new='{"font-size":"desktop:14px;","line-height":"desktop:24px;"}'  style="font-family:&#039;Quicksand&#039;;font-style:italic;font-weight:normal;font-style:normal;color:#333333;color:#333743;"><p>For a list of Products we carry please contact sales@skycamintl.com</p></div></div></div><!-- END .back --</div> <!-- ifb-flip-box --</div> <!-- flip-box --</div><!-- End icon block -->
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                        
                     </div>
                 </div>
             </div>

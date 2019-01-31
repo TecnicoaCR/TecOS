@@ -533,118 +533,14 @@
     
     </head>
     <body class="page-template-default page page-id-76 woocommerce-no-js brick-body brick-sticky wpb-js-composer js-comp-ver-5.2 vc_responsive" > 
-                    <div class="br_page_loader style-2">
-                <div class="page_loader_inner">
-                    <div class="br_spinner"></div>
-                </div>
-            </div>
-                    <div id="wrapper">
+        
+        <div id="wrapper">
+                        
             <!-- BEGIN HEADER -->
             <header class="header-v1" data-uk-sticky="{top: -500, animation: 'uk-animation-slide-top'}">
-                <div id="justify_mega" class="header">
-                    
-                    <div class="uk-container uk-container-center">
-                        <nav class="menu-primary uk-clearfix">
-                            <ul class="uk-navbar-nav uk-flex uk-flex-center main-menu">
-                                <li id="menu-item-1400" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1400" data-depth="0">
-                                    <a><span class="menu-title">
-                                        <span class="title-menu">
-                                            <img src="../assets/img/logos/logo.png" alt="Seguridad TRS - CR"  style="max-height: 58px; margin:0px; padding:0px;" class="normal-logo logo-main"/>
-                                        </span></span>
-                                    </a>
-                                </li>
-                                <li id="menu-item-1383" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-645 current_page_item menu-item-1383" data-depth="0">
-                                    <a href="../"><span class="menu-title"><span class="title-menu">Inicio</span></span></a>
-                                </li>
-                                <li id="menu-item-1431" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1431" data-depth="0">
-                                    <a href="#nosotros"><span class="menu-title"><span class="title-menu"> Sobre Nosotros</span></span></a>
-                                    <ul class='standar-dropdown standard autodrop_submenu sub-menu dropdown-menu' style="">
-                                        <li id="menu-item-1430" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1430" data-depth="1">
-                                            <a href="../#mision"><span class="menu-title"><span class="title-menu">Nuestra Misión</span></span></a>
-                                        </li>
-                                        <li id="menu-item-1365" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1365" data-depth="1">
-                                            <a href="../#historia"><span class="menu-title"><span class="title-menu"></span>Historia</span></a>
-                                        </li>
-                                        <li id="menu-item-1369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1369" data-depth="1">
-                                            <a href="../#diferencia"><span class="menu-title"><span class="title-menu">Qué nos diferencia</span></span></a>
-                                        </li>
-                                        <li id="menu-item-1369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1369" data-depth="1">
-                                            <a href="../#loquehacemos"><span class="menu-title"><span class="title-menu">Lo que hacemos</span></span></a>
-                                        </li>
-                                        <li id="menu-item-1369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1369" data-depth="1">
-                                            <a href="../#objetivo"><span class="menu-title"><span class="title-menu">Nuestro Objetivo</span></span></a>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li id="menu-item-1370" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1370" data-depth="0">
-                                    <a href="#servicios"><span class="menu-title"><span class="title-menu">Nuestros Servicios</span></span></a>
-                                    <ul class='standar-dropdown standard autodrop_submenu sub-menu dropdown-menu' style="">
-                                        <li id="menu-item-1371" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1371" data-depth="1">
-                                            <a href="../servicios/"><span class="menu-title"><span class="title-menu">Seguridad Física</span></span></a>
-                                        </li>
-                                        <li id="menu-item-1371" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1371" data-depth="1">
-                                            <a href="../servicios/"><span class="menu-title"><span class="title-menu">Seguridad Eléctronica</span></span></a>
-                                        </li>
-                                    </ul>
-                                </li>
-                               
-                                <li id="menu-item-1400" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1400" data-depth="0">
-                                    <a href="../contacto/"><span class="menu-title"><span class="title-menu">Contáctenos</span></span></a>
-                                </li> 
-                            </ul>
-                        </nav>
-                        <div class="mobile-logo">
-                            <a class="br-logo" href="index.php">
-                                <img src="../assets/img/logos/logo.png" alt="Seguridad TRS S.A" style="max-height: 50px; margin:0px; padding:0px;" class="normal-logo logo-main"/>
-                            </a>
-                        </div>
-                        <div class="search search-cart-wrap">                           
-                            <div class="search-wrap"></div>
-                            <div class="toggle-icon">
-                                <div id="menu_primary_toggle" class="btn-toggle-menu"><span></span></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="mobile-menu">
-                    <nav class="nav-holder">
-                        <ul>
-                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-645 current_page_item menu-item-1383" data-depth="0">
-                                <a href="../"><span class="menu-title"><span class="title-menu">Inicio</span></span></a>
-                            </li>
-                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1431" data-depth="0">
-                                <a href="../#nosotros"><span class="menu-title"><span class="title-menu">Sobre Nosotros</span></span></a>
-                                <ul class='standar-dropdown standard autodrop_submenu sub-menu dropdown-menu' style="">
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1430" data-depth="1">
-                                        <a href="../#historia"><span class="menu-title"><span class="title-menu">Historia</span></span></a>
-                                    </li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1365" data-depth="1">
-                                        <a href="../"><span class="menu-title"><span class="title-menu">Clientes</span></span></a>
-                                    </li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1369" data-depth="1">
-                                        <a href="../"><span class="menu-title"><span class="title-menu">Empleo</span></span></a>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1370" data-depth="0">
-                                <a href="../#servicios"><span class="menu-title"><span class="title-menu">Nuestros Servicios</span></span></a>
-                                <ul class='standar-dropdown standard autodrop_submenu sub-menu dropdown-menu' style="">
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1371" data-depth="1">
-                                        <a href="../servicios/"><span class="menu-title"><span class="title-menu">Seguridad Física</span></span></a>
-                                    </li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1371" data-depth="1">
-                                        <a href="../servicios/"><span class="menu-title"><span class="title-menu">Seguridad Eléctronica</span></span></a>
-                                    </li>
-                                </ul>
-                            </li>
-           
-                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1400" data-depth="0">
-                                <a href="../contacto/"><span class="menu-title"><span class="title-menu">Contáctenos</span></span></a>
-                            </li>
-                        </ul>
-                    </nav>
-                </div>
+                <?php require_once '../assets/nav_1.php'; ?>
             </header>            <!--END BEGIN HEADER -->
+            
             <div class="page-title-bar br_title_bar">
                 <div class="uk-container uk-container-center">
                     <div class="box uk-clearfix">
