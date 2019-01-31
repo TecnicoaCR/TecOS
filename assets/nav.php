@@ -17,7 +17,7 @@
                                     <a><span class="menu-title"><span class="title-menu"> Sobre Nosotros</span></span></a>
                                     <ul class='standar-dropdown standard autodrop_submenu sub-menu dropdown-menu' style="">
                                         <li id="menu-item-1430" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1430" data-depth="1">
-                                            <a href="nosotros/#historia"><span class="menu-title"><span class="title-menu">História</span></span></a>
+                                            <a href="#historia"><span class="menu-title"><span class="title-menu">História</span></span></a>
                                         </li>
                                         <li id="menu-item-1365" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1365" data-depth="1">
                                             <a href="nosotros/#mision"><span class="menu-title"><span class="title-menu"></span>Misión</span></a>

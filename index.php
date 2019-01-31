@@ -106,6 +106,17 @@
         
     </head>
     <body class="home page-template-default page page-id-645 woocommerce-no-js brick-body brick-sticky wpb-js-composer js-comp-ver-5.2 vc_responsive" > 
+        <div id="fb-root"></div>
+        <script>
+            (function(d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) return;
+                js = d.createElement(s); js.id = id;
+                js.src = 'https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v3.2';
+                fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));            
+        </script>
+        
         <div id="wrapper">
             
             <!-- BEGIN HEADER -->
@@ -648,6 +659,8 @@
                                 </div>
                             </div>
                         </div>
+                        
+                        <!-- Nosotros -->
                         <div class="vc_row-full-width vc_clearfix"></div>
                         <div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid primary-color-trs section-counter vc_custom_1499223489092">
                             <div class="wpb_column vc_column_container vc_col-sm-12">
@@ -722,7 +735,7 @@
                                 </div>      
                             </div>    
                         </div>
-                        <div class="vc_row-full-width vc_clearfix" id="nosotros"></div>
+                        <div class="vc_row-full-width vc_clearfix"></div>
                         <br>
                         <h1 class="aio-icon-title ult-responsive" data-responsive-json-new='{"font-size":"desktop:25px;","line-height":""}' style="font-family:#039;Titillium Web&#039;;font-weight:700;color:#1b2725;position: fixed;">
                             Sobre nosotros
@@ -890,11 +903,13 @@
                                     </div>        
                                 </div>
                                 
-                                <div class="upb_bg_img" data-ultimate-bg="url(site-data/i1.wp.com/www.skycamintl.com/wp-content/uploads/2017/05/get-free-quote.jpg)" data-image-id="id^142|url^wp-content/uploads/2017/05/get-free-quote.jpg|caption^null|alt^null|title^get-free-quote|description^null" data-ultimate-bg-style="vcpb-default" data-bg-img-repeat="no-repeat" data-bg-img-size="cover" data-bg-img-position="" data-parallx_sense="30" data-bg-override="full" data-bg_img_attach="fixed" data-upb-overlay-color="" data-upb-bg-animation="" data-fadeout="" data-bg-animation="left-animation" data-bg-animation-type="h" data-animation-repeat="repeat" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false"  data-custom-vc-row=""  data-vc="5.2"  data-is_old_vc=""  data-theme-support=""   data-overlay="false" data-overlay-color="" data-overlay-pattern="" data-overlay-pattern-opacity="" data-overlay-pattern-size=""></div>
+                                <div class="upb_bg_img" data-ultimate-bg="url(wp-content/uploads/2017/05/get-free-quote.jpg)" data-image-id="id^142|url^wp-content/uploads/2017/05/get-free-quote.jpg|caption^null|alt^null|title^get-free-quote|description^null" data-ultimate-bg-style="vcpb-default" data-bg-img-repeat="no-repeat" data-bg-img-size="cover" data-bg-img-position="" data-parallx_sense="30" data-bg-override="full" data-bg_img_attach="fixed" data-upb-overlay-color="" data-upb-bg-animation="" data-fadeout="" data-bg-animation="left-animation" data-bg-animation-type="h" data-animation-repeat="repeat" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false"  data-custom-vc-row=""  data-vc="5.2"  data-is_old_vc=""  data-theme-support=""   data-overlay="false" data-overlay-color="" data-overlay-pattern="" data-overlay-pattern-opacity="" data-overlay-pattern-size=""></div>
                                 </div>
                             </div>
-                        </div>                                            
-                        <div class="vc_row-full-width vc_clearfix"></div>
+                        </div>  
+                        
+                        <!-- Servicios -->
+                        <div class="vc_row-full-width vc_clearfix" id="#servicios"></div>
                         <div class="vc_row wpb_row vc_row-fluid vc_custom_1501640405821">
                             <div class="wpb_column vc_column_container vc_col-sm-4">
                                 <div class="vc_column-inner ">
@@ -922,6 +937,8 @@
                                     </div>      
                                 </div>   
                             </div>
+                            
+                            
                             <div class="wpb_column vc_column_container vc_col-sm-8">
                                 <div class="vc_column-inner ">
                                     <div class="wpb_wrapper">
@@ -1047,10 +1064,7 @@
         <script type='text/javascript' src='assets/js/footer-particles.js'></script>
 	<script type='text/javascript' src='wp-content/plugins/jetpack/_inc/build/photon/photon.minb3d9.js?ver=20130122'></script>
         <script type='text/javascript' src='wp-content/plugins/email-subscribers/widget/es-widget-pageaead.js?ver=5.0.3'></script>
-        <script type='text/javascript' src='site-data/s0.wp.com/wp-content/js/devicepx-jetpack2acb.js?ver=201902'></script>
-        <script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min6b25.js?ver=2.1.4'></script>       
-        <script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min1aae.js?ver=3.5.3'></script>       
-        <script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min1aae.js?ver=3.5.3'></script>
+        <script type='text/javascript' src='site-data/s0.wp.com/wp-content/js/devicepx-jetpack2acb.js?ver=201902'></script>      
 
         <script type='text/javascript'>
             jQuery( 'body' ).bind( 'wc_fragments_refreshed', function() {

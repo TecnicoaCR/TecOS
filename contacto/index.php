@@ -9,7 +9,7 @@
             $phone = $_POST["phone"];
             $message = $_POST["message"];
             $captcha = $_POST['g-recaptcha-response'];
-            $secret = '6LeuHIkUAAAAANXHj_TANB27EJBaEvjpTtuROlRM';
+            $secret = '	6LdyEI4UAAAAAHrwgUSJ02ES8L3jMjAoJ1Pb-uaB';
 		
         if (!$captcha){
             $errors[] = "Verificar Catcha.";
@@ -691,14 +691,23 @@
                                                                 <li>
                                                                     <div class="brick-flex-box">
                                                                         <span class="fa fa-map-marker primary-color"></span>
-                                                                        <p class="brick-hover-color-primary">Santiago De Puriscal, San Jose, Costa Rica</p>
+                                                                        <p class="brick-hover-color-primary"><a href="https://wego.here.com/directions/mix/mylocation/e-eyJuYW1lIjoiU2VndXJpZGFkIFRSUyBTLkEiLCJhZGRyZXNzIjoic2FuIGpvc2UgcHVyaXNjYWwgc2FudGlhZ28sIFNhbnRpYWdvIERlIFB1cmlzY2FsLCBTYW4gSm9zZSwgQ29zdGEgUmljYSIsImxhdGl0dWRlIjo5Ljg1MTQxLCJsb25naXR1ZGUiOi04NC4zMDYyMDk5LCJwcm92aWRlck5hbWUiOiJmYWNlYm9vayIsInByb3ZpZGVySWQiOjIzODEwMDc3Mjg1OTI0NTZ9?map=9.85141,-84.30621,15,normal&fb_locale=es_LA">Santiago De Puriscal, San Jose, Costa Rica</a></p>
                                                                     </div>
                                                                 </li>
                                                                 <li>
                                                                     <div class="brick-flex-box">
                                                                         <span class="fa fa-envelope primary-color"></span>
+                                                                        <a href="mailto:seguridadtrscr@gmail.com"><p class="brick-hover-color-primary">seguridadtrscr@gmail.com</p></a>
+                                                                    </div>
+                                                                    <div class="brick-flex-box">
+                                                                        <span class="fa fa-envelope primary-color"></span>
+                                                                        <a href="mailto:info@seguridadtrscr.net.in"><p class="brick-hover-color-primary">info@seguridadtrscr.net.in</p></a>
+                                                                    </div>
+                                                                    <div class="brick-flex-box">
+                                                                        <span class="fa fa-envelope primary-color"></span>
                                                                         <a href="mailto:luis@seguridadtrscr.net.in"><p class="brick-hover-color-primary">luis@seguridadtrscr.net.in</p></a>
                                                                     </div>
+                                                                    
                                                                 </li>
                                                                 <li>
                                                                     <div class="brick-flex-box">
@@ -777,7 +786,7 @@
                                                     <div class="row">
                                                         <div class="col-12 col-sm-12 col-md-7 col-lg-12 col-xl-7">
                                                             <div class="form-group">
-                                                                <div id="recaptcha" class="g-recaptcha" data-sitekey="6LeuHIkUAAAAAPqjGXiK8115SVbg68OTUfejsbPz" data-callback="vcc"></div>
+                                                                <div id="recaptcha" class="g-recaptcha" data-sitekey="6LdyEI4UAAAAAPAIpL9ihQOMe-SICCkXqoQ6bpUy" data-callback="vcc"></div>
                                                             </div>
                                                         </div> <br>
                                                         <div class="col-12 col-sm-12 col-md-5 col-lg-12 col-xl-5">
