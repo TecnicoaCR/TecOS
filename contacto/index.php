@@ -526,8 +526,50 @@
                             if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
                     }catch(d){console.log("Failure at Presize of Slider:"+d)}};
             </script>
-            <style type="text/css" title="dynamic-css" class="options-output">.br_page_loader{background-color:#FFFFFF;}.page-title-bar{background-color:#1E1E1E;background-repeat:no-repeat;background-size:cover;background-position:center top;background-image:url('../wp-content/plugins/qtc-brick/qtc-options/options/images/bg_title_bar.jpg');}.page-title-bar{margin-top:0;margin-right:0;margin-bottom:5%;margin-left:0;}.page-title-bar{padding-top:110px;padding-right:0;padding-bottom:110px;padding-left:0;}.blog-title-bar{background-color:#1e1e1e;background-repeat:no-repeat;background-size:cover;background-position:center top;background-image:url('../wp-content/plugins/qtc-brick/qtc-options/options/images/bg_title_bar.jpg');}.blog-title-bar{margin-top:0;margin-right:0;margin-bottom:5%;margin-left:0;}.blog-title-bar{padding-top:110px;padding-right:0;padding-bottom:110px;padding-left:0;}.product-title-bar{background-color:#1E1E1E;background-repeat:no-repeat;background-size:cover;background-position:center top;background-image:url('../wp-content/plugins/qtc-brick/qtc-options/options/images/bg_title_bar.jpg');}.product-title-bar{margin-top:0;margin-right:0;margin-bottom:5%;margin-left:0;}.product-title-bar{padding-top:110px;padding-right:0;padding-bottom:110px;padding-left:0;}body{font-family:"Titillium Web";line-height:26px;font-weight:400;font-style:normal;color:#4e5453;font-size:14px;}h1{font-family:"Titillium Web";line-height:48px;font-weight:900;font-style:normal;color:#1b2725;font-size:42px;}h2{font-family:"Titillium Web";line-height:42px;font-weight:700;font-style:normal;color:#1b2725;font-size:36px;}h3{font-family:"Titillium Web";line-height:30px;font-weight:700;font-style:normal;color:#1b2725;font-size:24px;}h4{font-family:"Titillium Web";line-height:24px;font-weight:400;font-style:normal;color:#1b2725;font-size:18px;}h5{font-family:"Titillium Web";line-height:22px;font-weight:400;font-style:normal;color:#1b2725;font-size:16px;}h6{font-family:"Titillium Web";line-height:18px;font-weight:300;font-style:normal;color:#1b2725;font-size:14px;}</style><style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1495521238394{padding-right: 26% !important;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><script async src='../../stats.wp.com/s-201902.js'></script>
-    
+            <style type="text/css" title="dynamic-css" class="options-output">
+                .br_page_loader{background-color:#FFFFFF;}
+                .page-title-bar{
+                    background-color:#1E1E1E;
+                    background-repeat:no-repeat;
+                    background-size:cover;
+                    background-position:center top;
+                    background-image:url('/assets/img/contacto.jpg');}
+                .page-title-bar{margin-top:0;margin-right:0;margin-bottom:5%;margin-left:0;}
+                .page-title-bar{padding-top:110px;padding-right:0;padding-bottom:110px;padding-left:0;}
+                .blog-title-bar{
+                    background-color:#1e1e1e;
+                    background-repeat:no-repeat;
+                    background-size:cover;
+                    background-position:center top;
+                    background-image:url('../wp-content/plugins/qtc-brick/qtc-options/options/images/bg_title_bar.jpg');}
+                .blog-title-bar{margin-top:0;margin-right:0;margin-bottom:5%;margin-left:0;}
+                .blog-title-bar{padding-top:110px;padding-right:0;padding-bottom:110px;padding-left:0;}
+                .product-title-bar{
+                    background-color:#1E1E1E;
+                    background-repeat:no-repeat;
+                    background-size:cover;
+                    background-position:center top;
+                    background-image:url('../wp-content/plugins/qtc-brick/qtc-options/options/images/bg_title_bar.jpg');}
+                .product-title-bar{
+                    margin-top:0;margin-right:0;margin-bottom:5%;margin-left:0;}
+                .product-title-bar{padding-top:110px;padding-right:0;padding-bottom:110px;padding-left:0;}
+                body{font-family:"Titillium Web";line-height:26px;font-weight:400;font-style:normal;color:#4e5453;font-size:14px;}
+                h1{font-family:"Titillium Web";line-height:48px;font-weight:900;font-style:normal;color:#1b2725;font-size:42px;}
+                h2{font-family:"Titillium Web";line-height:42px;font-weight:700;font-style:normal;color:#1b2725;font-size:36px;}
+                h3{font-family:"Titillium Web";line-height:30px;font-weight:700;font-style:normal;color:#1b2725;font-size:24px;}
+                h4{font-family:"Titillium Web";line-height:24px;font-weight:400;font-style:normal;color:#1b2725;font-size:18px;}
+                h5{font-family:"Titillium Web";line-height:22px;font-weight:400;font-style:normal;color:#1b2725;font-size:16px;}
+                h6{font-family:"Titillium Web";line-height:18px;font-weight:300;font-style:normal;color:#1b2725;font-size:14px;}
+            </style>
+            <style type="text/css" data-type="vc_shortcodes-custom-css">
+                .vc_custom_1495521238394{padding-right: 26% !important;}
+            </style>
+            <noscript>
+                <style type="text/css"> 
+                    .wpb_animate_when_almost_visible { opacity: 1; }
+                </style>
+            </noscript>
+
             <!-- Recaptcha================================================== -->
         <script src='https://www.google.com/recaptcha/api.js'></script>
     
@@ -651,8 +693,6 @@
                                                 </div> <br>
                                                 <div>
                                                     <div class="form-group">
-                                                        <input id="lang" name="lang" type="hidden" value="es">
-                                                        <input id="genPass" name="genPass" type="hidden" value="o+XBlbjo2+/jqay12bW8ypGE5qe48eW+rNWlr+np0ZY=">
 							<input type="text" class="form-control" name="name" id="inputNombre" placeholder="Su nombre completo" value="" required>
                                                     </div>
                                                 </div><br>

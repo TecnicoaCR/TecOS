@@ -2915,7 +2915,7 @@ input:focus {
   color: #056163 !important;
 }
 .color-hover-primary:hover, .brick-hover-color-primary:hover, .brick-hover-color-yellow:hover, .color-hover-primary.active, .brick-hover-color-primary.active, .brick-hover-color-yellow.active {
-  color: #0d9af4 !important;
+  color: rgb(0, 57, 110) !important;
 }
 .brick-hover-color-0ba2a5:hover, .brick-hover-color-0ba2a5.active {
   color: #0ba2a5 !important;
@@ -2930,16 +2930,16 @@ input:focus {
   color: #056163 !important;
 }
 .border-color-primary {
-  border-color: #0d9af4 !important;
+  border-color: rgb(0, 57, 110) !important;
 }
 .bg-color-primary {
-  background: #0d9af4 !important;
+  background: rgb(0, 57, 110) !important;
 }
 .bg-color-primary-child * {
   background: #0d9af4 !important;
 }
 .bg-hover-color-primary-child:hover * {
-  background: #0d9af4 !important;
+  background: rgb(0, 57, 110) !important;
 }
 .bg-hover-color-transparent:hover {
   background: transparent !important;
