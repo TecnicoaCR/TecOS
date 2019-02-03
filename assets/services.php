@@ -8,14 +8,17 @@
                                     <div class="wpb_wrapper">
                                         <div id="ultimate-heading-42235c3a73dc00389" class="qtc-heading uvc-heading ult-adjust-bottom-margin ultimate-heading-42235c3a73dc00389 uvc-1578 " data-hspacer="no_spacer"  data-halign="left" style="text-align:left">
                                             <div class="uvc-heading-spacer no_spacer" style="top"></div>
-                                            <div class="uvc-main-heading ult-responsive"  data-ultimate-target='.uvc-heading.ultimate-heading-42235c3a73dc00389 h2'  data-responsive-json-new='{"font-size":"desktop:30px;","line-height":"desktop:32px;"}' ><h2 style="font-family:'Titillium Web';font-weight:600;color:#0d9af4;margin-top:5PX;margin-bottom:15PX;">
+                                            <div class="uvc-main-heading ult-responsive"  data-ultimate-target='.uvc-heading.ultimate-heading-42235c3a73dc00389 h2'  data-responsive-json-new='{"font-size":"desktop:30px;","line-height":"desktop:32px;"}' ><h2 style="font-family:'Titillium Web';font-weight:600;color:rgb(0, 57, 110);margin-top:5PX;margin-bottom:15PX;">
                                                     SEGURIDAD FÍSICA
                                                 </h2>
                                             </div>
                                             <div class="uvc-sub-heading ult-responsive"  data-ultimate-target='.uvc-heading.ultimate-heading-42235c3a73dc00389 .uvc-sub-heading '  data-responsive-json-new='{"font-size":"desktop:14px;","line-height":"desktop:21px;"}'  style="font-family:'Quicksand';font-weight:normal;color:#656b6f;">
                                                 En nuestra división de Seguridad Física (Oficiales de seguridad) 
                                                 contamos con un grupo importante de servicios con los más 
-                                                altos estándares de calidad, depuración y entrenamiento.
+                                                altos estándares de calidad, depuración y entrenamiento.<br><br>
+                                                Si de seguridad física se trata, TRS tiene una solución
+                                                a su medida. Todo con el respaldo de capacitaciones reconocidas y con la 
+                                                garantía y el respaldo técnico de TRS.
                                             </div>     
                                         </div>      
                                     </div>      
@@ -52,7 +55,7 @@
                                                                     <div class="ifb-face ifb-back" style="color:#333743;background:#ffffff; border-width: 1px;border-style: solid; border-color:#bdbdbd;">
                                                                         <div class="ifb-flip-box-section ifb-flip-box-section-vertical-middle">
                                                                             <div class="ifb-flip-box-section-content ult-responsive"  data-ultimate-target='#flip-box-wrap-2744 .ult-responsive'  data-responsive-json-new='{"font-size":"desktop:14px;","line-height":"desktop:24px;"}'  style="font-family:#039;Quicksand&#039;;font-style:italic;font-weight:normal;font-style:normal;color:#333333;color:#333743;">
-                                                                                <p>Para conocer la lista completa de servicios, ¡<a href="contacto/">contáctanos</a>!</p>
+                                                                                <p>Servicios con los más altos estándares de calidad, depuración y entrenamiento, ¡<a href="contacto/">contáctanos</a>!</p>
                                                                             </div>
                                                                         </div>
                                                                     </div><!-- END .back -->
@@ -90,7 +93,7 @@
                                                                     <div class="ifb-face ifb-back" style="color:#333743;background:#ffffff; border-width: 1px;border-style: solid; border-color:#bdbdbd;">
                                                                         <div class="ifb-flip-box-section ifb-flip-box-section-vertical-middle">
                                                                             <div class="ifb-flip-box-section-content ult-responsive"  data-ultimate-target='#flip-box-wrap-9753 .ult-responsive'  data-responsive-json-new='{"font-size":"desktop:14px;","line-height":"desktop:24px;"}'  style="font-family:#039;Quicksand&#039;;font-style:italic;font-weight:normal;font-style:normal;color:#333333;color:#333743;">
-                                                                                <p>Para conocer la lista completa de servicios, ¡<a href="contacto/">contáctanos</a>!</p>
+                                                                                <p>Servicios con los más altos estándares de calidad, depuración y entrenamiento, ¡<a href="contacto/">contáctanos</a>!</p>
                                                                             </div>
                                                                         </div>
                                                                     </div><!-- END .back -->
@@ -128,7 +131,7 @@
                                                                     </div><!-- END .front -->
                                                                     <div class="ifb-face ifb-back" style="color:#333743;background:#ffffff; border-width: 1px;border-style: solid; border-color:#bdbdbd;">
                                                                         <div class="ifb-flip-box-section ifb-flip-box-section-vertical-middle"><div class="ifb-flip-box-section-content ult-responsive"  data-ultimate-target='#flip-box-wrap-1771 .ult-responsive'  data-responsive-json-new='{"font-size":"desktop:14px;","line-height":"desktop:24px;"}'  style="font-family:&#039;Quicksand&#039;;font-style:italic;font-weight:normal;font-style:normal;color:#333333;color:#333743;">
-                                                                                <p>Para conocer la lista completa de servicios, ¡<a href="contacto/">contáctanos</a>!</p>
+                                                                                <p>Servicios con los más altos estándares de calidad, depuración y entrenamiento, ¡<a href="contacto/">contáctanos</a>!</p>
                                                                             </div>
                                                                         </div>
                                                                     </div><!-- END .back -->
@@ -163,7 +166,7 @@
                                                                     <div class="ifb-face ifb-back" style="color:#333743;background:#ffffff; border-width: 1px;border-style: solid; border-color:#bdbdbd;">
                                                                         <div class="ifb-flip-box-section ifb-flip-box-section-vertical-middle">
                                                                             <div class="ifb-flip-box-section-content ult-responsive"  data-ultimate-target='#flip-box-wrap-3816 .ult-responsive'  data-responsive-json-new='{"font-size":"desktop:14px;","line-height":"desktop:24px;"}'  style="font-family:&#039;Quicksand&#039;;font-style:italic;font-weight:normal;font-style:normal;color:#333333;color:#333743;">
-                                                                                <p>Para conocer la lista completa de servicios, ¡<a href="contacto/">contáctanos</a>!</p>
+                                                                                <p>Servicios con los más altos estándares de calidad, depuración y entrenamiento, ¡<a href="contacto/">contáctanos</a>!</p>
                                                                             </div>
                                                                         </div>
                                                                     </div><!-- END .back -->
@@ -180,24 +183,25 @@
                         </div>
                         
                         <!-- Servicios -->
-                        <div class="vc_row-full-width vc_clearfix" id="servicios"></div>
                         <div class="vc_row wpb_row vc_row-fluid vc_custom_1501640405821">
-                            
                             <div class="wpb_column vc_column_container vc_col-sm-4">
                                 <div class="vc_column-inner ">
                                     <div class="wpb_wrapper">
                                         <div id="ultimate-heading-42235c3a73dc00389" class="qtc-heading uvc-heading ult-adjust-bottom-margin ultimate-heading-42235c3a73dc00389 uvc-1578 " data-hspacer="no_spacer"  data-halign="left" style="text-align:left">
                                             <div class="uvc-heading-spacer no_spacer" style="top"></div>
                                             
-                                            <div class="uvc-main-heading ult-responsive"  data-ultimate-target='.uvc-heading.ultimate-heading-42235c3a73dc00389 h2'  data-responsive-json-new='{"font-size":"desktop:30px;","line-height":"desktop:32px;"}' ><h2 style="font-family:'Titillium Web';font-weight:600;color:#0d9af4;margin-top:5PX;margin-bottom:15PX;">
+                                            <div class="uvc-main-heading ult-responsive"  data-ultimate-target='.uvc-heading.ultimate-heading-42235c3a73dc00389 h2'  data-responsive-json-new='{"font-size":"desktop:30px;","line-height":"desktop:32px;"}' >
+                                                <h2 style="font-family:'Titillium Web';font-weight:600;color:rgb(0, 57, 110);margin-top:5PX;margin-bottom:15PX;">
                                                     SEGURIDAD ELECTRÓNICA
                                                 </h2>
                                             </div>
                                             <div class="uvc-sub-heading ult-responsive"  data-ultimate-target='.uvc-heading.ultimate-heading-42235c3a73dc00389 .uvc-sub-heading '  data-responsive-json-new='{"font-size":"desktop:14px;","line-height":"desktop:21px;"}'  style="font-family:'Quicksand';font-weight:normal;color:#656b6f;">
                                                 Nuestros sistemas de seguridad electrónica abarcan todos los aspectos 
                                                 para que nuestros clientes puedan contar con una asesoría, instalación 
-                                                y servicio de post venta efectivo y profesional. Los grandes grupos 
-                                                dentro de la seguridad electrónica son:
+                                                y servicio de post venta efectivo y profesional.<br><br>
+                                                Si de seguridad electrónica se trata, TRS tiene una solución a su medida. 
+                                                Todo con el respaldo de reconocidas marcas y con la garantía y el 
+                                                respaldo técnico de TRS.
                                             </div>     
                                         </div>      
                                     </div>      
@@ -236,7 +240,7 @@
                                                                     <div class="ifb-face ifb-back" style="color:#333743;background:#ffffff; border-width: 1px;border-style: solid; border-color:#bdbdbd;">
                                                                         <div class="ifb-flip-box-section ifb-flip-box-section-vertical-middle">
                                                                             <div class="ifb-flip-box-section-content ult-responsive"  data-ultimate-target='#flip-box-wrap-2744 .ult-responsive'  data-responsive-json-new='{"font-size":"desktop:14px;","line-height":"desktop:24px;"}'  style="font-family:#039;Quicksand&#039;;font-style:italic;font-weight:normal;font-style:normal;color:#333333;color:#333743;">
-                                                                                <p>Para conocer la lista completa de servicios, ¡<a href="contacto/">contáctanos</a>!</p>
+                                                                                <p>Ofrecemos soluciones de alta tecnología en seguridad electrónica, ¡<a href="contacto/">contáctanos</a>!</p>
                                                                             </div>
                                                                         </div>
                                                                     </div><!-- END .back -->
@@ -274,7 +278,7 @@
                                                                     <div class="ifb-face ifb-back" style="color:#333743;background:#ffffff; border-width: 1px;border-style: solid; border-color:#bdbdbd;">
                                                                         <div class="ifb-flip-box-section ifb-flip-box-section-vertical-middle">
                                                                             <div class="ifb-flip-box-section-content ult-responsive"  data-ultimate-target='#flip-box-wrap-9753 .ult-responsive'  data-responsive-json-new='{"font-size":"desktop:14px;","line-height":"desktop:24px;"}'  style="font-family:#039;Quicksand&#039;;font-style:italic;font-weight:normal;font-style:normal;color:#333333;color:#333743;">
-                                                                                <p>Para conocer la lista completa de servicios, ¡<a href="contacto/">contáctanos</a>!</p>
+                                                                                <p>Ofrecemos soluciones de alta tecnología en seguridad electrónica, ¡<a href="contacto/">contáctanos</a>!</p>
                                                                             </div>
                                                                         </div>
                                                                     </div><!-- END .back -->
@@ -312,7 +316,7 @@
                                                                     </div><!-- END .front -->
                                                                     <div class="ifb-face ifb-back" style="color:#333743;background:#ffffff; border-width: 1px;border-style: solid; border-color:#bdbdbd;">
                                                                         <div class="ifb-flip-box-section ifb-flip-box-section-vertical-middle"><div class="ifb-flip-box-section-content ult-responsive"  data-ultimate-target='#flip-box-wrap-1771 .ult-responsive'  data-responsive-json-new='{"font-size":"desktop:14px;","line-height":"desktop:24px;"}'  style="font-family:&#039;Quicksand&#039;;font-style:italic;font-weight:normal;font-style:normal;color:#333333;color:#333743;">
-                                                                                <p>Para conocer la lista completa de servicios, ¡<a href="contacto/">contáctanos</a>!</p>
+                                                                                <p>Ofrecemos soluciones de alta tecnología en seguridad electrónica, ¡<a href="contacto/">contáctanos</a>!</p>
                                                                             </div>
                                                                         </div>
                                                                     </div><!-- END .back -->
@@ -347,7 +351,7 @@
                                                                     <div class="ifb-face ifb-back" style="color:#333743;background:#ffffff; border-width: 1px;border-style: solid; border-color:#bdbdbd;">
                                                                         <div class="ifb-flip-box-section ifb-flip-box-section-vertical-middle">
                                                                             <div class="ifb-flip-box-section-content ult-responsive"  data-ultimate-target='#flip-box-wrap-3816 .ult-responsive'  data-responsive-json-new='{"font-size":"desktop:14px;","line-height":"desktop:24px;"}'  style="font-family:&#039;Quicksand&#039;;font-style:italic;font-weight:normal;font-style:normal;color:#333333;color:#333743;">
-                                                                                <p>Para conocer la lista completa de servicios, ¡<a href="contacto/">contáctanos</a>!</p>
+                                                                                <p>Ofrecemos soluciones de alta tecnología en seguridad electrónica, ¡<a href="contacto/">contáctanos</a>!</p>
                                                                             </div>
                                                                         </div>
                                                                     </div><!-- END .back -->
