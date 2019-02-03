@@ -243,34 +243,34 @@
 <!DOCTYPE html>
 <html lang="es-CR">
     <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-        <!--[if IE]>
-            <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <![endif]-->
-        <meta charset="UTF-8" /> 
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-
-        <!-- favicon-->
-        <link rel="shortcut icon" href="../wp-content/uploads/2017/10/favicon-1.png" type="image/png">
-        <meta property="og:image" content="../wp-content/uploads/2017/10/skycam.png" />
-
-        <script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+        <meta name="generator" content="Powered by TecnicoaCR"/>
         
+        <!-- Start Tags -->
+        <meta property="og:type" content="article" />
+        <meta property="og:title" content="Contacto - Seguridad TRS S.A" />
+        <meta property="og:url" content="https://www.seguridadtrscr.com/contacto/" />
+        <meta property="og:description" content="Pagina de Contacto Seguridad TRS." />
+        <meta property="article:published_time" content="2019-01-28T02:36:22-06:00" />
+        <meta property="article:modified_time" content="2019-02-03T18:45:12-06:00" />
+        <meta property="og:site_name" content="Seguridad TRS S.A" />
+        <meta property="og:image" content="https://www.seguridadtrscr.com/assets/img/logo.png" />
+        <meta property="og:locale" content="es_CR" />
+        <meta name="twitter:text:title" content="Contacto" />
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:description" content="Pagina de Contacto Seguridad TRS" />
+        <!-- End Tags -->
+
         <title>Contacto &#8211; Seguridad TRS S.A</title>
         
+        <!-- favicon-->
+        <link rel="shortcut icon" href="assets/img/favicon.png" type="image/png">
+        
         <script>window._wca = window._wca || [];</script>
-        <link rel='dns-prefetch' href='http://s0.wp.com/' />
-        <link rel='dns-prefetch' href='http://maps.googleapis.com/' />
-        <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
-        <link rel='dns-prefetch' href='http://s.w.org/' />
-        <link rel="alternate" type="application/rss+xml" title="Skycam International &raquo; Feed" href="../" />
-        <link rel="alternate" type="application/rss+xml" title="Skycam International &raquo; Comments Feed" href="../" />
-        
-        <script type="text/javascript">
-            window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.skycamintl.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.0.3"}};
-                !function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
-        </script>
-        
+
         <style type="text/css">
             img.wp-smiley,
             img.emoji {
@@ -333,42 +333,20 @@
         <link rel='stylesheet' id='redux-google-fonts-brick_smof_data-css'  href='https://fonts.googleapis.com/css?family=Titillium+Web%3A200%2C300%2C400%2C600%2C700%2C900%2C200italic%2C300italic%2C400italic%2C600italic%2C700italic&amp;ver=1508607447' type='text/css' media='all' />
         <link rel='stylesheet' id='jetpack_css-css'  href='../wp-content/plugins/jetpack/css/jetpackd4d0.css?ver=6.9' type='text/css' media='all' />
 
-        <!-- This site uses the Google Analytics by MonsterInsights plugin v 6.2.0 - https://www.monsterinsights.com/ -->
-        <!-- Normally you will find the Google Analytics tracking code here, but the webmaster disabled your user group. -->
-        <!-- / Google Analytics by MonsterInsights -->
 
         <script type='text/javascript' src='../wp-includes/js/jquery/jqueryb8ff.js?ver=1.12.4'></script>
         <script type='text/javascript' src='../wp-includes/js/jquery/jquery-migrate.min330a.js?ver=1.4.1'></script>
         <script type='text/javascript' src='../wp-content/plugins/Ultimate_VC_Addons/assets/min-js/headings.minf28f.js?ver=3.16.12'></script>
         <script type='text/javascript' src='../wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min78d9.js?ver=5.4.3.1'></script>
         <script type='text/javascript' src='../wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min78d9.js?ver=5.4.3.1'></script>
-        <script type='text/javascript' src='../wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min44fd.js?ver=2.70'></script>
-        
-        <script type='text/javascript'>
-        /* <![CDATA[ */
-        var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/www.skycamintl.com","is_cart":"","cart_redirect_after_add":"no"};
-        /* ]]> */
-        </script>
-        
-        <script type='text/javascript' src='../wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min1aae.js?ver=3.5.3'></script>
-        <script type='text/javascript' src='../wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart5fba.js?ver=5.2'></script>
         <script type='text/javascript' src='../wp-content/themes/brick/assets/lib/hoverdir/modernizr.custom.97074aead.js?ver=5.0.3'></script>
         <script type='text/javascript' src='../wp-content/plugins/Ultimate_VC_Addons/assets/min-js/ultimate-params.minf28f.js?ver=3.16.12'></script>
         <script type='text/javascript' src='../wp-content/plugins/Ultimate_VC_Addons/assets/min-js/jquery-appear.minf28f.js?ver=3.16.12'></script>
         <script type='text/javascript' src='../wp-content/plugins/Ultimate_VC_Addons/assets/min-js/custom.minf28f.js?ver=3.16.12'></script>
         <script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyAgrGvAIrMMSeO-A1o9aYRJs2k3stlKrs8'></script>
-        <link rel='https://api.w.org/' href='../wp-json/index.html' />
-        <link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
-        <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml" /> 
-        <meta name="generator" content="WordPress 5.0.3" />
-        <meta name="generator" content="WooCommerce 3.5.3" />
-        <link rel="canonical" href="index.php" />
-        <link rel='shortlink' href='https://wp.me/P9ajU9-1e' />
-       
-        <link rel='dns-prefetch' href='http://v0.wordpress.com/'/>
-        <link rel='dns-prefetch' href='http://i0.wp.com/'/>
-        <link rel='dns-prefetch' href='http://i1.wp.com/'/>
-        <link rel='dns-prefetch' href='http://i2.wp.com/'/>
+
+        <link rel="canonical" href="/index.php" />
+
         <style type='text/css'>img#wpstats{display:none}</style>
         <style type="text/css">.fa fa-search { display: none;}</style>
         
@@ -378,149 +356,7 @@
         </style>
         <style> @media (min-width: 992px){}</style>
         <style type="text/css">.footer{ background: #1e1f1f;  background-repeat:repeat; color: #dcddde;}.footer .sec-padding{ padding:90px 0 90px 0; margin:0px auto;}.footer .footer-widget ul li a{ color: #dcddde;}.footer .footer-widget ul li a:hover{ color: #0d9af4;}.footer .col-footer .footer-widget .title{ color: #dcddde;}</style>
-        
-        <script type="text/javascript">
-                jQuery(function ($) {
-                    if ($('#footer-particles-js').length) {
-                        particlesJS('footer-particles-js',
-                                {
-                                    "particles": {
-                                        "number": {
-                                            "value": 80,
-                                            "density": {
-                                                "enable": true,
-                                                "value_area": 1000
-                                            }
-                                        },
-                                        "color": {
-                                            "value": "#ffffff"
-                                        },
-                                        "shape": {
-                                            "type": "circle",
-                                            "stroke": {
-                                                "width": 0,
-                                                "color": "#000000"
-                                            },
-                                            "polygon": {
-                                                "nb_sides": 5
-                                            },
-                                            "image": {
-                                                "src": "img/github.svg",
-                                                "width": 100,
-                                                "height": 100
-                                            }
-                                        },
-                                        "opacity": {
-                                            "value": 0.5,
-                                            "random": false,
-                                            "anim": {
-                                                "enable": false,
-                                                "speed": 1,
-                                                "opacity_min": 0.1,
-                                                "sync": false
-                                            }
-                                        },
-                                        "size": {
-                                            "value": 5,
-                                            "random": true,
-                                            "anim": {
-                                                "enable": false,
-                                                "speed": 40,
-                                                "size_min": 0.1,
-                                                "sync": false
-                                            }
-                                        },
-                                        "line_linked": {
-                                            "enable": true,
-                                            "distance": 150,
-                                            "color": "#ffffff",
-                                            "opacity": 0.4,
-                                            "width": 1                                        },
-                                        "move": {
-                                            "enable": true,
-                                            "speed": 6,
-                                            "direction": "none",
-                                            "random": false,
-                                            "straight": false,
-                                            "out_mode": "out",
-                                            "attract": {
-                                                "enable": false,
-                                                "rotateX": 600,
-                                                "rotateY": 1200
-                                            }
-                                        }
-                                    },
-                                    "interactivity": {
-                                        "detect_on": "canvas",
-                                        "events": {
-                                            "onhover": {
-                                                "enable": true,
-                                                "mode": "repulse"
-                                            },
-                                            "onclick": {
-                                                "enable": true,
-                                                "mode": "push"
-                                            },
-                                            "resize": true
-                                        },
-                                        "modes": {
-                                            "grab": {
-                                                "distance": 400,
-                                                "line_linked": {
-                                                    "opacity": 1
-                                                }
-                                            },
-                                            "bubble": {
-                                                "distance": 400,
-                                                "size": 40,
-                                                "duration": 2,
-                                                "opacity": 8,
-                                                "speed": 3
-                                            },
-                                            "repulse": {
-                                                "distance": 200
-                                            },
-                                            "push": {
-                                                "particles_nb": 4
-                                            },
-                                            "remove": {
-                                                "particles_nb": 2
-                                            }
-                                        }
-                                    },
-                                    "retina_detect": true,
-                                    "config_demo": {
-                                        "hide_card": false,
-                                        "background_color": "#b61924",
-                                        "background_image": "",
-                                        "background_position": "50% 50%",
-                                        "background_repeat": "no-repeat",
-                                        "background_size": "cover"
-                                    }
-                                }
 
-                        );
-                    }
-                });
-            </script>
-            <noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
-            <meta name="generator" content="Powered by TecnicoaCR"/>
-
-            <!-- Jetpack Open Graph Tags -->
-            <meta property="og:type" content="article" />
-            <meta property="og:title" content="Contacto" />
-            <meta property="og:url" content="https://www.seguridadtrscr.com/contacto/" />
-            <meta property="og:description" content="Pagina de Contacto Seguridad TRS." />
-            <meta property="article:published_time" content="2019-01-16T02:36:22-06:00" />
-            <meta property="article:modified_time" content="2019-01-21T18:45:12-06:00" />
-            <meta property="og:site_name" content="Seguridad TRS S.A" />
-            <meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
-            <meta property="og:locale" content="es_CR" />
-            <meta name="twitter:text:title" content="Contacto" />
-            <meta name="twitter:card" content="summary" />
-            <meta name="twitter:description" content="Pagina de Contacto Seguridad TRS" />
-
-            <!-- End Jetpack Open Graph Tags -->
             <script type="text/javascript">function setREVStartSize(e){
                     try{ var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;					
                             if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
@@ -590,7 +426,7 @@
                         <div class="br-breadcrumb">
                             <div id="br-crumbs">
                                 <span typeof="v:Breadcrumb">
-                                    <a rel="v:url" property="v:title" href="../">Inicio</a>
+                                    <a rel="v:url" property="v:title" href="/">Inicio</a>
                                 </span>/
                                 <span class="current">Contacto</span>
                             </div>
@@ -623,7 +459,7 @@
                                                                 <li>
                                                                     <div class="brick-flex-box">
                                                                         <span class="fa fa-phone primary-color"></span>
-                                                                        <p class="brick-hover-color-primary"><a href="https://api.whatsapp.com/send?phone=50671720886">+506-7172 0886</a></p>
+                                                                        <p class="brick-hover-color-primary"><a href="https://api.whatsapp.com/send?phone=50671720886">+506 7172 0886</a></p>
                                                                     </div>
                                                                 </li>
                                                                 <li>
@@ -653,10 +489,22 @@
                                                                         <a href="https://facebook.com/seguridadtrscr"><p class="brick-hover-color-primary">Facebook Fan Page</p></a>
                                                                     </div>
                                                                 </li>
+                                                                <li>
+                                                                    <div class="brick-flex-box">
+                                                                        <span class="fa fa-instagram primary-color"></span>
+                                                                        <a href="https://www.instagram.com/seguridadtrscr/"><p class="brick-hover-color-primary">Instagram</p></a>
+                                                                    </div>
+                                                                </li>
+                                                                <li>
+                                                                    <div class="brick-flex-box">
+                                                                        <span class="fa fa-pied-piper primary-color"></span>
+                                                                        <a href="http://picdeer.com/seguridadtrscr"><p class="brick-hover-color-primary">PicDeer Online</p></a>
+                                                                    </div>
+                                                                </li>
                                                                 
                                                             </ul>
                                                         </div>
-                                                        <!-- END BEGIN BLOCK OUR CLIENTS -->
+                                                        <!-- END BEGIN BLOCK -->
                                                     </div>
                                                 </div>
                                             </div>

@@ -5,7 +5,7 @@
 */
 
 .br_page_loader{background-color:rgb(0, 57, 110);}
-            .page-title-bar{ width: 100%; background-color:#1E1E1E;background-repeat:no-repeat;background-size:cover;background-position:center top;background-image:url('assets/img/nosotros.jpg');}
+            .page-title-bar{ width: 100%; background-color:#1E1E1E;background-repeat:no-repeat;background-size:cover;background-position:center top;background-image:url('/assets/img/empresa.jpg');}
             .page-title-bar{margin-top:0;margin-right:0;margin-bottom:5%;margin-left:0;}
             .page-title-bar{padding-top:110px;padding-right:0;padding-bottom:110px;padding-left:0;}
             .blog-title-bar{background-color:#1e1e1e;background-repeat:no-repeat;background-size:cover;background-position:center top;background-image:url('wp-content/plugins/qtc-brick/qtc-options/options/images/bg_title_bar.jpg');}

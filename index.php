@@ -10,6 +10,7 @@
         <!-- Start Tags -->
         <meta property="og:type" content="website" />
         <meta property="og:title" content="Seguridad TRS S.A" />
+        <meta property="og:keyword" content="seguridad trs, sistemas de seguridad en costa rica, guardas de seguridad en costa rica, seguridad electronica en costa rica, camaras de seguridad, seguridad fisica en costa rica, seguridad privada en costa rica"
         <meta property="og:description" content="Seguridad TRS S.A" />
         <meta property="og:url" content="https://www.seguridadtrscr.com/" />
         <meta property="og:site_name" content="Seguridad TRS S.A" />
@@ -85,25 +86,9 @@
                 .wpb_animate_when_almost_visible { opacity: 1; }
             </style>
         </noscript>
-        
     </head>
-    <body class="home page-template-default page page-id-645 woocommerce-no-js brick-body brick-sticky wpb-js-composer js-comp-ver-5.2 vc_responsive" > 
-        
-        <!-- Script de Facebook -->
-        <div id="fb-root"></div>
-        <script>
-            (function(d, s, id) {
-                var js, fjs = d.getElementsByTagName(s)[0];
-                if (d.getElementById(id)) return;
-                js = d.createElement(s); js.id = id;
-                js.src = 'https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v3.2';
-                fjs.parentNode.insertBefore(js, fjs);
-            }(document, 'script', 'facebook-jssdk'));            
-        </script>
-        <!-- Fin de Script de Facebook -->
-        
+    <body class="home page-template-default page page-id-645 woocommerce-no-js brick-body brick-sticky wpb-js-composer js-comp-ver-5.2 vc_responsive" >         
         <div id="wrapper">
-            
             <!-- BEGIN HEADER -->
             <header class="header-v1" data-uk-sticky="{top: -500, animation: 'uk-animation-slide-top'}">
                 <!-- Navbar -->
@@ -113,13 +98,9 @@
             <div class="uk-container uk-container-center">
                 <div class="uk-grid ">
                     <div id="main-content" class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1 uk-width-1-1 brick-content page-content ">
-                        
                         <?php require_once 'assets/slider.php'; ?>
-                        
-                        
                         <div class="vc_row-full-width vc_clearfix"></div>
                         <div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid primary-color-trs section-counter vc_custom_1499223489092">
-                            
                             <div class="wpb_column vc_column_container vc_col-sm-12">
                                 <div class="vc_column-inner ">
                                     <div class="wpb_wrapper">
@@ -130,7 +111,7 @@
                                                         <div class="stats-block stats-top  ">
                                                             <div class="aio-icon-top">
                                                                 <div class="ult-just-icon-wrapper  ">
-                                                                        <div class="align-icon" style="text-align:center;"></div>                                                                               
+                                                                    <div class="align-icon" style="text-align:center;"></div>                                                                               
                                                                 </div>                                                                   
                                                             </div>
                                                             <div class="stats-desc" id="counter-responsv-wrap-3290">
@@ -202,7 +183,6 @@
                         
                         <div class="vc_row-full-width vc_clearfix"></div>
                         <div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid primary-color-trs section-counter vc_custom_1499223489092">
-                            
                             <div class="wpb_column vc_column_container vc_col-sm-12">
                                 <div class="vc_column-inner ">
                                     <div class="wpb_wrapper">
@@ -213,12 +193,12 @@
                                             <ul>
                                                 <li>
                                                     <div counter-responsv-wrap-1960  data-ultimate-target='#counter-responsv-wrap-1960 .stats-text'  data-responsive-json-new='{"font-size":"desktop:12px;","line-height":"desktop:22px;"}'  class="stats-text ult-responsive" style="font-size:15px; color:#fff; font-family:&#039;Quicksand&#039;;font-weight:300;">
-                                                        <i class="fa fa-building fa-fw"></i> Más de 15 años de experiencia en el mercado
+                                                        <i class="fa fa-building fa-fw"></i> Más de 15 años de experiencia en el mercado costarricence
                                                     </div> 
                                                 </li>
                                                 <li>
                                                     <div counter-responsv-wrap-1960  data-ultimate-target='#counter-responsv-wrap-1960 .stats-text'  data-responsive-json-new='{"font-size":"desktop:12px;","line-height":"desktop:22px;"}'  class="stats-text ult-responsive" style="font-size:15px; color:#fff; font-family:&#039;Quicksand&#039;;font-weight:300;">
-                                                        <i class="fa fa-globe fa-fw"></i> Distribuimos marcas de renombre mundial
+                                                        <i class="fa fa-globe fa-fw"></i> Ofrecemos productos de marcas de renombre mundial
                                                     </div>  
                                                 <li>
                                                     <div counter-responsv-wrap-1960  data-ultimate-target='#counter-responsv-wrap-1960 .stats-text'  data-responsive-json-new='{"font-size":"desktop:12px;","line-height":"desktop:22px;"}'  class="stats-text ult-responsive" style="font-size:15px; color:#fff; font-family:&#039;Quicksand&#039;;font-weight:300;">
@@ -236,198 +216,29 @@
                                 </div>      
                             </div>    
                         </div>
-                        
                         <div class="vc_row-full-width vc_clearfix"></div>
                         <br><br><br>
                         
                         <!-- Nosotros -->
-                        <div class="vc_row wpb_row vc_inner vc_row-fluid" >
-                            <div class="wpb_column vc_column_container vc_col-sm-12">
-                                <div class="vc_column-inner ">
-                                    <div class="wpb_wrapper">
-                                        <div id="ultimate-heading-74405c3a73ff661b4" class="qtc-heading uvc-heading ult-adjust-bottom-margin ultimate-heading-74405c3a73ff661b4 uvc-3602 " data-hspacer="no_spacer"  data-halign="center" style="text-align:center">
-                                            <div class="uvc-heading-spacer no_spacer" style="top"></div>
-                                            <div class="uvc-main-heading ult-responsive"  data-ultimate-target='.uvc-heading.ultimate-heading-74405c3a73ff661b4 h2'  data-responsive-json-new='{"font-size":"desktop:44px;","line-height":"desktop:45px;"}' >
-                                                <h2 style="font-family:'Titillium Web';font-weight:900;color:#1b2725;margin-bottom:20px;">Sobre Nosotros</h2>
-                                            </div>
-                                        </div>                   
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                                                                              
-
-                        <div class="page-title-bar br_title_bar">
-                            <div class="uk-container uk-container-center">
-                                <div class="box uk-clearfix">
-                                    
-                                    <div class="br-breadcrumb">
-                                        <div id="br-crumbs">
-                                            <span typeof="v:Breadcrumb"><a rel="v:url" property="v:title" ></a></span>
-                                            
+                        <div class="wpb_column vc_column_container vc_col-sm-12">
+                            <div class="vc_column-inner ">
+                                <div class="wpb_wrapper">
+                                    <div id="ultimate-heading-74405c3a73ff661b4" class="qtc-heading uvc-heading ult-adjust-bottom-margin ultimate-heading-74405c3a73ff661b4 uvc-3602 " data-hspacer="no_spacer"  data-halign="center" style="text-align:center">
+                                        <div class="uvc-heading-spacer no_spacer" style="top"></div>
+                                        <div class="uvc-main-heading ult-responsive"  data-ultimate-target='.uvc-heading.ultimate-heading-74405c3a73ff661b4 h2'  data-responsive-json-new='{"font-size":"desktop:44px;","line-height":"desktop:45px;"}' >
+                                            <h2 style="font-family:'Titillium Web';font-weight:900;color:#1b2725;margin-bottom:20px;">Sobre Nosotros</h2>
                                         </div>
-                                    </div>
+                                    </div>                   
                                 </div>
                             </div>
                         </div>
                         
-                        <div class="uk-container uk-container-center">
-                            <div class="uk-grid ">
-                                <div id="main-content" class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1 uk-width-1-1 brick-content page-content ">
-                                <div class="vc_row wpb_row vc_row-fluid vc_custom_1494726706547">
-                                    <div class="wpb_column vc_column_container vc_col-sm-12">
-                                        <div class="vc_column-inner ">
-                                            <div class="wpb_wrapper">
-                                                <div class="vc_row wpb_row vc_inner vc_row-fluid">
-                                                    <div class="wpb_column vc_column_container vc_col-sm-12">
-                                                        <div class="vc_column-inner ">
-                                                            <div class="wpb_wrapper">
-                                                                <div id="ultimate-heading-74405c3a73ff661b4" class="qtc-heading uvc-heading ult-adjust-bottom-margin ultimate-heading-74405c3a73ff661b4 uvc-3602 " data-hspacer="no_spacer"  data-halign="center" style="text-align:center">
-                                                                    <div class="uvc-heading-spacer no_spacer" style="top"></div>
-                                                                    <div class="uvc-main-heading ult-responsive"  data-ultimate-target='.uvc-heading.ultimate-heading-74405c3a73ff661b4 h2'  data-responsive-json-new='{"font-size":"desktop:44px;","line-height":"desktop:45px;"}' >
-                                                                        <h2 style="font-family:'Titillium Web';font-weight:900;color:#1b2725;margin-bottom:20px;">Nuestra misión</h2>
-                                                                        
-                                                                    </div>
-                                                                </div>
-                                                                <div class="wpb_text_column wpb_content_element " >
-                                                                    <div class="wpb_wrapper">
-                                                                        <p>Seguridad TRS se esforzará por distribuir servicios con la más alta calidad y los precios más competitivos del mercado costarricense. Las necesidades de los clientes serán satisfechas de la mejor calidad posible. Seguridad TRS buscará adquirir relaciones mutuamente gratificantes con sus clientes, socios, proveedores y empleados. Lo más importante es que todas nuestras actividades se llevarán a cabo con el más alto criterio profesional y ético.</p>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="vc_row wpb_row vc_inner vc_row-fluid">
-                                                    <div class="wpb_column vc_column_container vc_col-sm-6">
-                                                        <div class="vc_column-inner ">
-                                                            <div class="wpb_wrapper">
-                                                                <div  class="wpb_single_image wpb_content_element vc_align_left">
-                                                                    <figure class="wpb_wrapper vc_figure">
-                                                                        <div class="vc_single_image-wrapper   vc_box_border_grey">
-                                                                            <img width="532" height="340" src="assets/img/historia.jpg" class="vc_single_image-img attachment-full" alt="" srcset="assets/img/historia.jpg" sizes="(max-width: 532px) 100vw, 532px" /></div>
-                                                                    </figure>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="wpb_column vc_column_container vc_col-sm-6">
-                                                        <div class="vc_column-inner ">
-                                                            <div class="wpb_wrapper">
-                                                                <div id="ultimate-heading-45465c3a73ff67dcd" class="qtc-heading uvc-heading ult-adjust-bottom-margin ultimate-heading-45465c3a73ff67dcd uvc-1341 " data-hspacer="no_spacer"  data-halign="left" style="text-align:left">
-                                                                    <div class="uvc-heading-spacer no_spacer" style="top"></div>
-                                                                    <div class="uvc-main-heading ult-responsive"  data-ultimate-target='.uvc-heading.ultimate-heading-45465c3a73ff67dcd h2'  data-responsive-json-new='{"font-size":"desktop:44px;","line-height":"desktop:45px;"}' >
-                                                                        <h2 style="font-family:'Titillium Web';font-weight:900;color:#1b2725;margin-bottom:20px;">Nuestra historia</h2>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="wpb_text_column wpb_content_element " >
-                                                                    <div class="wpb_wrapper">
-                                                                        <p>Seguridad TRS fue fundada en 2015 y está conformada por ingenieros y representantes que desean sinceramente ayudar y brindar el mejor soporte posible cuando más se necesita y con la sincronización más precisa para todos nuestros clientes. Además, todos nuestros representantes tienen los antecedentes de la industria para ayudar a nuestros clientes a tomar la decisión correcta con respecto a la mejor tecnología del mundo hoy en día. Seguridad TRS está formada por integradores y distribuidores que están dispuestos a proporcionar una solución completa a los usuarios finales, así como a los integradores que necesitan un mayor soporte.</p>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="ult-spacer spacer-5c3a73ff67ff3" data-id="5c3a73ff67ff3" data-height="20" data-height-mobile="20" data-height-tab="20" data-height-tab-portrait="" data-height-mobile-landscape="" style="clear:both;display:block;"></div>
-                                                <div class="vc_row wpb_row vc_inner vc_row-fluid">
-                                                    <div class="wpb_column vc_column_container vc_col-sm-6">
-                                                        <div class="vc_column-inner ">
-                                                            <div class="wpb_wrapper">
-                                                                <div id="ultimate-heading-73275c3a73ff6849a" class="qtc-heading uvc-heading ult-adjust-bottom-margin ultimate-heading-73275c3a73ff6849a uvc-8621 " data-hspacer="no_spacer"  data-halign="left" style="text-align:left">
-                                                                    <div class="uvc-heading-spacer no_spacer" style="top"></div>
-                                                                    <div class="uvc-main-heading ult-responsive"  data-ultimate-target='.uvc-heading.ultimate-heading-73275c3a73ff6849a h2'  data-responsive-json-new='{"font-size":"desktop:44px;","line-height":"desktop:45px;"}' >
-                                                                        <h2 style="font-family:'Titillium Web';font-weight:900;color:#1b2725;margin-bottom:20px;">Qué nos diferencia</h2>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="wpb_text_column wpb_content_element " >
-                                                                    <div class="wpb_wrapper">
-                                                                        <p>Nuestra diferencia en comparación con la competencia es que otro de nuestros enfoques comienza principalmente con la familiarización del cliente con las marcas conocidas en los mercados; con el fin de proporcionarles una conciencia general del producto y, de este modo, agilizar su toma de decisiones con respecto a todos los requisitos de sus proyectos</p>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="wpb_column vc_column_container vc_col-sm-6">
-                                                        <div class="vc_column-inner ">
-                                                            <div class="wpb_wrapper">
-                                                                <div  class="wpb_single_image wpb_content_element vc_align_left">
-                                                                    <figure class="wpb_wrapper vc_figure">
-                                                                        <div class="vc_single_image-wrapper   vc_box_border_grey">
-                                                                            <img width="532" height="340" src="assets/img/diferencia.jpg" class="vc_single_image-img attachment-full" alt="" srcset="assets/img/diferencia.jpg" sizes="(max-width: 532px) 100vw, 532px" />
-                                                                        </div>
-                                                                    </figure>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="ult-spacer spacer-5c3a73ff69513" data-id="5c3a73ff69513" data-height="20" data-height-mobile="20" data-height-tab="20" data-height-tab-portrait="" data-height-mobile-landscape="" style="clear:both;display:block;"></div>
-                                                <div class="vc_row wpb_row vc_inner vc_row-fluid">
-                                                    <div class="wpb_column vc_column_container vc_col-sm-6">
-                                                        <div class="vc_column-inner ">
-                                                            <div class="wpb_wrapper">
-                                                                <div  class="wpb_single_image wpb_content_element vc_align_left">
-                                                                    <figure class="wpb_wrapper vc_figure">
-                                                                        <div class="vc_single_image-wrapper   vc_box_border_grey">
-                                                                            <img width="532" height="340" src="assets/img/quehacemos.jpg" class="vc_single_image-img attachment-full" alt="" srcset="assets/img/quehacemos.jpg" sizes="(max-width: 532px) 100vw, 532px" />
-                                                                        </div>
-                                                                    </figure>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>   
-                                                    <div class="wpb_column vc_column_container vc_col-sm-6">
-                                                        <div class="vc_column-inner ">
-                                                            <div class="wpb_wrapper">
-                                                                <div id="ultimate-heading-23395c3a73ff6a606" class="qtc-heading uvc-heading ult-adjust-bottom-margin ultimate-heading-23395c3a73ff6a606 uvc-3674 " data-hspacer="no_spacer"  data-halign="left" style="text-align:left">
-                                                                    <div class="uvc-heading-spacer no_spacer" style="top"></div>
-                                                                    <div class="uvc-main-heading ult-responsive"  data-ultimate-target='.uvc-heading.ultimate-heading-23395c3a73ff6a606 h2'  data-responsive-json-new='{"font-size":"desktop:44px;","line-height":"desktop:45px;"}' >
-                                                                        <h2 style="font-family:'Titillium Web';font-weight:900;color:#1b2725;margin-bottom:20px;">Lo que hacemos</h2>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="wpb_text_column wpb_content_element " >
-                                                                    <div class="wpb_wrapper">
-                                                                        <p>Los proveedores sirven a una amplia gama de clientes en nombre de los proveedores. Estos clientes varían en tamaño, desde pequeños revendedores independientes hasta grandes minoristas multinacionales, pero todos tienen el requisito común de una "ventanilla única", donde pueden obtener productos y servicios de los cientos de proveedores cuyos productos forman parte de su propia oferta. para los clientes finales.</p>
-                                                                        <p>Nuestra diferencia en comparación con la competencia es que otro de nuestros enfoques comienza principalmente con la familiarización del cliente con las marcas reconocidas en el mercado, como Axis, dLux, Alhua, Hikvision, Paradox, DSC, Provision Samsung, Pelco, Pivot3, honeywell, entre otras muchas para brindarles un conocimiento general del producto y, por lo tanto, agilizando su toma de decisiones con respecto a todos los requisitos de sus proyectos.</p>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="vc_row wpb_row vc_inner vc_row-fluid">
-                                                    <div class="wpb_column vc_column_container vc_col-sm-12">
-                                                        <div class="vc_column-inner ">
-                                                            <div class="wpb_wrapper">
-                                                                <div id="ultimate-heading-51595c3a73ff6ac35" class="qtc-heading uvc-heading ult-adjust-bottom-margin ultimate-heading-51595c3a73ff6ac35 uvc-6866 " data-hspacer="no_spacer"  data-halign="center" style="text-align:center">
-                                                                    <div class="uvc-heading-spacer no_spacer" style="top"></div>
-                                                                    <div class="uvc-main-heading ult-responsive"  data-ultimate-target='.uvc-heading.ultimate-heading-51595c3a73ff6ac35 h2'  data-responsive-json-new='{"font-size":"desktop:44px;","line-height":"desktop:45px;"}' >
-                                                                        <h2 style="font-family:'Titillium Web';font-weight:900;color:#1b2725;margin-bottom:20px;">Nuestro objetivo</h2>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="wpb_text_column wpb_content_element " >
-                                                                    <div class="wpb_wrapper">
-                                                                        <p>Nuestro objetivo es crear conciencia sobre el producto, brindar asistencia técnica rápida y también brindar a nuestros clientes una mejor comprensión de cuál será la mejor solución para sus necesidades de proyectos actuales. Invertimos todo el tiempo necesario para comprender la tecnología actual y la nueva tecnología que actualmente son creadas por nuestros fabricantes. Siempre tendemos a mantener el enfoque en nuestros clientes y enfatizar esto con todos nuestros empleados.</p>
-                                                                        <p>Estamos invirtiendo nuestros mejores esfuerzos en diferentes programas y sesiones de capacitación junto con nuestros fabricantes para ayudar a brindar el mejor conocimiento del producto posible a todos nuestros clientes.</p>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="ult-spacer spacer-5c3a73ff6ae40" data-id="5c3a73ff6ae40" data-height="20" data-height-mobile="20" data-height-tab="20" data-height-tab-portrait="" data-height-mobile-landscape="" style="clear:both;display:block;"></div>
-                                            </div>          
-                                        </div>   
-                                    </div>        
-                                </div>
-                                
-                                <div class="upb_bg_img" data-ultimate-bg="url(wp-content/uploads/2017/05/get-free-quote.jpg)" data-image-id="id^142|url^wp-content/uploads/2017/05/get-free-quote.jpg|caption^null|alt^null|title^get-free-quote|description^null" data-ultimate-bg-style="vcpb-default" data-bg-img-repeat="no-repeat" data-bg-img-size="cover" data-bg-img-position="" data-parallx_sense="30" data-bg-override="full" data-bg_img_attach="fixed" data-upb-overlay-color="" data-upb-bg-animation="" data-fadeout="" data-bg-animation="left-animation" data-bg-animation-type="h" data-animation-repeat="repeat" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false"  data-custom-vc-row=""  data-vc="5.2"  data-is_old_vc=""  data-theme-support=""   data-overlay="false" data-overlay-color="" data-overlay-pattern="" data-overlay-pattern-opacity="" data-overlay-pattern-size=""></div>
-                                </div>
-                            </div>
-                        </div>  
+                        <!-- Start Desplegar Datos Empresa -->
+                        <div class="vc_row wpb_row vc_inner vc_row-fluid" id="datos-empresa">
+                            <button type="button" class="primary-color-trs" onclick="desplegar_datos_empresa()">Desplegar datos de Empresa</button>
+                        </div><!-- End Desplegar Datos Empresa -->
                         
-                        
+                        <br><br><br> 
                     </div>
                 </div>
             </div>
@@ -443,6 +254,7 @@
 	<div style="display:none"></div>
         
         <script type='text/javascript' src='assets/js/footer-particles.js'></script>
+        <script type='text/javascript' src='assets/js/desplegar_datos.js'></script>
 	<script type='text/javascript' src='wp-content/plugins/jetpack/_inc/build/photon/photon.minb3d9.js?ver=20130122'></script>
         <script type='text/javascript' src='wp-content/plugins/email-subscribers/widget/es-widget-pageaead.js?ver=5.0.3'></script>
         <script type='text/javascript' src='site-data/s0.wp.com/wp-content/js/devicepx-jetpack2acb.js?ver=201902'></script>      
