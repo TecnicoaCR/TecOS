@@ -116,7 +116,7 @@
                         
                         <?php require_once 'assets/slider.php'; ?>
                         
-                        <!-- Nosotros -->
+                        
                         <div class="vc_row-full-width vc_clearfix"></div>
                         <div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid primary-color-trs section-counter vc_custom_1499223489092">
                             
@@ -198,6 +198,46 @@
                         <?php require_once 'assets/services.php'; ?>
                         
                         <div id="empresa"></div>
+                        <br><br><br>
+                        
+                        <div class="vc_row-full-width vc_clearfix"></div>
+                        <div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid primary-color-trs section-counter vc_custom_1499223489092">
+                            
+                            <div class="wpb_column vc_column_container vc_col-sm-12">
+                                <div class="vc_column-inner ">
+                                    <div class="wpb_wrapper">
+                                        <div counter-responsv-wrap  data-responsive-json-new='{"font-size":"desktop:14px;","line-height":"desktop:24px;"}'  class="stats-text ult-responsive" style="font-size:30px; color:#fff; font-family:&#039;Quicksand&#039;;font-weight:400;">
+                                            ¿Por qué elegir a Seguridad TRS?
+                                        </div> <br>
+                                        <div class="vc_row wpb_row vc_inner vc_row-fluid">
+                                            <ul>
+                                                <li>
+                                                    <div counter-responsv-wrap-1960  data-ultimate-target='#counter-responsv-wrap-1960 .stats-text'  data-responsive-json-new='{"font-size":"desktop:12px;","line-height":"desktop:22px;"}'  class="stats-text ult-responsive" style="font-size:15px; color:#fff; font-family:&#039;Quicksand&#039;;font-weight:300;">
+                                                        <i class="fa fa-building fa-fw"></i> Más de 15 años de experiencia en el mercado
+                                                    </div> 
+                                                </li>
+                                                <li>
+                                                    <div counter-responsv-wrap-1960  data-ultimate-target='#counter-responsv-wrap-1960 .stats-text'  data-responsive-json-new='{"font-size":"desktop:12px;","line-height":"desktop:22px;"}'  class="stats-text ult-responsive" style="font-size:15px; color:#fff; font-family:&#039;Quicksand&#039;;font-weight:300;">
+                                                        <i class="fa fa-globe fa-fw"></i> Distribuimos marcas de renombre mundial
+                                                    </div>  
+                                                <li>
+                                                    <div counter-responsv-wrap-1960  data-ultimate-target='#counter-responsv-wrap-1960 .stats-text'  data-responsive-json-new='{"font-size":"desktop:12px;","line-height":"desktop:22px;"}'  class="stats-text ult-responsive" style="font-size:15px; color:#fff; font-family:&#039;Quicksand&#039;;font-weight:300;">
+                                                        <i class="fa fa-graduation-cap fa-fw"></i> Soporte técnico de excelencia
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div counter-responsv-wrap-1960  data-ultimate-target='#counter-responsv-wrap-1960 .stats-text'  data-responsive-json-new='{"font-size":"desktop:12px;","line-height":"desktop:22px;"}'  class="stats-text ult-responsive" style="font-size:15px; color:#fff; font-family:&#039;Quicksand&#039;;font-weight:300;">
+                                                        <i class="fa fa-briefcase fa-fw"></i> Atención personalizada
+                                                    </div>
+                                                </li>
+                                            </ul>
+                                        </div>     
+                                    </div>      
+                                </div>      
+                            </div>    
+                        </div>
+                        
+                        <div class="vc_row-full-width vc_clearfix"></div>
                         <br><br><br>
                         
                         <!-- Nosotros -->
