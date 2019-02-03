@@ -10,7 +10,7 @@
                                         </span></span>
                                     </a>
                                 </li>
-                                <li id="menu-item-1383" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-645 current_page_item menu-item-1383" data-depth="0">
+                                <li id="menu-item-1400" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1400" data-depth="0">
                                     <a href="/"><span class="menu-title"><span class="title-menu">Inicio</span></span></a>
                                 </li>
                                 <li id="menu-item-1400" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1400" data-depth="0">
@@ -18,10 +18,10 @@
                                 </li>
                                 <li id="menu-item-1400" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1400" data-depth="0">
                                     <a href="/#empresa"><span class="menu-title"><span class="title-menu">Empresa</span></span></a>
-                                </li> 
-                                <li id="menu-item-1400" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1400" data-depth="0">
+                                </li>
+                                <li id="menu-item-1383" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-645 current_page_item menu-item-1383" data-depth="0">
                                     <a href="/contacto/"><span class="menu-title"><span class="title-menu">Contáctenos</span></span></a>
-                                </li> 
+                                </li>
                             </ul>
                         </nav>
                         <div class="mobile-logo">
