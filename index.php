@@ -1,294 +1,411 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="UTF-8" />
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-        <meta name="generator" content="Powered by TecnicoaCR"/>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	
+	<title>TecnicoaCR Professional Services</title>
+		
+	<!--  SEO Metatags
+	================================================== -->
+	<meta name="description" content="TecnicoaCR es un grupo de profesionales informáticos en Guanacaste que desde el 2015 ofrece servicios de desarrollo, conectividad y soporte." />
+	<meta name="keywords" content="informáticos en guanacaste, paginas web en guanacaste, diseño web profesional en nicoya, empresa diseño web en guanacaste, creacion de sitios web en guanacaste, soluciones de conectividad en guanacaste, mantenimiento de computadoras en guanacaste, tecnicoacr, nicoya" />
+	<meta property="og:title" content="Servicios Profesionales de Informática | TecnicoaCR" />
+	<meta property="og:description" content="TecnicoaCR es un grupo de profesionales informáticos en Guanacaste que desde el 2015 ofrece servicios de desarrollo, conectividad y soporte." />
+	<meta property="og:type" content="website" />
+	<meta property="og:locale" content="es" />
+	<meta property="og:url" content="index.php" />
+	<meta property="og:site_name" content="TecnicoaCR" />
+	<meta name="geo.region" content="Costa Rica" />
+	<meta name="geo.placename" content="Guanacaste" />
+	<meta name="author" content="TecnicoaCR-Team" />
+	<meta name="googlebot" content="index,follow,all" />
+	<meta name="robots" content="index,follow" />
+	<meta name="revisit-after" content="7 days" />
+	<meta name="rating" content="General" />
         
-        <!-- Start Tags -->
-        <meta property="og:type" content="website" />
-        <meta property="og:title" content="Seguridad TRS S.A" />
-        <meta property="og:keyword" content="seguridad trs, sistemas de seguridad en costa rica, guardas de seguridad en costa rica, seguridad electronica en costa rica, camaras de seguridad, seguridad fisica en costa rica, seguridad privada en costa rica"
-        <meta property="og:description" content="Seguridad TRS S.A" />
-        <meta property="og:url" content="https://www.seguridadtrscr.com/" />
-        <meta property="og:site_name" content="Seguridad TRS S.A" />
-        <meta property="og:image" content="assets/img/logos/logo.png" />
-        <meta property="og:locale" content="es_CR" />
-        <!-- End Tags -->
+        <!-- NoCopy
+	================================================== -->
+        <script src="assets/js/nocopy.js"></script>
         
-        <title>Seguridad TRS &#8211; CR S.A</title>
+	<!-- CSS styles
+	================================================== -->
+        <link rel="stylesheet" href="assets/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+        <link rel="stylesheet" href="assets/css/custom.min_v12.css">
+	
+	<!-- Google Fonts
+	================================================== -->
+	<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400" rel="stylesheet">
+		
+	<!-- Favicons 
+	================================================== -->
+        <link rel="apple-touch-icon" sizes="57x57" href="assets/img/favicon/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="assets/img/favicon/apple-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="assets/img/favicon/apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="assets/img/favicon/apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="assets/img/favicon/apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="assets/img/favicon/apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="assets/img/favicon/apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="assets/img/favicon/apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicon/apple-icon-180x180.png">
+        <link rel="icon" type="image/png" sizes="192x192" href="assets/img/favicon/android-icon-192x192.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="assets/img/favicon/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon/favicon_16x16.png">
+        <link rel="manifest" href="assets/img/favicon/manifest.json">
         
-        <!-- favicon-->
-        <link rel="shortcut icon" href="assets/img/favicon.png" type="image/png">
-        
-        <link rel="stylesheet" href="assets/css/custom.css" type="text/css">
-        <link rel="stylesheet" href="assets/css/dynamic.css" class="options-output" type="text/css">
-        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-        <link rel='stylesheet' id='wp-block-library-css'  href='wp-includes/css/dist/block-library/style.minaead.css?ver=5.0.3' type='text/css' media='all' />
-        <link rel='stylesheet' id='jetpack-email-subscribe-css'  href='wp-content/plugins/jetpack/modules/shortcodes/css/jetpack-email-subscribe5152.css?ver=1.0' type='text/css' media='all' />
-        <link rel='stylesheet' id='ultimate-headings-style-css'  href='wp-content/plugins/Ultimate_VC_Addons/assets/min-css/headings.minf28f.css?ver=3.16.12' type='text/css' media='all' />
-        <link rel='stylesheet' id='rs-plugin-settings-css'  href='wp-content/plugins/revslider/public/assets/css/settings78d9.css?ver=5.4.3.1' type='text/css' media='all' />
-        <link rel='stylesheet' id='brick-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Titillium+Web%3A200%2C200i%2C300%2C300i%2C400%2C400i%2C600%2C600i%2C700%2C700i%2C900%7CQuicksand%3A300%2C400%2C500%2C700%7CRoboto%3A100%2C100i%2C300%2C300i%2C400%2C400i%2C500%2C500i%2C700%2C700i%2C900%2C900i&amp;ver=5.0.3' type='text/css' media='all' />
-        <link rel='stylesheet' id='animate-css'  href='wp-content/themes/brick/assets/css/animateaead.css?ver=5.0.3' type='text/css' media='all' />
-        <link rel='stylesheet' id='font-awesome-css'  href='wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min5fba.css?ver=5.2' type='text/css' media='all' />
-        <link rel='stylesheet' id='slick-css'  href='wp-content/themes/brick/assets/lib/slick-master/slick/slickaead.css?ver=5.0.3' type='text/css' media='all' />
-        <link rel='stylesheet' id='normalize-css'  href='wp-content/themes/brick/assets/lib/normalizeaead.css?ver=5.0.3' type='text/css' media='all' />
-        <link rel='stylesheet' id='lightgallery-css'  href='wp-content/themes/brick/assets/lib/lightGallery/dist/css/lightgallery.minaead.css?ver=5.0.3' type='text/css' media='all' />
-        <link rel='stylesheet' id='uikit-css'  href='wp-content/themes/brick/assets/lib/uikit/css/uikit.minaead.css?ver=5.0.3' type='text/css' media='all' />
-        <link rel='stylesheet' id='uikit-sticky-css'  href='wp-content/themes/brick/assets/lib/uikit/css/components/sticky.minaead.css?ver=5.0.3' type='text/css' media='all' />
-        <link rel='stylesheet' id='uikit-slidenav-css'  href='wp-content/themes/brick/assets/lib/uikit/css/components/slidenav.minaead.css?ver=5.0.3' type='text/css' media='all' />
-        <link rel='stylesheet' id='uikit-slideshow-css'  href='wp-content/themes/brick/assets/lib/uikit/css/components/slideshow.minaead.css?ver=5.0.3' type='text/css' media='all' />
-        <link rel='stylesheet' id='uikit-dotnav-css'  href='wp-content/themes/brick/assets/lib/uikit/css/components/dotnav.minaead.css?ver=5.0.3' type='text/css' media='all' />
-        <link rel='stylesheet' id='uikit-slider-css'  href='wp-content/themes/brick/assets/lib/uikit/css/components/slider.minaead.css?ver=5.0.3' type='text/css' media='all' />
-        <link rel='stylesheet' id='fotorama-css'  href='wp-content/themes/brick/assets/lib/fotorama-4.6.4/fotoramaaead.css?ver=5.0.3' type='text/css' media='all' />
-        <link rel='stylesheet' id='brick-core-css'  href='wp-content/themes/brick/assets/css/brick-coreaead.css?ver=5.0.3' type='text/css' media='all' />
-        <link rel='stylesheet' id='brick-main-css'  href='wp-content/themes/brick/assets/css/mainaead.css?ver=5.0.3' type='text/css' media='all' />
-        <link rel='stylesheet' id='js_composer_front-css'  href='wp-content/plugins/js_composer/assets/css/js_composer.min5fba.css?ver=5.2' type='text/css' media='all' />
-        <link rel='stylesheet' id='bsf-Defaults-css'  href='wp-content/uploads/smile_fonts/Defaults/Defaultsaead.css?ver=5.0.3' type='text/css' media='all' />
-        <link rel='stylesheet' id='ultimate-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Quicksand:regular,300|Titillium+Web:regular,900,700,600|Roboto:regular,500' type='text/css' media='all' />
-        <link rel='stylesheet' id='ultimate-style-css'  href='wp-content/plugins/Ultimate_VC_Addons/assets/min-css/style.minf28f.css?ver=3.16.12' type='text/css' media='all' />
-        <link rel='stylesheet' id='ultimate-animate-css'  href='wp-content/plugins/Ultimate_VC_Addons/assets/min-css/animate.minf28f.css?ver=3.16.12' type='text/css' media='all' />
-        <link rel='stylesheet' id='ult-flip-style-css'  href='wp-content/plugins/Ultimate_VC_Addons/assets/min-css/flip-box.minf28f.css?ver=3.16.12' type='text/css' media='all' />
-        <link rel='stylesheet' id='info-box-style-css'  href='wp-content/plugins/Ultimate_VC_Addons/assets/min-css/info-box.minf28f.css?ver=3.16.12' type='text/css' media='' />
-        <link rel='stylesheet' id='ult-stats-counter-style-css'  href='wp-content/plugins/Ultimate_VC_Addons/assets/min-css/stats-counter.minf28f.css?ver=3.16.12' type='text/css' media='all' />
-        <link rel='stylesheet' id='redux-google-fonts-brick_smof_data-css'  href='https://fonts.googleapis.com/css?family=Titillium+Web%3A200%2C300%2C400%2C600%2C700%2C900%2C200italic%2C300italic%2C400italic%2C600italic%2C700italic&amp;ver=1508607447' type='text/css' media='all' />
-        <link rel='stylesheet' id='jetpack_css-css'  href='wp-content/plugins/jetpack/css/jetpackd4d0.css?ver=6.9' type='text/css' media='all' />
-        
-        
-        <script type='text/javascript' src='wp-includes/js/jquery/jqueryb8ff.js?ver=1.12.4'></script>
-        <script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min330a.js?ver=1.4.1'></script>
-        <script type='text/javascript' src='wp-content/plugins/Ultimate_VC_Addons/assets/min-js/headings.minf28f.js?ver=3.16.12'></script>
-        <script type='text/javascript' src='wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min78d9.js?ver=5.4.3.1'></script>
-        <script type='text/javascript' src='wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min78d9.js?ver=5.4.3.1'></script>
-        <script type='text/javascript' src='wp-content/themes/brick/assets/lib/hoverdir/modernizr.custom.97074aead.js?ver=5.0.3'></script>
-        <script type='text/javascript' src='wp-content/plugins/Ultimate_VC_Addons/assets/min-js/ultimate-params.minf28f.js?ver=3.16.12'></script>
-        <script type='text/javascript' src='wp-content/plugins/Ultimate_VC_Addons/assets/min-js/jquery-appear.minf28f.js?ver=3.16.12'></script>
-        <script type='text/javascript' src='wp-content/plugins/Ultimate_VC_Addons/assets/min-js/custom.minf28f.js?ver=3.16.12'></script>
-        <script type='text/javascript' src='wp-content/plugins/Ultimate_VC_Addons/assets/min-js/countUp.minf28f.js?ver=3.16.12'></script>
+        <meta name="msapplication-TileColor" content="#ffffff">
+        <meta name="msapplication-TileImage" content="assets/img/favicon/ms-icon-144x144.png">
+        <meta name="theme-color" content="#ffffff">
 
-        <script type="text/javascript">function setREVStartSize(e){
-            try{ var i=jQuery(window).width(),t=999,r=0,n=0,l=0,f=0,s=0,h=0;	
-                if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
-            }catch(d){console.log("Failure at Presize of Slider:"+d)}
-            };
+	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+		
+	<link rel="canonical" href="/" />
+	<link rel="alternate" hreflang="en" href="en/" />
+
+        <!-- Google AdSense
+	================================================== -->
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({
+              google_ad_client: "ca-pub-7341472316576010",
+              enable_page_level_ads: true
+            });
         </script>
-
-        <style type="text/css" data-type="vc_shortcodes-custom-css">
-            .vc_custom_1499223489092{padding-top: 52px !important;padding-bottom: 10px !important;}
-            .vc_custom_1501647372720{padding-top: 10% !important;padding-bottom: 8% !important;background-color: rgb(0, 57, 110) !important;}
-            .vc_custom_1501640405821{padding-top: 8% !important;}
-        </style>
         
-        <noscript>
-            <style type="text/css"> 
-                .wpb_animate_when_almost_visible { opacity: 1; }
-            </style>
-        </noscript>
     </head>
-    <body class="home page-template-default page page-id-645 woocommerce-no-js brick-body brick-sticky wpb-js-composer js-comp-ver-5.2 vc_responsive" >         
-        <div id="wrapper">
-            <!-- BEGIN HEADER -->
-            <header class="header-v1" data-uk-sticky="{top: -500, animation: 'uk-animation-slide-top'}">
-                <!-- Navbar -->
-                <?php require_once 'assets/nav.php'; ?>
-            </header>         
-            <!--END BEGIN HEADER -->
-            <div class="uk-container uk-container-center">
-                <div class="uk-grid ">
-                    <div id="main-content" class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1 uk-width-1-1 brick-content page-content ">
-                        <?php require_once 'assets/slider.php'; ?>
-                        <div class="vc_row-full-width vc_clearfix"></div>
-                        <div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid primary-color-trs section-counter vc_custom_1499223489092">
-                            <div class="wpb_column vc_column_container vc_col-sm-12">
-                                <div class="vc_column-inner ">
-                                    <div class="wpb_wrapper">
-                                        <div class="vc_row wpb_row vc_inner vc_row-fluid">
-                                            <div class="wpb_column vc_column_container vc_col-sm-3">
-                                                <div class="vc_column-inner ">
-                                                    <div class="wpb_wrapper">
-                                                        <div class="stats-block stats-top  ">
-                                                            <div class="aio-icon-top">
-                                                                <div class="ult-just-icon-wrapper  ">
-                                                                    <div class="align-icon" style="text-align:center;"></div>                                                                               
-                                                                </div>                                                                   
-                                                            </div>
-                                                            <div class="stats-desc" id="counter-responsv-wrap-3290">
-                                                                <div id="counter_18222090125c3a73dbf1761" data-id="counter_18222090125c3a73dbf1761"  data-ultimate-target='#counter-responsv-wrap-3290 .stats-number'  data-responsive-json-new='{"font-size":"desktop:48px;","line-height":"desktop:45px;"}'  class="stats-number ult-responsive" style=" color:#000; font-family:&#039;Titillium Web&#039;;font-weight:900;color:#1b2725;" data-speed="3" data-counter-value="52" data-separator="none" data-decimal="none">
-                                                                    0
-                                                                </div>
-                                                                <div counter-responsv-wrap-3290  data-ultimate-target='#counter-responsv-wrap-3290 .stats-text'  data-responsive-json-new='{"font-size":"desktop:16px;","line-height":"desktop:26px;"}'  class="stats-text ult-responsive" style="font-size:25px; color:#fff; font-family:&#039;Quicksand&#039;;font-weight:300;">
-                                                                    Clientes satisfechos
-                                                                </div>  
-                                                            </div>  
-                                                        </div>            
-                                                    </div>       
-                                                </div>
-                                            </div>
-                                            <div class="wpb_column vc_column_container vc_col-sm-3">
-                                                <div class="vc_column-inner "><div class="wpb_wrapper">
-                                                        <div class="stats-block stats-top  ">
-                                                            <div class="aio-icon-top">
-                                                                <div class="ult-just-icon-wrapper  ">
-                                                                    <div class="align-icon" style="text-align:center;"></div>       
-                                                                </div>   
-                                                            </div>
-                                                            <div class="stats-desc" id="counter-responsv-wrap-5264">
-                                                                <div id="counter_2654972865c3a73dbf1b7a" data-id="counter_2654972865c3a73dbf1b7a"  data-ultimate-target='#counter-responsv-wrap-5264 .stats-number'  data-responsive-json-new='{"font-size":"desktop:48px;","line-height":"desktop:45px;"}'  class="stats-number ult-responsive" style=" color:#000; font-family:&#039;Titillium Web&#039;;font-weight:900;color:#1b2725;" data-speed="3" data-counter-value="104" data-separator="none" data-decimal="none">
-                                                                    0
-                                                                </div>
-                                                                <div counter-responsv-wrap-5264  data-ultimate-target='#counter-responsv-wrap-5264 .stats-text'  data-responsive-json-new='{"font-size":"desktop:16px;","line-height":"desktop:26px;"}'  class="stats-text ult-responsive" style="font-size:24px; color:#fff; font-family:&#039;Quicksand&#039;;font-weight:300;">
-                                                                    Proyectos Completados
-                                                                </div>     
-                                                            </div>         
-                                                        </div>        
-                                                    </div>        
-                                                </div>        
-                                            </div>
-                                            <div class="wpb_column vc_column_container vc_col-sm-3">
-                                                <div class="vc_column-inner ">
-                                                    <div class="wpb_wrapper">
-                                                        <div class="stats-block stats-top  ">
-                                                            <div class="aio-icon-top">
-                                                                <div class="ult-just-icon-wrapper  ">
-                                                                    <div class="align-icon" style="text-align:center;"></div>        
-                                                                </div>   
-                                                            </div>
-                                                            <div class="stats-desc" id="counter-responsv-wrap-1960">
-                                                                <div id="counter_13186915795c3a73dbf1f67" data-id="counter_13186915795c3a73dbf1f67"  data-ultimate-target='#counter-responsv-wrap-1960 .stats-number'  data-responsive-json-new='{"font-size":"desktop:48px;","line-height":"desktop:45px;"}'  class="stats-number ult-responsive" style=" color:#000; font-family:&#039;Titillium Web&#039;;font-weight:900;color:#1b2725;" data-speed="3" data-counter-value="15+" data-separator="none" data-decimal="none">
-                                                                    0
-                                                                </div>
-                                                                <div counter-responsv-wrap-1960  data-ultimate-target='#counter-responsv-wrap-1960 .stats-text'  data-responsive-json-new='{"font-size":"desktop:16px;","line-height":"desktop:26px;"}'  class="stats-text ult-responsive" style="font-size:25px; color:#fff; font-family:&#039;Quicksand&#039;;font-weight:300;">
-                                                                    Años de experiencia
-                                                                </div>      
-                                                            </div>      
-                                                        </div>  
-                                                    </div>    
-                                                </div>     
-                                            </div>
-                                          
-                                        </div>     
-                                    </div>      
-                                </div>      
-                            </div>    
-                        </div>
-                        <div class="vc_row-full-width vc_clearfix"></div>
-                              
-                        <!-- Servicios -->
-                        <?php require_once 'assets/services.php'; ?>
-                        
-                        <div id="empresa"></div>
-                        <br><br><br>
-                        
-                        <div class="vc_row-full-width vc_clearfix"></div>
-                        <div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid primary-color-trs section-counter vc_custom_1499223489092">
-                            <div class="wpb_column vc_column_container vc_col-sm-12">
-                                <div class="vc_column-inner ">
-                                    <div class="wpb_wrapper">
-                                        <div counter-responsv-wrap  data-responsive-json-new='{"font-size":"desktop:14px;","line-height":"desktop:24px;"}'  class="stats-text ult-responsive" style="font-size:30px; color:#fff; font-family:&#039;Quicksand&#039;;font-weight:400;">
-                                            ¿Por qué elegir a Seguridad TRS?
-                                        </div> <br>
-                                        <div class="vc_row wpb_row vc_inner vc_row-fluid">
-                                            <ul>
-                                                <li>
-                                                    <div counter-responsv-wrap-1960  data-ultimate-target='#counter-responsv-wrap-1960 .stats-text'  data-responsive-json-new='{"font-size":"desktop:12px;","line-height":"desktop:22px;"}'  class="stats-text ult-responsive" style="font-size:15px; color:#fff; font-family:&#039;Quicksand&#039;;font-weight:300;">
-                                                        <i class="fa fa-building fa-fw"></i> Más de 15 años de experiencia en el mercado costarricence
-                                                    </div> 
-                                                </li>
-                                                <li>
-                                                    <div counter-responsv-wrap-1960  data-ultimate-target='#counter-responsv-wrap-1960 .stats-text'  data-responsive-json-new='{"font-size":"desktop:12px;","line-height":"desktop:22px;"}'  class="stats-text ult-responsive" style="font-size:15px; color:#fff; font-family:&#039;Quicksand&#039;;font-weight:300;">
-                                                        <i class="fa fa-globe fa-fw"></i> Ofrecemos productos de marcas de renombre mundial
-                                                    </div>  
-                                                <li>
-                                                    <div counter-responsv-wrap-1960  data-ultimate-target='#counter-responsv-wrap-1960 .stats-text'  data-responsive-json-new='{"font-size":"desktop:12px;","line-height":"desktop:22px;"}'  class="stats-text ult-responsive" style="font-size:15px; color:#fff; font-family:&#039;Quicksand&#039;;font-weight:300;">
-                                                        <i class="fa fa-graduation-cap fa-fw"></i> Soporte técnico de excelencia
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div counter-responsv-wrap-1960  data-ultimate-target='#counter-responsv-wrap-1960 .stats-text'  data-responsive-json-new='{"font-size":"desktop:12px;","line-height":"desktop:22px;"}'  class="stats-text ult-responsive" style="font-size:15px; color:#fff; font-family:&#039;Quicksand&#039;;font-weight:300;">
-                                                        <i class="fa fa-briefcase fa-fw"></i> Atención personalizada
-                                                    </div>
-                                                </li>
-                                            </ul>
-                                        </div>     
-                                    </div>      
-                                </div>      
-                            </div>    
-                        </div>
-                        <div class="vc_row-full-width vc_clearfix"></div>
-                        <br><br><br>
-                        
-                        <!-- Nosotros -->
-                        <div class="wpb_column vc_column_container vc_col-sm-12">
-                            <div class="vc_column-inner ">
-                                <div class="wpb_wrapper">
-                                    <div id="ultimate-heading-74405c3a73ff661b4" class="qtc-heading uvc-heading ult-adjust-bottom-margin ultimate-heading-74405c3a73ff661b4 uvc-3602 " data-hspacer="no_spacer"  data-halign="center" style="text-align:center">
-                                        <div class="uvc-heading-spacer no_spacer" style="top"></div>
-                                        <div class="uvc-main-heading ult-responsive"  data-ultimate-target='.uvc-heading.ultimate-heading-74405c3a73ff661b4 h2'  data-responsive-json-new='{"font-size":"desktop:44px;","line-height":"desktop:45px;"}' >
-                                            <h2 style="font-family:'Titillium Web';font-weight:900;color:#1b2725;margin-bottom:20px;">Sobre Nosotros</h2>
-                                        </div>
-                                    </div>                   
+    <body>
+	<!-- Header
+	================================================== -->
+	<header id="header">	
+            <?php include 'assets/nav.php'; ?>
+	</header>
+	
+	<!-- Content
+	================================================== -->
+	<main>		
+            <!-- hero
+            ================================================== -->
+            <div class="hero hero-1">
+		<div class="container">
+                    <div class="hero-message">
+			<div class="row">
+                            <div class="col-md-12 col-lg-7 col-xl-7 pb-5">
+                                <h1>Servicios <strong><span class="tecnicoa">Profesionales</span> de <span class="CR">Informática</span></strong> en <span style="color:green;">Guanacaste</span></h1>
+							<p><strong><span class="tecnicoa">Tecnicoa</span><span class="CR">CR</span>&reg;</strong> es un grupo de profesionales informáticos en Guanacaste que desde el 2015 ofrece servicios de <strong>desarrollo, conectividad y soporte</strong>.</p>
+							<div class="row">
+                                                            <div class="col-12 col-sm-6 col-xl-5" id="more">
+									<a class="btn-cta btn-cta-orange" href="#planes"><i class="far fa-chevron-circle-right"></i> Ver planes de Servicio</a>
+								</div>
+								<div class="col-12 col-sm-6 col-xl-5" id="more">
+									<a class="btn-cta btn-cta-orange-outline" href="#next"><i class="fal fa-chevron-circle-down"></i> Conozca lo que hacemos</a>
+								</div>
+							</div>
+						</div>
+						
+						<!--<div class="col-md-12 col-lg-5 col-xl-5 pb-5">
+							<div class="oferta">
+								<h2><strong>¡Hola!</strong></h2>
+								<p>En este 2019, queremos darle a <strong>Usted</strong> un descuento de un</p>
+								<p class="oferta-perc">10%</p>
+								<p>en el costo mensual del primer año de su primer servicio. Solamente contáctenos y en su mensaje indique <strong>PROMO420-2019</strong>. Así de fácil!</p>
+								<div class="text-center">
+									<a class="btn-cta btn-cta-blue" href="contacto.php"><i class="far fa-chevron-circle-right"></i> Contactar ahora</a>
+								</div>
+								<p class="small">Oferta válida hasta el 31 de enero del 2019</p>
+							</div>
+						</div>-->
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<!-- Nosotros
+		================================================== -->
+                <div class="section-b" id="nosotros">
+			<div class="section-white-wave">
+				<div class="container">
+					<h2 class="h1 text-center text-white" id="next">Atendemos su  <span class="text-teal-lighter"><strong>Consulta</strong></span> y Asesoramos su <span class="text-teal-lighter"><strong>Desarrollo</strong></span> </h2>
+					<div class="row justify-content-center">
+						<div class="col-md-10 col-lg-7 lead">
+                                                    <p>TecnicoaCR Professional Services, cuyo objetivo es dar soluciones en desarrollo web y diseño gráfico, redes y conectividad, soporte técnico, capacitaciones y seguridad electrónica basados en la puntualidad y atención, diseñados para asegurar atención de los riesgos y optimización de los procesos.</p>
+							<p>Nuestros servicios estas enfocados a impulsar a pequeñas y medianas empresas (PyMEs). Usted necesita un servicio que no solo sea moderno, sino que esté creado con una estrategia para aumentar los clientes potenciales y las ventas, y esencialmente hacer crecer su negocio.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+                    
+                    <!-- Servicios
+		================================================== -->
+		<div id="services" class="container section-y">		
+                    <h2 class="h1 text-center pb-1"><strong><span class="tecnicoa">Tecnicoa</span></strong><strong><span class="CR"> CR</span></strong> Professional Services</h2>
+			<div class="row justify-content-center">
+                            <div class="col-md-12 col-lg-8">
+                                <div class="pb-5">
+                                    <p class="lead text-center pb-3">¡Nosotros sí somos Pura Vida! y por eso queremos contarte un poquito acerca de nuestros servicios.</p>
                                 </div>
                             </div>
+			</div>
+                    
+                    <div class="container" >
+				<div class="row justify-content-center">
+					<div  class="col-md-6 col-lg-4 d-flex align-items-stretch wow zoomIn mb-2" data-wow-duration="1500ms" data-wow-delay="100ms">
+						<div class="shadow-d-sm shadow-box rounded-br mb-5">
+							<div class="thumb">
+								<h3 class="text-center mb-4">Experiencia</h3>
+                                                                <img src="assets/img/content/experiencia-tecnicoacr.jpg" alt="Experiencia en soporte informático en Guanacaste" width="480" height="360" class="img-fluid d-block mx-auto mb-4 rounded-br" title="Experiencia en soporte informático en Costa Rica">
+							</div>
+							<div class="text-justify">
+								<p><strong><span class="tecnicoa">Tecnicoa </span><span class="CR">CR</span>&reg;</strong> ofrece desde el 2015  <a>planes de soporte informático en Guanacaste</a> que se ajustan a las necesidades de nuestros clientes.</p>
+                                                                <p>Conozca más sobre <a href="nosotros.php">nosotros</a>.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-6 col-lg-4 d-flex align-items-stretch wow zoomIn mb-2" data-wow-duration="2000ms" data-wow-delay="200ms">
+						<div class="shadow-d-sm shadow-box rounded-br mb-5">
+							<div class="thumb">
+								<h3 class="text-center mb-4">Eficiencia</h3>
+                                                                <img src="assets/img/content/eficiencia-tecnicoacr.jpg" alt="Eficiencia en soporte informático en Guanacaste" width="480" height="360" class="img-fluid d-block mx-auto mb-4 rounded-br" title="Eficiencia en soporte informático en Costa Rica">
+							</div>
+							<div class="text-justify">
+								<p>Mediante los procesos de mejora continua, <strong><span class="tecnicoa">Tecnicoa </span><span class="CR">CR</span>&reg;</strong> ha logrado ser más eficiente en el <a>proceso de soporte informático en Guanacaste</a>.</p>
+                                                                <p>Esto se traduce en un menor costo de nuestros servicios reflejados en los <a href="#planes">Planes de Servicio</a>.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-6 col-lg-4 d-flex align-items-stretch wow zoomIn mb-2" data-wow-duration="2500ms" data-wow-delay="300ms">
+						<div class="shadow-d-sm shadow-box rounded-br mb-5">
+							<div class="thumb">
+								<h3 class="text-center mb-4">Asesoramiento</h3>
+                                                                <img src="assets/img/content/asesoramiento-tecnicoacr.jpg" alt="Asesoramiento en soporte informático en Guanacaste" width="480" height="360" class="img-fluid d-block mx-auto mb-4 rounded-br" title="Asesoramiento en soporte informático">
+							</div>
+							<div class="text-justify">
+                                                            <p>En <strong><span class="tecnicoa">Tecnicoa </span><span class="CR">CR</span>&reg;</strong> le asesoramos paso a paso para optimice y hága crecer su negocio tecnologicamente. ¡Pregunte a <a href="clientes.php">nuestros clientes</a> sobre nuestro trabajo!</p>
+								<p>O visite nuestra <a href="https://facebook.com/tecnicoacr">FanPage en Facebook</a>.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="row" style="margin-bottom:  -150px;">
+				<div class="col-md-12 col-lg-6 mb-5 d-flex align-items-stretch">
+					<div class="shadow-d-sm bg-white rounded-br p-3 border-t-10 border-blue">
+						<div class="media">
+                                                    <img src="assets/img/content/desarrollo-software-tecnicoacr.jpg" alt="Desarrollo de Software - TecnicoaCR" width="200" height="200" class="mr-3 img-thumbnail">
+							<div class="media-body">
+								<h4 class="mt-0 mb-1">Desarrollo de Software</h4>
+								<p>Diseño, actualización y mantenimiento de Paginas Web Dinamicas, Aplicaciones Web y Moviles.</p>
+							</div>
+						</div>
+						
+					</div>
+				</div>
+						
+				<div class="col-md-12 col-lg-6 mb-5 d-flex align-items-stretch">
+					<div class="shadow-d-sm bg-white rounded-br p-3 border-t-10 border-blue">
+						<div class="media">
+                                                    <img src="assets/img/content/conectividad-redes-tecnicoacr.jpg" alt="Conectividad y Redes - TecnicoaCR" width="200" height="200" class="mr-3 img-thumbnail">
+							<div class="media-body">
+								<h4 class="mt-0 mb-1">Conectividad y Redes</h4>
+								<p>Cableado Estruturado, Routing & Switching, Enlaces Inalambricos y conexiones PTP.</p>
+							</div>
+						</div>
+						
+					</div>
+				</div>
+
+				<div class="col-md-12 col-lg-6 mb-5 d-flex align-items-stretch">
+					<div class="shadow-d-sm bg-white rounded-br p-3 border-t-10 border-blue">
+						<div class="media">
+                                                    <img src="assets/img/content/soporte-tecnico-tecnicoacr.jpg" alt="Soporte Técnico - TecnicoaCR" width="200" height="200" class="mr-3 img-thumbnail">
+							<div class="media-body">
+								<h4 class="mt-0 mb-1">Soporte Técnico</h4>
+								<p>Instalación de equípos informáticos. Mantenimiento preventivo y correctivo de computadores.</p>
+							</div>
+						</div>
+						
+					</div>
+				</div>
+						
+				<div class="col-md-12 col-lg-6 mb-5 d-flex align-items-stretch">
+					<div class="shadow-d-sm bg-white rounded-br p-3 border-t-10 border-blue">
+						<div class="media">
+                                                    <img src="assets/img/content/marketing-digital-tecnicoacr.jpg" alt="Marketing Digital TecnicoaCR" width="200" height="200" class="mr-3 img-thumbnail">
+							<div class="media-body">
+								<h4 class="mt-0 mb-1">Marketing Digital</h4>
+								<p>Imagen de la empresa, posicionamiento SEO y SEM, publicidad y diseño grafico.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>		
+                    </div>	
+		</div>
+               
+		
+		<!-- Acerca de Planes de Servicio TecnicoaCR
+		================================================== -->
+                <div class="section-blue" >
+                    <div class="container" style="margin-bottom: -75px;">
+                        <div class="row">
+                            <div class="col-md-12 col-lg-6 mb-3" >
+                                    <h2 class="h1 text-align pb-3">Acerca de: <strong>Planes de Servicio</strong></h2>
+                                    <div class="text-justify">
+                                        <p>Implementando un <strong>Plan de Mejora Continua</strong> que nos ha permitido eliminar ineficiencias en los procesos de nuestros <strong>servicios informáticos</strong>.</p>
+                                        <p>No solo hemos logrado ser mucho más eficientes, sino que también han mejorado la calidad, la funcionalidad y el <strong>cumplimiento de estándares de calidad</strong> en todos nuestros servicios.</p>
+                                        <p>Al final, estas mejoras en nuestros servicios benefician directamente a nuestro clientes, pues al eliminar ineficiencias, nuestros costos por servicio bajan y trasladamos esos ahorros a los precios en nuestros planes de servicios.</p>
+                                        <p>Ofrecemos nuestros <a>planes de servicio informático</a> desde <strong>US$25 mensuales</strong>.</p>
+                                    </div>
+                            </div>
+                            <div class="col-md-12 col-lg-6 wow zoomIn" data-wow-duration="1500ms" data-wow-delay="50ms">
+                                <img src="assets/img/content/acerca-planes-servicio-tecnicoacr.png" alt="Acerca de planes de servicio TecnicoaCR" width="640" height="400" class="d-block img-fluid mx-auto mt-5" title="Precios de soporte informático">
+                            </div>
                         </div>
-                        
-                        <!-- Start Desplegar Datos Empresa -->
-                        <div class="vc_row wpb_row vc_inner vc_row-fluid" id="datos-empresa">
-                            <button type="button" class="primary-color-trs" onclick="desplegar_datos_empresa()">Desplegar datos de Empresa</button>
-                        </div><!-- End Desplegar Datos Empresa -->
-                        
-                        <br><br><br> 
                     </div>
+		</div>
+                
+                <div class="section-b" id="planes" ></div>
+		
+		<!-- plans
+		================================================== -->
+                <div class="container section-b" >
+                    <h2 class="h1 text-center pb-1">Planes de <strong><span class="tecnicoa">Servicio</span> <span class="CR">Informático</span></strong></h2>
+                    <div class="row justify-content-center" style="margin-top: -10px;">
+                            <div class="col-md-12 col-lg-8 pb-4" style="margin-bottom: -20px;">
+                                <p class="lead" style="text-align:center">Seleccione el plan que mejor se adapte a sus necesidades.</p>
+                            </div>
+                    </div>
+			<div class="shadow-d-md bg-white border-t-10 border-blue rounded-br-lg">
+                            <div class="card-columns mb-3 text-center plans" style="margin-top: -30px">
+                                <!-- Cheap -->
+                                    <div class="card mb-4 shadow-sm mx-auto">
+                                        <div class="card-header">
+                                            <h4><strong><span class="pyme"><i class="fal fa-book pyme"></i> PYME</span> </strong></h4>
+                                        </div>
+						<div class="card-body">
+							<p class="card-title pricing-card-title">$24.99<small class="text-muted"> / mes</small></p>
+							<ul class="list-unstyled mt-3 mb-4" >
+                                                            <li>Diseño de Pagina Web</li>
+                                                            <li>Dominio (.com)</li>
+                                                            <li>Alojamiento Web</li>
+                                                            <li>Sitio Web Responsive</li>
+                                                            <li>Integración a Redes Sociales</li>
+                                                            <li>Ubicación en Google Maps</li>
+                                                            <li>Formulario de Contacto</li>
+                                                            <li>1 actualización mensual</li>                                                            
+							</ul>
+                                                        <a class="btn-cta btn-cta-orange" style="background: darkorange" href="planes_de_servicio/dev_pyme/"><i class="far fa-chevron-circle-right"></i> Ver Plan <strong>PYME <i class="fal fa-book"></i></strong></a>
+                                                        
+                                                </div>
+					</div>
+					
+					<!-- Plan ProWeb -->
+					<div class="card mb-4 shadow-sm">
+						<div class="card-header">
+							<h4><strong><span class="pro"><i class="fal fa-coffee fa-fw pro"></i> PRO</span></strong></h4>
+						</div>
+						<div class="card-body" >
+							<p class="card-title pricing-card-title">$ 44.99 <small class="text-muted"> / mes</small></p>
+							<ul class="list-unstyled mt-3 mb-4">
+                                                            <li>Diseño de Pagina Web</li>
+                                                            <li>Dominio (.com .net .org .cr)</li>
+                                                            <li>Alojamiento Web</li>
+                                                            <li>Sitio Web Responsive</li>
+                                                            <li>Integración a Redes Sociales</li>
+                                                            <li>Chat Online (PC/Android/iOS)</li>
+                                                            <li>Secciones Personalizadas</li>
+                                                            <li>Ubicación en Google Maps</li>
+                                                            <li>Formulario de Contacto</li>
+                                                            <li>2 actualizaciones mensuales</li>
+							</ul>
+                                                        <a class="btn-cta btn-cta-red" style="background: crimson" href="planes_de_servicio/dev_pro/"><i class="far fa-chevron-circle-right"></i> Ver Plan <strong>PRO <i class="fal fa-coffee fa-fw"></i></strong></a>
+                                                        
+                                                </div>
+					</div>
+					
+					<!-- Plan Soporte -->
+					<div class="card mb-4 shadow-sm">
+						<div class="card-header">
+							<h4><strong><span class="plus"><i class="fal fa-code fa-fw plus"></i> PLUS</span></strong></h4>
+						</div>
+						<div class="card-body" >
+							<p class="card-title pricing-card-title">$ 72.99 <small class="text-muted"> / mes</small></p>
+							<ul class="list-unstyled mt-3 mb-4">
+                                                            <li>Diseño de Pagina Web</li>
+                                                            <li>Dominio (.com .net .org .cr)</li>
+                                                            <li>Alojamiento Web</li>
+                                                            <li>Certificado de Seguridad SSL</li>
+                                                            <li>Sitio Web Responsive</li>
+                                                            <li>Integración a Redes Sociales</li>
+                                                            <li>Chat Online (PC/Android/iOS)</li>
+                                                            <li>Secciones Personalizadas</li>
+                                                            <li>Ubicación en Google Maps</li>
+                                                            <li>Formulario de Contacto</li>
+                                                            <li>4 actualizaciones mensuales</li>    
+							</ul>
+                                                        <a class="btn-cta btn-cta-blue" style="background: darkorchid" href="planes_de_servicio/dev_plus/"><i class="far fa-chevron-circle-right"></i> Ver Plan <strong>PLUS <i class="fal fa-code fa-fw"></i></strong></a>
+                                                </div></div>
+					
+					<!-- Plan Social -->
+					<div class="card mb-4 shadow-sm">
+						<div class="card-header">
+							<h4><strong><span class="social"><i class="fal fa-globe fa-fw social"></i> SOCIAL</span></strong></h4>
+						</div>
+						<div class="card-body" >
+							<p class="card-title pricing-card-title">$ 32.99 <small class="text-muted"> / mes</small></p>
+							<ul class="list-unstyled mt-3 mb-4">
+                                                            <li>Creación ó actualización de perfiles sociales</li>
+                                                            <li>Diseño de logo para perfil social (opcional)</li>
+                                                            <li>Publicidad (opcional)</li>
+                                                            <li>2 publicaciones mensuales sobre productos</li>
+                                                            <li>Rendimiento y estadísticas de alcance</li>
+                                                            <li>3 dias continuos por semana de publicidad sobre productos</li>   
+							</ul>
+                                                        <a class="btn-cta btn-cta-orange" style="background: #090" href="planes_de_servicio/mkt_social/"><i class="far fa-chevron-circle-right"></i> Ver Plan <strong>SOCIAL <i class="fal fa-globe fa-fw"></i></strong></a>
+                                                </div>
+					</div>
+				</div>
+			</div>	
                 </div>
-            </div>
-        </div>
-    </div>
-</div>
-        </div>
-        
-        <!-- Footer -->
-        <?php require_once 'assets/footer.php'; ?>
+	</main>
+	
+	<!-- Footer
+	================================================== -->
+	<footer class="footer">
+            <?php include 'assets/footer.php';?>
+	</footer>
 
-        </div> <!--end #wrapper -->
-	<div style="display:none"></div>
-        
-        <script type='text/javascript' src='assets/js/footer-particles.js'></script>
-        <script type='text/javascript' src='assets/js/desplegar_datos.js'></script>
-	<script type='text/javascript' src='wp-content/plugins/jetpack/_inc/build/photon/photon.minb3d9.js?ver=20130122'></script>
-        <script type='text/javascript' src='wp-content/plugins/email-subscribers/widget/es-widget-pageaead.js?ver=5.0.3'></script>
-        <script type='text/javascript' src='site-data/s0.wp.com/wp-content/js/devicepx-jetpack2acb.js?ver=201902'></script>      
+	<!-- Scripts
+	================================================== -->
+        <script src="assets/js/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+        <script src="assets/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+        <script src="assets/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
 
-        <script type='text/javascript'>
-            jQuery( 'body' ).bind( 'wc_fragments_refreshed', function() {
-                    jQuery( 'body' ).trigger( 'jetpack-lazy-images-load' );
-            } );
-        </script>
-        
-        <script type='text/javascript' src='wp-includes/js/comment-reply.minaead.js?ver=5.0.3'></script>
-        <script type='text/javascript' src='wp-content/themes/brick/assets/js/smoothscrollaead.js?ver=5.0.3'></script>
-        <script type='text/javascript' src='wp-content/themes/brick/assets/js/ultimate.minaead.js?ver=5.0.3'></script>
-        <script type='text/javascript' src='wp-content/themes/brick/assets/lib/hoverdir/jquery.hoverdiraead.js?ver=5.0.3'></script>
-        <script type='text/javascript' src='wp-content/themes/brick/assets/lib/jquery-waypoints/2.0.3/waypoints.minaead.js?ver=5.0.3'></script>
-        <script type='text/javascript' src='wp-content/themes/brick/assets/lib/particles/particles.minaead.js?ver=5.0.3'></script>
-        <script type='text/javascript' src='wp-content/themes/brick/assets/lib/lightGallery/dist/js/lightgallery-all.minaead.js?ver=5.0.3'></script>
-        <script type='text/javascript' src='wp-content/themes/brick/assets/lib/lightGallery/dist/js/jquery.mousewheel.minaead.js?ver=5.0.3'></script>
-        <script type='text/javascript' src='wp-content/themes/brick/assets/js/isotope.pkgd.minaead.js?ver=5.0.3'></script>
-        <script type='text/javascript' src='wp-content/themes/brick/assets/js/ajax_load_portfolioaead.js?ver=5.0.3'></script>
-        <script type='text/javascript' src='wp-content/themes/brick/assets/lib/uikit/js/uikit.minaead.js?ver=5.0.3'></script>
-        <script type='text/javascript' src='wp-content/themes/brick/assets/lib/uikit/js/components/grid.minaead.js?ver=5.0.3'></script>
-        <script type='text/javascript' src='wp-content/themes/brick/assets/lib/uikit/js/components/slider.minaead.js?ver=5.0.3'></script>
-        <script type='text/javascript' src='wp-content/themes/brick/assets/lib/uikit/js/components/slideshow.minaead.js?ver=5.0.3'></script>
-        <script type='text/javascript' src='wp-content/themes/brick/assets/lib/uikit/js/components/slideset.minaead.js?ver=5.0.3'></script>
-        <script type='text/javascript' src='wp-content/themes/brick/assets/lib/uikit/js/components/lightbox.minaead.js?ver=5.0.3'></script>
-        <script type='text/javascript' src='wp-content/themes/brick/assets/lib/uikit/js/components/sticky.minaead.js?ver=5.0.3'></script>
-        <script type='text/javascript' src='wp-content/themes/brick/assets/lib/slick-master/slick/slick.minaead.js?ver=5.0.3'></script>
-        <script type='text/javascript' src='wp-content/themes/brick/assets/lib/fotorama-4.6.4/fotoramaaead.js?ver=5.0.3'></script>
-        <script type='text/javascript' src='wp-content/themes/brick/assets/lib/loading/modernizr.minaead.js?ver=5.0.3'></script>
-        <script type='text/javascript' src='wp-content/themes/brick/assets/js/main.minaead.js?ver=5.0.3'></script>
-        <script type='text/javascript' src='wp-content/plugins/Ultimate_VC_Addons/assets/min-js/flip-box.minf28f.js?ver=3.16.12'></script>
-        <script type='text/javascript' src='wp-includes/js/wp-embed.minaead.js?ver=5.0.3'></script>
-        <script type='text/javascript' src='wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min5fba.js?ver=5.2'></script>
-        
-    </body> <!--end body-->
-</html> 
+	<!-- WOW
+	================================================== -->
+        <script src="assets/js/wow.min.js"></script>
+	<script>wow=new WOW({animateClass:"animated",offset:100,callback:function(a){console.log("WOW: animating <"+a.tagName.toLowerCase()+">")}}),wow.init();</script>
+	
+	<!-- fontawesome
+	================================================== -->
+        <script defer src="assets/js/all.js" integrity="sha384-3yBLeJ4waqGSAf4A8pjZ13UF7GuhgbdKnBQvIp/TkWoXtQbtwjlIPNjkDRJ46UCn" crossorigin="anonymous"></script>
+		
+	<!-- Scroll
+	================================================== -->
+	<script>$(window).scroll(function() {if ($(this).scrollTop() >= 200) {$('#return-to-top').fadeIn(300);} else {$('#return-to-top').fadeOut(300);}});$('#return-to-top').click(function() {
+            $('body,html').animate({scrollTop : 0}, 500);});</script>
+
+	<script>$(function(){var r=$("#header nav");$(window).scroll(function(){$(window).scrollTop()>=60?(r.removeClass("bg-custom").addClass("bg-custom-scrolled")):(r.removeClass("bg-custom-scrolled").addClass("bg-custom"))})})</script>
+	<script>$(document).ready(function(){var $root=$("html, body");$("#more a").click(function(t){t.preventDefault();var r=$.attr(this,"href"),o=$(r).offset().top-115;return $root.animate({scrollTop:o},1e3),!1});})</script>	
+	<script>$(document).ready(function(){var $root=$("html, body");$("#more1 a").click(function(t){t.preventDefault();var r=$.attr(this,"href"),o=$(r).offset().top-115;return $root.animate({scrollTop:o},1e3),!1});})</script>
+    </body>
+</html>
+
