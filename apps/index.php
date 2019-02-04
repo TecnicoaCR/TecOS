@@ -153,9 +153,20 @@
                     <div class="col-md-6 col-lg-4 d-flex align-items-stretch pb-5">
                         <div class="shadow-box bg-white border-t-5 border-red rounded-br-lg">
                             <div class="blog-info thumb">
-                                <a href="php-passwdhash-online-tool/">
+                                <a>
                                     <img src="../assets/img/content/sistema-inventario-tecnicoacr.jpg" class="img-fluid" width="480" height="320" alt="Sistema de Inventario de TecnicoaCR">
                                     <h3>TecOS_PHP_PASSWORD_HASH_ONLINE_TOOL</h3>
+                                </a>
+                                <p>Gestione sus inventarios con esta aplicacion sencilla pero poderosa para gestionar sus procesos</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4 d-flex align-items-stretch pb-5">
+                        <div class="shadow-box bg-white border-t-5 border-red rounded-br-lg">
+                            <div class="blog-info thumb">
+                                <a href="MyVehicle/">
+                                    <img src="../assets/img/content/sistema-inventario-tecnicoacr.jpg" class="img-fluid" width="480" height="320" alt="Sistema de Inventario de TecnicoaCR">
+                                    <h3>TecOS_MyVehicle</h3>
                                 </a>
                                 <p>Gestione sus inventarios con esta aplicacion sencilla pero poderosa para gestionar sus procesos</p>
                             </div>
